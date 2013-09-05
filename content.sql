@@ -13,3 +13,4 @@ SELECT * from ltqbr;
 SELECT * from ncdaj;
 SELECT * from xotys;
 SELECT * from dtyuv;
+SELECT * from kntdm;
