@@ -14,4 +14,4 @@ SELECT * from ncdaj;
 SELECT * from xotys;
 SELECT * from dtyuv;
 SELECT * from xjmxt;
-SELECT * from dvkyq;
+SELECT * from aqspy;
