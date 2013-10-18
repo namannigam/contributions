@@ -3550,4 +3550,4 @@ SELECT * from ptbkx;
 SELECT * from bngyk;
 SELECT * from edxvm;
 SELECT * from otyci;
-SELECT * from afvkk;
+SELECT * from jmpxk;
