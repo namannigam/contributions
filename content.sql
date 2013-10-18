@@ -1782,4 +1782,4 @@ SELECT * from aquov;
 SELECT * from qimhq;
 SELECT * from hcujh;
 SELECT * from bjrau;
-SELECT * from ygoha;
+SELECT * from psmrs;
