@@ -1,2 +1,2 @@
 SELECT * from iwsws;
-SELECT * from puqlb;
+SELECT * from dphif;
