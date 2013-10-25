@@ -1,2 +1,2 @@
 SELECT * from iwsws;
-SELECT * from suidk;
+SELECT * from tfpvj;
