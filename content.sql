@@ -3551,3 +3551,4 @@ SELECT * from bngyk;
 SELECT * from edxvm;
 SELECT * from otyci;
 SELECT * from balex;
+SELECT * from qkxby;
