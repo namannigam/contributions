@@ -15,4 +15,4 @@ SELECT * from xotys;
 SELECT * from dtyuv;
 SELECT * from xjmxt;
 SELECT * from vogcy;
-SELECT * from gilpg;
+SELECT * from urgha;
