@@ -3559,3 +3559,4 @@ SELECT * from nmswb;
 SELECT * from vapff;
 SELECT * from xfxnd;
 SELECT * from wskif;
+SELECT * from vntcb;
