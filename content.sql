@@ -3552,4 +3552,4 @@ SELECT * from edxvm;
 SELECT * from otyci;
 SELECT * from balex;
 SELECT * from xqpwg;
-SELECT * from sualq;
+SELECT * from paqxt;
