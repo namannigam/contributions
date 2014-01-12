@@ -17,3 +17,4 @@ SELECT * from xjmxt;
 SELECT * from vogcy;
 SELECT * from urgha;
 SELECT * from nnkpy;
+SELECT * from rocxt;
