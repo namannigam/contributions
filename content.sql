@@ -3560,3 +3560,4 @@ SELECT * from vapff;
 SELECT * from xfxnd;
 SELECT * from wskif;
 SELECT * from nbqrc;
+SELECT * from yxedi;
