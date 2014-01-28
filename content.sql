@@ -3554,3 +3554,4 @@ SELECT * from balex;
 SELECT * from xqpwg;
 SELECT * from tmxap;
 SELECT * from escnc;
+SELECT * from vnrtm;
