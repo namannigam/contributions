@@ -18,3 +18,4 @@ SELECT * from vogcy;
 SELECT * from urgha;
 SELECT * from nnkpy;
 SELECT * from rocxt;
+SELECT * from gveuy;
