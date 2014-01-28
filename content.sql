@@ -1786,3 +1786,4 @@ SELECT * from csscb;
 SELECT * from xjwal;
 SELECT * from polcb;
 SELECT * from erhbg;
+SELECT * from glpji;
