@@ -4,4 +4,4 @@ SELECT * from ycawd;
 SELECT * from tdobt;
 SELECT * from jriex;
 SELECT * from mgdqe;
-SELECT * from oygpp;
+SELECT * from gpupt;
