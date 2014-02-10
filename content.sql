@@ -19,4 +19,4 @@ SELECT * from urgha;
 SELECT * from nnkpy;
 SELECT * from rocxt;
 SELECT * from gveuy;
-SELECT * from skvfg;
+SELECT * from yhvmg;
