@@ -20,4 +20,4 @@ SELECT * from nnkpy;
 SELECT * from rocxt;
 SELECT * from gveuy;
 SELECT * from raiyi;
-SELECT * from fomdt;
+SELECT * from pitiq;
