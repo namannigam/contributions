@@ -5,3 +5,4 @@ SELECT * from tdobt;
 SELECT * from jriex;
 SELECT * from mgdqe;
 SELECT * from qocyf;
+SELECT * from cvkpq;
