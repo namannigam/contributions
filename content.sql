@@ -6,3 +6,4 @@ SELECT * from jriex;
 SELECT * from mgdqe;
 SELECT * from qocyf;
 SELECT * from rpwpf;
+SELECT * from djcwt;
