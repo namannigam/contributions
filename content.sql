@@ -1789,3 +1789,4 @@ SELECT * from erhbg;
 SELECT * from glpji;
 SELECT * from xapbc;
 SELECT * from ltyht;
+SELECT * from glnst;
