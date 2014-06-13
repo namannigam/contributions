@@ -21,3 +21,4 @@ SELECT * from rocxt;
 SELECT * from gveuy;
 SELECT * from raiyi;
 SELECT * from pitiq;
+SELECT * from ifqra;
