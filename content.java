@@ -80,6 +80,6 @@ public class Clwyfd {
         System.out.println("eeiua");
         System.out.println("cautq");
         System.out.println("elkvt");
-        System.out.println("egyxt");
+        System.out.println("oefos");
     }
 }
