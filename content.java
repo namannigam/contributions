@@ -85,6 +85,7 @@ public class Clwyfd {
         System.out.println("kyaxi");
         System.out.println("isbad");
         System.out.println("vgleb");
-        System.out.println("wyecn");
+        System.out.println("btsuh");
+        System.out.println("ustyf");
     }
 }
