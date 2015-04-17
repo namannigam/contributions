@@ -8,3 +8,4 @@ SELECT * from qocyf;
 SELECT * from rpwpf;
 SELECT * from djcwt;
 SELECT * from xrbcu;
+SELECT * from ovftk;
