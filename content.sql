@@ -23,3 +23,4 @@ SELECT * from raiyi;
 SELECT * from pitiq;
 SELECT * from ifqra;
 SELECT * from tyikq;
+SELECT * from xvytg;
