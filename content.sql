@@ -9,3 +9,4 @@ SELECT * from rpwpf;
 SELECT * from djcwt;
 SELECT * from xrbcu;
 SELECT * from ovftk;
+SELECT * from ltqbr;
