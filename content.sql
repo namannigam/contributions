@@ -3567,3 +3567,4 @@ SELECT * from kwexa;
 SELECT * from ffwgi;
 SELECT * from csdbg;
 SELECT * from jkppr;
+SELECT * from pqsyt;
