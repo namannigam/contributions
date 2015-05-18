@@ -115,6 +115,8 @@ public class Clwyfd {
         System.out.println("psmtv");
         System.out.println("cbsrl");
         System.out.println("msedt");
-        System.out.println("frrfw");
+        System.out.println("vbsty");
+        System.out.println("ognum");
+        System.out.println("wkggh");
     }
 }
