@@ -208,6 +208,5 @@ public class Clwyfd {
         System.out.println("gytwb");
         System.out.println("ulsqn");
         System.out.println("ohvtx");
-        System.out.println("cvtla");
     }
 }
