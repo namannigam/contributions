@@ -126,6 +126,5 @@ public class Clwyfd {
         System.out.println("lgfya");
         System.out.println("ynlgk");
         System.out.println("lkovt");
-        System.out.println("ruvbd");
     }
 }
