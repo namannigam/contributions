@@ -10,4 +10,4 @@ SELECT * from djcwt;
 SELECT * from xrbcu;
 SELECT * from ovftk;
 SELECT * from ltqbr;
-SELECT * from cqahs;
+SELECT * from ncdaj;
