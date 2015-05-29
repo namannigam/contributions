@@ -25,4 +25,4 @@ SELECT * from ifqra;
 SELECT * from tyikq;
 SELECT * from xvytg;
 SELECT * from xnqpu;
-SELECT * from ecguh;
+SELECT * from jyeay;
