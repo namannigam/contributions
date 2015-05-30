@@ -11,3 +11,4 @@ SELECT * from xrbcu;
 SELECT * from ovftk;
 SELECT * from ltqbr;
 SELECT * from ncdaj;
+SELECT * from xotys;
