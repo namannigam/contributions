@@ -3569,3 +3569,5 @@ SELECT * from csdbg;
 SELECT * from jkppr;
 SELECT * from pqsyt;
 SELECT * from iknob;
+SELECT * from frnqa;
+SELECT * from agesc;
