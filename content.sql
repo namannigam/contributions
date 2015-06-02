@@ -1795,4 +1795,4 @@ SELECT * from xfvth;
 SELECT * from fghbr;
 SELECT * from wkcrq;
 SELECT * from iywoy;
-SELECT * from oswtp;
+SELECT * from flsws;
