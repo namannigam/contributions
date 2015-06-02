@@ -12,4 +12,4 @@ SELECT * from ovftk;
 SELECT * from ltqbr;
 SELECT * from ncdaj;
 SELECT * from xotys;
-SELECT * from qeovx;
+SELECT * from dtyuv;
