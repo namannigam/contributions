@@ -27,4 +27,4 @@ SELECT * from xvytg;
 SELECT * from xnqpu;
 SELECT * from jyeay;
 SELECT * from qestf;
-SELECT * from qkdfs;
+SELECT * from efokl;
