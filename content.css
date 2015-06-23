@@ -1737,5 +1737,6 @@
   margin-top: 61px;
   padding-left: 75px;
   font-size: 42px;
-  padding-right: 78px;
+  line-height: 1px;
+  padding-left: 9px;
 }
