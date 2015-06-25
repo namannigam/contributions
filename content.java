@@ -9775,7 +9775,6 @@ public class Clwyfd {
         System.out.println("benri");
         System.out.println("ljmeg");
         System.out.println("mrrbb");
-        System.out.println("seipj");
-        System.out.println("qynae");
+        System.out.println("msngh");
     }
 }
