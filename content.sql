@@ -28,4 +28,5 @@ SELECT * from xnqpu;
 SELECT * from jyeay;
 SELECT * from qestf;
 SELECT * from odqyi;
-SELECT * from vlyau;
+SELECT * from slmid;
+SELECT * from qikwa;
