@@ -29,4 +29,4 @@ SELECT * from jyeay;
 SELECT * from qestf;
 SELECT * from odqyi;
 SELECT * from slmid;
-SELECT * from qikwa;
+SELECT * from bmjpw;
