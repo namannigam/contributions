@@ -1796,4 +1796,5 @@ SELECT * from fghbr;
 SELECT * from wkcrq;
 SELECT * from iywoy;
 SELECT * from vualc;
-SELECT * from usqyi;
+SELECT * from lfrhm;
+SELECT * from xlgud;
