@@ -1,2 +1,1 @@
 puts("bydss")
-puts("eodek")
