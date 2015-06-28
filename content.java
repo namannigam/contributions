@@ -228,7 +228,5 @@ public class Clwyfd {
         System.out.println("ueyuv");
         System.out.println("mcbfc");
         System.out.println("vmwsx");
-        System.out.println("pkdxs");
-        System.out.println("ubaau");
     }
 }
