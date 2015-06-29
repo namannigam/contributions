@@ -1798,3 +1798,4 @@ SELECT * from iywoy;
 SELECT * from vualc;
 SELECT * from lfrhm;
 SELECT * from enino;
+SELECT * from wnpov;
