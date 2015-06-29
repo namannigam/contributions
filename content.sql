@@ -31,3 +31,4 @@ SELECT * from odqyi;
 SELECT * from slmid;
 SELECT * from thrsa;
 SELECT * from yraot;
+SELECT * from eovho;
