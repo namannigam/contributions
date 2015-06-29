@@ -3573,3 +3573,4 @@ SELECT * from frnqa;
 SELECT * from ehiao;
 SELECT * from earrx;
 SELECT * from jqtfa;
+SELECT * from wcqij;
