@@ -1800,3 +1800,4 @@ SELECT * from lfrhm;
 SELECT * from enino;
 SELECT * from wnpov;
 SELECT * from iuqpa;
+SELECT * from oelkr;
