@@ -3577,3 +3577,4 @@ SELECT * from wcqij;
 SELECT * from qdmkp;
 SELECT * from ktnav;
 SELECT * from gefrn;
+SELECT * from lrrxt;
