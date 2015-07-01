@@ -34,3 +34,4 @@ SELECT * from yraot;
 SELECT * from eovho;
 SELECT * from ajqio;
 SELECT * from etmvm;
+SELECT * from vusqv;
