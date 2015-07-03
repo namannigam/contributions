@@ -1803,3 +1803,4 @@ SELECT * from iuqpa;
 SELECT * from oelkr;
 SELECT * from fbqro;
 SELECT * from veqda;
+SELECT * from bwmxg;
