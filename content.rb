@@ -1,2 +1,1 @@
 puts("xktrb")
-puts("xyswf")
