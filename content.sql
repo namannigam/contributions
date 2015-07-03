@@ -1807,3 +1807,4 @@ SELECT * from bwmxg;
 SELECT * from hgffb;
 SELECT * from cwhkq;
 SELECT * from chrsm;
+SELECT * from oasuu;
