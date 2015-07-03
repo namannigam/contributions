@@ -3579,3 +3579,4 @@ SELECT * from ktnav;
 SELECT * from gefrn;
 SELECT * from lrrxt;
 SELECT * from umrip;
+SELECT * from uxwlb;
