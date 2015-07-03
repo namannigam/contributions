@@ -38,3 +38,4 @@ SELECT * from vusqv;
 SELECT * from pshav;
 SELECT * from xhfkg;
 SELECT * from ulcky;
+SELECT * from ptvsb;
