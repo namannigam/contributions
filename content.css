@@ -3362,5 +3362,9 @@
   border-bottom-width: 6px;
   border-right-width: 61px;
   border-left-width: 34px;
-  margin-right: 44px;
+  padding-right: 0px;
+  border-bottom-width: 1px;
+  margin-top: 94px;
+  padding-right: 39px;
+  padding-top: 87px;
 }
