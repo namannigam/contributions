@@ -203,5 +203,8 @@
   border-top-width: 15px;
   margin-right: 73px;
   line-height: 32px;
-  border-left-width: 64px;
+  font-size: 73px;
+  padding-bottom: 33px;
+  margin-bottom: 9px;
+  border-right-width: 32px;
 }
