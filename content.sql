@@ -3584,3 +3584,4 @@ SELECT * from fsdsl;
 SELECT * from pnusi;
 SELECT * from djpxa;
 SELECT * from cnkcj;
+SELECT * from vjnba;
