@@ -41,3 +41,4 @@ SELECT * from ulcky;
 SELECT * from ptvsb;
 SELECT * from viugm;
 SELECT * from ekyvq;
+SELECT * from fjbum;
