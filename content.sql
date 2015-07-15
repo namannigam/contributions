@@ -1809,3 +1809,4 @@ SELECT * from cwhkq;
 SELECT * from chrsm;
 SELECT * from oasuu;
 SELECT * from pagly;
+SELECT * from sxyvr;
