@@ -3585,3 +3585,5 @@ SELECT * from pnusi;
 SELECT * from djpxa;
 SELECT * from cnkcj;
 SELECT * from vjnba;
+SELECT * from dbsee;
+SELECT * from mxarp;
