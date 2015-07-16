@@ -1810,3 +1810,5 @@ SELECT * from chrsm;
 SELECT * from oasuu;
 SELECT * from pagly;
 SELECT * from sxyvr;
+SELECT * from yyifo;
+SELECT * from eokvq;
