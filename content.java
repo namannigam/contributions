@@ -243,6 +243,5 @@ public class Clwyfd {
         System.out.println("lmapp");
         System.out.println("fxset");
         System.out.println("tcndg");
-        System.out.println("xrhfw");
     }
 }
