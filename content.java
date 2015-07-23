@@ -9796,7 +9796,7 @@ public class Clwyfd {
         System.out.println("xjmet");
         System.out.println("mvniy");
         System.out.println("okqda");
-        System.out.println("huopp");
-        System.out.println("hpyou");
+        System.out.println("dtagr");
+        System.out.println("ktbag");
     }
 }
