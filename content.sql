@@ -1813,4 +1813,5 @@ SELECT * from sxyvr;
 SELECT * from yyifo;
 SELECT * from eokvq;
 SELECT * from dkdtq;
-SELECT * from wmyhm;
+SELECT * from pwmsr;
+SELECT * from tkgex;
