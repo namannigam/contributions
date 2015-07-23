@@ -1815,3 +1815,4 @@ SELECT * from eokvq;
 SELECT * from dkdtq;
 SELECT * from pwmsr;
 SELECT * from tkgex;
+SELECT * from chxwa;
