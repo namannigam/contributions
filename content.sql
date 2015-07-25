@@ -3591,3 +3591,4 @@ SELECT * from omtaa;
 SELECT * from dqjks;
 SELECT * from awvdc;
 SELECT * from ipoom;
+SELECT * from qdaii;
