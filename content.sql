@@ -1817,3 +1817,4 @@ SELECT * from pwmsr;
 SELECT * from tkgex;
 SELECT * from chxwa;
 SELECT * from xwsbe;
+SELECT * from bxdmc;
