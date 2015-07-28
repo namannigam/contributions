@@ -1819,3 +1819,4 @@ SELECT * from chxwa;
 SELECT * from xwsbe;
 SELECT * from bxdmc;
 SELECT * from nqath;
+SELECT * from ltenx;
