@@ -3594,3 +3594,4 @@ SELECT * from ipoom;
 SELECT * from qdaii;
 SELECT * from xpdet;
 SELECT * from cvvmm;
+SELECT * from oxckm;
