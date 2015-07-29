@@ -52,3 +52,4 @@ SELECT * from dtgxa;
 SELECT * from rfbop;
 SELECT * from dcreh;
 SELECT * from tfxwa;
+SELECT * from hgxmy;
