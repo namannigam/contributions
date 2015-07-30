@@ -3596,3 +3596,4 @@ SELECT * from xpdet;
 SELECT * from cvvmm;
 SELECT * from oxckm;
 SELECT * from qipgk;
+SELECT * from vrour;
