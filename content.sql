@@ -1821,3 +1821,4 @@ SELECT * from bxdmc;
 SELECT * from nqath;
 SELECT * from ltenx;
 SELECT * from oyphv;
+SELECT * from uamgy;
