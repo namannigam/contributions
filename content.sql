@@ -1823,3 +1823,4 @@ SELECT * from ltenx;
 SELECT * from oyphv;
 SELECT * from uamgy;
 SELECT * from vdkwn;
+SELECT * from cmiei;
