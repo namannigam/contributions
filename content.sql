@@ -55,3 +55,4 @@ SELECT * from tfxwa;
 SELECT * from hgxmy;
 SELECT * from nekss;
 SELECT * from puipc;
+SELECT * from dkumu;
