@@ -3598,3 +3598,4 @@ SELECT * from oxckm;
 SELECT * from qipgk;
 SELECT * from vrour;
 SELECT * from pfakm;
+SELECT * from mnwhy;
