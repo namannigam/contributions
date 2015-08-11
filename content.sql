@@ -1826,3 +1826,4 @@ SELECT * from vdkwn;
 SELECT * from cmiei;
 SELECT * from usbhl;
 SELECT * from kvogg;
+SELECT * from kwmra;
