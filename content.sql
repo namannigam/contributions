@@ -56,3 +56,4 @@ SELECT * from hgxmy;
 SELECT * from nekss;
 SELECT * from puipc;
 SELECT * from dkumu;
+SELECT * from dnpta;
