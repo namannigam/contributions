@@ -1827,3 +1827,4 @@ SELECT * from cmiei;
 SELECT * from usbhl;
 SELECT * from kvogg;
 SELECT * from kwmra;
+SELECT * from llsyo;
