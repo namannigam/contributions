@@ -262,7 +262,7 @@ public class Clwyfd {
         System.out.println("jwlce");
         System.out.println("owqns");
         System.out.println("hrqsq");
-        System.out.println("hefeo");
-        System.out.println("emvff");
+        System.out.println("gmyuy");
+        System.out.println("wdqls");
     }
 }
