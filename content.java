@@ -9810,7 +9810,7 @@ public class Clwyfd {
         System.out.println("awwgi");
         System.out.println("ebqlm");
         System.out.println("smxxa");
-        System.out.println("gtcjr");
-        System.out.println("cjldy");
+        System.out.println("fnbtv");
+        System.out.println("praty");
     }
 }
