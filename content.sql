@@ -60,3 +60,4 @@ SELECT * from dnpta;
 SELECT * from wqbec;
 SELECT * from uratq;
 SELECT * from dkjoj;
+SELECT * from sypky;
