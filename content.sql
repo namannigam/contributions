@@ -1828,3 +1828,4 @@ SELECT * from usbhl;
 SELECT * from kvogg;
 SELECT * from kwmra;
 SELECT * from llsyo;
+SELECT * from wgwsm;
