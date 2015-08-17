@@ -61,3 +61,4 @@ SELECT * from wqbec;
 SELECT * from uratq;
 SELECT * from dkjoj;
 SELECT * from sypky;
+SELECT * from fjsma;
