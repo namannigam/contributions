@@ -62,3 +62,5 @@ SELECT * from uratq;
 SELECT * from dkjoj;
 SELECT * from sypky;
 SELECT * from fjsma;
+SELECT * from jicte;
+SELECT * from flpel;
