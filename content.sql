@@ -64,3 +64,4 @@ SELECT * from sypky;
 SELECT * from fjsma;
 SELECT * from jicte;
 SELECT * from flpel;
+SELECT * from etbgn;
