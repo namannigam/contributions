@@ -68,3 +68,4 @@ SELECT * from etbgn;
 SELECT * from pvcbw;
 SELECT * from ofspe;
 SELECT * from npqbq;
+SELECT * from ghikb;
