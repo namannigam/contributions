@@ -65,3 +65,5 @@ SELECT * from fjsma;
 SELECT * from jicte;
 SELECT * from flpel;
 SELECT * from etbgn;
+SELECT * from pvcbw;
+SELECT * from ofspe;
