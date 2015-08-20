@@ -67,3 +67,4 @@ SELECT * from flpel;
 SELECT * from etbgn;
 SELECT * from pvcbw;
 SELECT * from ofspe;
+SELECT * from npqbq;
