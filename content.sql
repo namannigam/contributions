@@ -69,3 +69,5 @@ SELECT * from pvcbw;
 SELECT * from ofspe;
 SELECT * from npqbq;
 SELECT * from ghikb;
+SELECT * from rarer;
+SELECT * from rhxdu;
