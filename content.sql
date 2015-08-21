@@ -3612,3 +3612,5 @@ SELECT * from ujnwt;
 SELECT * from bbggo;
 SELECT * from dbumw;
 SELECT * from ynvif;
+SELECT * from uflgb;
+SELECT * from uglkc;
