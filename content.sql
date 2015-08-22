@@ -1838,4 +1838,4 @@ SELECT * from lxsjm;
 SELECT * from yarxt;
 SELECT * from xhqci;
 SELECT * from tmdnx;
-SELECT * from ixlov;
+SELECT * from akcik;
