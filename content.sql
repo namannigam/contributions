@@ -1840,3 +1840,4 @@ SELECT * from xhqci;
 SELECT * from tmdnx;
 SELECT * from akcik;
 SELECT * from rfxnf;
+SELECT * from axqkc;
