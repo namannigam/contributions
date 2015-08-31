@@ -1842,3 +1842,4 @@ SELECT * from akcik;
 SELECT * from rfxnf;
 SELECT * from bhjve;
 SELECT * from infyk;
+SELECT * from uhhpt;
