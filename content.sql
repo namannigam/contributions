@@ -73,3 +73,4 @@ SELECT * from rarer;
 SELECT * from hdflf;
 SELECT * from qhxcv;
 SELECT * from jnfrh;
+SELECT * from qkxtk;
