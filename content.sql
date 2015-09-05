@@ -1844,4 +1844,6 @@ SELECT * from bhjve;
 SELECT * from infyk;
 SELECT * from temie;
 SELECT * from lisnb;
-SELECT * from pxjlb;
+SELECT * from pjomc;
+SELECT * from wllpd;
+SELECT * from trcnw;
