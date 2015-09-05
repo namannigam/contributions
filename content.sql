@@ -3619,4 +3619,6 @@ SELECT * from ignmd;
 SELECT * from xytrm;
 SELECT * from dxdvp;
 SELECT * from rbdbp;
-SELECT * from njicw;
+SELECT * from prowo;
+SELECT * from onxlj;
+SELECT * from kinqs;
