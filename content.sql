@@ -76,3 +76,4 @@ SELECT * from jnfrh;
 SELECT * from qkxtk;
 SELECT * from kaqfv;
 SELECT * from dpnda;
+SELECT * from alkyi;
