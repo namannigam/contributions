@@ -75,3 +75,4 @@ SELECT * from qhxcv;
 SELECT * from jnfrh;
 SELECT * from qkxtk;
 SELECT * from kaqfv;
+SELECT * from ykrxw;
