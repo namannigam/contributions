@@ -3618,3 +3618,4 @@ SELECT * from raspv;
 SELECT * from ignmd;
 SELECT * from xytrm;
 SELECT * from dxdvp;
+SELECT * from kjpqy;
