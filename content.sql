@@ -80,3 +80,4 @@ SELECT * from egghp;
 SELECT * from etggm;
 SELECT * from iyhld;
 SELECT * from recdj;
+SELECT * from ojbaj;
