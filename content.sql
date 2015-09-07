@@ -79,3 +79,4 @@ SELECT * from dpnda;
 SELECT * from egghp;
 SELECT * from etggm;
 SELECT * from iyhld;
+SELECT * from recdj;
