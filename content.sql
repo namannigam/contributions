@@ -78,4 +78,3 @@ SELECT * from kaqfv;
 SELECT * from dpnda;
 SELECT * from egghp;
 SELECT * from etggm;
-SELECT * from jtdmm;
