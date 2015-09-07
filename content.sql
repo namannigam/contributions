@@ -1847,3 +1847,4 @@ SELECT * from lisnb;
 SELECT * from pjomc;
 SELECT * from wllpd;
 SELECT * from dossg;
+SELECT * from mgxgs;
