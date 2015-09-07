@@ -1848,3 +1848,4 @@ SELECT * from pjomc;
 SELECT * from wllpd;
 SELECT * from dossg;
 SELECT * from mgxgs;
+SELECT * from weyxx;
