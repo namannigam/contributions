@@ -3621,4 +3621,4 @@ SELECT * from dxdvp;
 SELECT * from rbdbp;
 SELECT * from prowo;
 SELECT * from onxlj;
-SELECT * from nnter;
+SELECT * from ngwio;
