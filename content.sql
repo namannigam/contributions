@@ -3624,3 +3624,6 @@ SELECT * from onxlj;
 SELECT * from ngwio;
 SELECT * from fcsjq;
 SELECT * from ipeai;
+SELECT * from hdaus;
+SELECT * from odplr;
+SELECT * from xiomv;
