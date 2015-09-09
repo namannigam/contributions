@@ -83,4 +83,4 @@ SELECT * from recdj;
 SELECT * from njkgf;
 SELECT * from deqbq;
 SELECT * from qifym;
-SELECT * from xtnbc;
+SELECT * from frkca;
