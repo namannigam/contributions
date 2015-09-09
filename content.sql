@@ -1849,3 +1849,6 @@ SELECT * from wllpd;
 SELECT * from dossg;
 SELECT * from mgxgs;
 SELECT * from ebrir;
+SELECT * from paipi;
+SELECT * from bdicy;
+SELECT * from nrxlh;
