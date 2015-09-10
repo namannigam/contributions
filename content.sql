@@ -84,4 +84,5 @@ SELECT * from njkgf;
 SELECT * from deqbq;
 SELECT * from qifym;
 SELECT * from frkca;
-SELECT * from skppy;
+SELECT * from gkxgo;
+SELECT * from bioix;
