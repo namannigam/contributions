@@ -3627,4 +3627,5 @@ SELECT * from ipeai;
 SELECT * from hdaus;
 SELECT * from odplr;
 SELECT * from oobul;
-SELECT * from esnbr;
+SELECT * from dejap;
+SELECT * from luqta;
