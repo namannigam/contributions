@@ -3631,3 +3631,5 @@ SELECT * from dejap;
 SELECT * from ejpxl;
 SELECT * from mqvjm;
 SELECT * from javyl;
+SELECT * from oceas;
+SELECT * from rojje;
