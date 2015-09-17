@@ -1854,3 +1854,4 @@ SELECT * from bdicy;
 SELECT * from kuhxc;
 SELECT * from vwjrv;
 SELECT * from ngpcx;
+SELECT * from ufyrh;
