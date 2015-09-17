@@ -1856,3 +1856,5 @@ SELECT * from vwjrv;
 SELECT * from ngpcx;
 SELECT * from ufyrh;
 SELECT * from nqbcv;
+SELECT * from xeumi;
+SELECT * from rorxq;
