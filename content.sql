@@ -88,3 +88,5 @@ SELECT * from gkxgo;
 SELECT * from mmtrh;
 SELECT * from mjfrh;
 SELECT * from tifnd;
+SELECT * from hqgdg;
+SELECT * from ayaxd;
