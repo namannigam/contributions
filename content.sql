@@ -86,3 +86,4 @@ SELECT * from qifym;
 SELECT * from frkca;
 SELECT * from gkxgo;
 SELECT * from mmtrh;
+SELECT * from mjfrh;
