@@ -92,3 +92,4 @@ SELECT * from hqgdg;
 SELECT * from kqkgc;
 SELECT * from ettbc;
 SELECT * from mjcff;
+SELECT * from elevq;
