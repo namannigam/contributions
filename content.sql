@@ -94,3 +94,8 @@ SELECT * from ettbc;
 SELECT * from mjcff;
 SELECT * from frtmw;
 SELECT * from wwqqc;
+SELECT * from cursf;
+SELECT * from ygxxl;
+SELECT * from huduo;
+SELECT * from alksj;
+SELECT * from ducqt;
