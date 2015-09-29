@@ -93,3 +93,4 @@ SELECT * from kqkgc;
 SELECT * from ettbc;
 SELECT * from mjcff;
 SELECT * from frtmw;
+SELECT * from wwcbj;
