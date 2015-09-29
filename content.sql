@@ -1862,3 +1862,8 @@ SELECT * from hmjwp;
 SELECT * from pkynx;
 SELECT * from mfcwr;
 SELECT * from jowem;
+SELECT * from picmd;
+SELECT * from jcmuj;
+SELECT * from cupgh;
+SELECT * from wdsvb;
+SELECT * from jolag;
