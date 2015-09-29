@@ -3637,3 +3637,8 @@ SELECT * from nushb;
 SELECT * from ympyy;
 SELECT * from cbafy;
 SELECT * from dqptd;
+SELECT * from jococ;
+SELECT * from eetja;
+SELECT * from lijpu;
+SELECT * from lhtjb;
+SELECT * from psotd;
