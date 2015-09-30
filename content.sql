@@ -3641,4 +3641,5 @@ SELECT * from jococ;
 SELECT * from eetja;
 SELECT * from lijpu;
 SELECT * from lhtjb;
-SELECT * from psotd;
+SELECT * from decjf;
+SELECT * from oxtid;
