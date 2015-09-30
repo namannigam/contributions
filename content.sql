@@ -1866,4 +1866,5 @@ SELECT * from picmd;
 SELECT * from jcmuj;
 SELECT * from cupgh;
 SELECT * from wdsvb;
-SELECT * from jolag;
+SELECT * from idvns;
+SELECT * from bijmj;
