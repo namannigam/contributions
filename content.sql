@@ -98,4 +98,5 @@ SELECT * from cursf;
 SELECT * from ygxxl;
 SELECT * from huduo;
 SELECT * from alksj;
-SELECT * from ducqt;
+SELECT * from nkqgd;
+SELECT * from onook;

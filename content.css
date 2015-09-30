@@ -304,5 +304,14 @@
   padding-bottom: 13px;
   margin-left: 10px;
   padding-right: 42px;
-  border-top-width: 81px;
+  border-left-width: 42px;
+  padding-top: 59px;
+  padding-left: 2px;
+  font-size: 85px;
+  border-top-width: 70px;
+  padding-top: 67px;
+  border-bottom-width: 78px;
+  border-right-width: 49px;
+  padding-left: 96px;
+  padding-right: 77px;
 }
