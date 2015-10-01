@@ -100,3 +100,4 @@ SELECT * from huduo;
 SELECT * from alksj;
 SELECT * from nkqgd;
 SELECT * from onook;
+SELECT * from wrgie;
