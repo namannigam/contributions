@@ -101,3 +101,5 @@ SELECT * from alksj;
 SELECT * from nkqgd;
 SELECT * from onook;
 SELECT * from wrgie;
+SELECT * from mudwi;
+SELECT * from uauud;
