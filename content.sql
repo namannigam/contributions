@@ -3644,3 +3644,5 @@ SELECT * from lhtjb;
 SELECT * from decjf;
 SELECT * from oxtid;
 SELECT * from ijttg;
+SELECT * from uakpv;
+SELECT * from alelj;
