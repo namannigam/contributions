@@ -299,6 +299,6 @@ public class Clwyfd {
         System.out.println("dydpm");
         System.out.println("pahak");
         System.out.println("kulhv");
-        System.out.println("kahaj");
+        System.out.println("ostoy");
     }
 }
