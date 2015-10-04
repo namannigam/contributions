@@ -1872,3 +1872,4 @@ SELECT * from jesfd;
 SELECT * from vgpcb;
 SELECT * from qhkhy;
 SELECT * from wqtnl;
+SELECT * from wjxoc;
