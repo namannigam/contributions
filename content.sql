@@ -104,3 +104,4 @@ SELECT * from wrgie;
 SELECT * from mudwi;
 SELECT * from uauud;
 SELECT * from cqeuk;
+SELECT * from mywwq;
