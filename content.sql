@@ -107,3 +107,4 @@ SELECT * from cqeuk;
 SELECT * from mywwq;
 SELECT * from jelqn;
 SELECT * from ajxhf;
+SELECT * from vxrns;
