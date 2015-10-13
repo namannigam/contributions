@@ -1880,3 +1880,5 @@ SELECT * from ypocn;
 SELECT * from scywb;
 SELECT * from umdam;
 SELECT * from ggntm;
+SELECT * from leprl;
+SELECT * from goryo;
