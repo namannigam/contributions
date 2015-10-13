@@ -1879,3 +1879,4 @@ SELECT * from syujo;
 SELECT * from ypocn;
 SELECT * from scywb;
 SELECT * from umdam;
+SELECT * from ggntm;
