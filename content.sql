@@ -1878,3 +1878,4 @@ SELECT * from xukji;
 SELECT * from syujo;
 SELECT * from ypocn;
 SELECT * from scywb;
+SELECT * from flrpu;
