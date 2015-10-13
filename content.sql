@@ -1875,4 +1875,6 @@ SELECT * from wqtnl;
 SELECT * from wjxoc;
 SELECT * from ecxco;
 SELECT * from xukji;
-SELECT * from ovost;
+SELECT * from syujo;
+SELECT * from ypocn;
+SELECT * from scywb;
