@@ -3650,4 +3650,6 @@ SELECT * from ixnqv;
 SELECT * from fhhxv;
 SELECT * from qgapo;
 SELECT * from hcyhq;
-SELECT * from epwmy;
+SELECT * from pyijr;
+SELECT * from covws;
+SELECT * from hecrw;
