@@ -111,3 +111,4 @@ SELECT * from xvfkj;
 SELECT * from ttagd;
 SELECT * from nousl;
 SELECT * from mtwsg;
+SELECT * from egxvw;
