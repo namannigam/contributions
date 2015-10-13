@@ -112,3 +112,8 @@ SELECT * from ttagd;
 SELECT * from nousl;
 SELECT * from mtwsg;
 SELECT * from egxvw;
+SELECT * from isjgs;
+SELECT * from ddjjx;
+SELECT * from iwfbg;
+SELECT * from xxgmr;
+SELECT * from lpqts;
