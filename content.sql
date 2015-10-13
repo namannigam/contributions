@@ -1882,3 +1882,6 @@ SELECT * from umdam;
 SELECT * from ggntm;
 SELECT * from leprl;
 SELECT * from goryo;
+SELECT * from mdvjs;
+SELECT * from fsmgv;
+SELECT * from rvuth;
