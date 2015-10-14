@@ -3661,3 +3661,4 @@ SELECT * from sggqh;
 SELECT * from bremv;
 SELECT * from uoapx;
 SELECT * from oodiv;
+SELECT * from ygkqy;
