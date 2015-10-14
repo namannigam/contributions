@@ -118,3 +118,4 @@ SELECT * from iwfbg;
 SELECT * from xxgmr;
 SELECT * from lpqts;
 SELECT * from gvjcn;
+SELECT * from edhem;
