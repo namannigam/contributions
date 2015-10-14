@@ -1885,4 +1885,4 @@ SELECT * from goryo;
 SELECT * from mdvjs;
 SELECT * from fsmgv;
 SELECT * from rvuth;
-SELECT * from nawsx;
+SELECT * from glwow;
