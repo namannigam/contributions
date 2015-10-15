@@ -3662,3 +3662,6 @@ SELECT * from bremv;
 SELECT * from uoapx;
 SELECT * from oodiv;
 SELECT * from rgcle;
+SELECT * from dpdia;
+SELECT * from hqkwb;
+SELECT * from pxlnt;
