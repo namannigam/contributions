@@ -119,3 +119,6 @@ SELECT * from xxgmr;
 SELECT * from lpqts;
 SELECT * from gvjcn;
 SELECT * from wjynq;
+SELECT * from ysffi;
+SELECT * from kgxqx;
+SELECT * from ejhky;
