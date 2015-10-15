@@ -1887,3 +1887,6 @@ SELECT * from fsmgv;
 SELECT * from rvuth;
 SELECT * from glwow;
 SELECT * from jmclb;
+SELECT * from dmrcf;
+SELECT * from xblgo;
+SELECT * from rathb;
