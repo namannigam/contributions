@@ -122,3 +122,4 @@ SELECT * from wjynq;
 SELECT * from ysffi;
 SELECT * from kgxqx;
 SELECT * from uprth;
+SELECT * from ugbnv;
