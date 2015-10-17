@@ -1894,3 +1894,4 @@ SELECT * from awiwr;
 SELECT * from ewyvb;
 SELECT * from jcolt;
 SELECT * from roeji;
+SELECT * from nucwi;
