@@ -125,3 +125,4 @@ SELECT * from uprth;
 SELECT * from ugbnv;
 SELECT * from iathk;
 SELECT * from jxuge;
+SELECT * from dumlw;
