@@ -3668,3 +3668,4 @@ SELECT * from bgwfc;
 SELECT * from dptjp;
 SELECT * from xqgcw;
 SELECT * from dwjre;
+SELECT * from nipoa;
