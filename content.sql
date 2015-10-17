@@ -126,4 +126,4 @@ SELECT * from ugbnv;
 SELECT * from iathk;
 SELECT * from jxuge;
 SELECT * from dumlw;
-SELECT * from stoig;
+SELECT * from ehrfb;
