@@ -3666,3 +3666,5 @@ SELECT * from dpdia;
 SELECT * from hqkwb;
 SELECT * from bgwfc;
 SELECT * from dptjp;
+SELECT * from xqgcw;
+SELECT * from dwjre;
