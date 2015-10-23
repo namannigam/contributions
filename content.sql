@@ -127,3 +127,4 @@ SELECT * from iathk;
 SELECT * from jxuge;
 SELECT * from dumlw;
 SELECT * from rtmiq;
+SELECT * from kmuts;
