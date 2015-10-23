@@ -128,3 +128,4 @@ SELECT * from jxuge;
 SELECT * from dumlw;
 SELECT * from rtmiq;
 SELECT * from kmuts;
+SELECT * from ulioe;
