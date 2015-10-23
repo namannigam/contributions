@@ -3670,3 +3670,4 @@ SELECT * from xqgcw;
 SELECT * from dwjre;
 SELECT * from nipoa;
 SELECT * from qield;
+SELECT * from awbnj;
