@@ -3674,3 +3674,4 @@ SELECT * from awbnj;
 SELECT * from crdwg;
 SELECT * from vcepv;
 SELECT * from buklo;
+SELECT * from dkqat;
