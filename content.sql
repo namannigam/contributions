@@ -1899,3 +1899,4 @@ SELECT * from dbbah;
 SELECT * from yqovw;
 SELECT * from usyuc;
 SELECT * from vkoxy;
+SELECT * from oobue;
