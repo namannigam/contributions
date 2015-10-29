@@ -132,3 +132,4 @@ SELECT * from kcxom;
 SELECT * from ygoxq;
 SELECT * from rigna;
 SELECT * from yeups;
+SELECT * from klcsf;
