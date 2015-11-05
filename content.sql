@@ -1901,3 +1901,4 @@ SELECT * from usyuc;
 SELECT * from vkoxy;
 SELECT * from oobue;
 SELECT * from dfsgw;
+SELECT * from qarax;
