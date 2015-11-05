@@ -134,3 +134,5 @@ SELECT * from rigna;
 SELECT * from yeups;
 SELECT * from klcsf;
 SELECT * from axgbc;
+SELECT * from byjsh;
+SELECT * from scurv;
