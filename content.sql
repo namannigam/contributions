@@ -1902,3 +1902,5 @@ SELECT * from vkoxy;
 SELECT * from oobue;
 SELECT * from dfsgw;
 SELECT * from qarax;
+SELECT * from cpihg;
+SELECT * from fhqon;
