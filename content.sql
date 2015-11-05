@@ -3677,3 +3677,5 @@ SELECT * from buklo;
 SELECT * from dkqat;
 SELECT * from ejvaa;
 SELECT * from ibkfl;
+SELECT * from cybhy;
+SELECT * from nyfhe;
