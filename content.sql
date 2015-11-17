@@ -137,3 +137,4 @@ SELECT * from axgbc;
 SELECT * from byjsh;
 SELECT * from scurv;
 SELECT * from xydxq;
+SELECT * from xnjbw;
