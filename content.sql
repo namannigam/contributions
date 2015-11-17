@@ -1904,3 +1904,4 @@ SELECT * from dfsgw;
 SELECT * from qarax;
 SELECT * from cpihg;
 SELECT * from fhqon;
+SELECT * from rsomj;
