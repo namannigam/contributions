@@ -1906,3 +1906,4 @@ SELECT * from cpihg;
 SELECT * from fhqon;
 SELECT * from rsomj;
 SELECT * from hyrbc;
+SELECT * from nqrfy;
