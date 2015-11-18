@@ -138,3 +138,4 @@ SELECT * from byjsh;
 SELECT * from scurv;
 SELECT * from xydxq;
 SELECT * from xnjbw;
+SELECT * from gfsyg;
