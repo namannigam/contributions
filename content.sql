@@ -141,3 +141,4 @@ SELECT * from xnjbw;
 SELECT * from gfsyg;
 SELECT * from jdrhs;
 SELECT * from ejues;
+SELECT * from ltiot;
