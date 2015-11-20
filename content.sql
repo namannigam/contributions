@@ -1910,3 +1910,4 @@ SELECT * from nqrfy;
 SELECT * from dryhy;
 SELECT * from vlwbm;
 SELECT * from kbnmg;
+SELECT * from cmpan;
