@@ -144,3 +144,4 @@ SELECT * from ejues;
 SELECT * from ltiot;
 SELECT * from wnros;
 SELECT * from lstmy;
+SELECT * from jaxop;
