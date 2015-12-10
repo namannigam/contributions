@@ -3687,3 +3687,4 @@ SELECT * from xwkrb;
 SELECT * from xueic;
 SELECT * from trhqw;
 SELECT * from wjyjq;
+SELECT * from dloda;
