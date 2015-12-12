@@ -1913,4 +1913,3 @@ SELECT * from kbnmg;
 SELECT * from psatk;
 SELECT * from vvllc;
 SELECT * from ywyid;
-SELECT * from mscjy;
