@@ -145,4 +145,3 @@ SELECT * from ltiot;
 SELECT * from wnros;
 SELECT * from lstmy;
 SELECT * from xchxg;
-SELECT * from auuqy;
