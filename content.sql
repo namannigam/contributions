@@ -1914,3 +1914,4 @@ SELECT * from psatk;
 SELECT * from vvllc;
 SELECT * from ywyid;
 SELECT * from tndog;
+SELECT * from ayscc;
