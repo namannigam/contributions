@@ -3690,3 +3690,4 @@ SELECT * from wjyjq;
 SELECT * from bpqcb;
 SELECT * from tnpxw;
 SELECT * from emptq;
+SELECT * from yncpi;
