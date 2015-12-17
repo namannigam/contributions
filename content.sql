@@ -147,4 +147,5 @@ SELECT * from lstmy;
 SELECT * from xchxg;
 SELECT * from ewkeh;
 SELECT * from ngfnk;
-SELECT * from hbems;
+SELECT * from ngwav;
+SELECT * from nttcc;
