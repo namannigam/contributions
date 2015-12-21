@@ -148,4 +148,4 @@ SELECT * from xchxg;
 SELECT * from ewkeh;
 SELECT * from ngfnk;
 SELECT * from ngwav;
-SELECT * from nwpfc;
+SELECT * from chqkj;
