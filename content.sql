@@ -151,3 +151,4 @@ SELECT * from ngwav;
 SELECT * from hyict;
 SELECT * from xjflm;
 SELECT * from aflpa;
+SELECT * from iwnep;
