@@ -366,6 +366,7 @@ public class Clwyfd {
         System.out.println("pgmoe");
         System.out.println("gsfdc");
         System.out.println("dqwrt");
-        System.out.println("uitag");
+        System.out.println("aithr");
+        System.out.println("nucos");
     }
 }
