@@ -152,3 +152,4 @@ SELECT * from hyict;
 SELECT * from xjflm;
 SELECT * from aflpa;
 SELECT * from iwnep;
+SELECT * from utlyj;
