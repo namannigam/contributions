@@ -3695,4 +3695,4 @@ SELECT * from tleco;
 SELECT * from wyrlm;
 SELECT * from iyrjt;
 SELECT * from pccyq;
-SELECT * from lbtec;
+SELECT * from igkep;
