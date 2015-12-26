@@ -3697,3 +3697,4 @@ SELECT * from iyrjt;
 SELECT * from pccyq;
 SELECT * from igkep;
 SELECT * from xuqkf;
+SELECT * from cictb;
