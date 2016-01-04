@@ -1923,3 +1923,6 @@ SELECT * from hdpwo;
 SELECT * from icpsn;
 SELECT * from pvdpt;
 SELECT * from yqdih;
+SELECT * from gwikb;
+SELECT * from tpxhw;
+SELECT * from qssvx;
