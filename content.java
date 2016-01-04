@@ -9920,6 +9920,5 @@ public class Clwyfd {
         System.out.println("lakij");
         System.out.println("ocdyt");
         System.out.println("itiri");
-        System.out.println("wctmb");
     }
 }
