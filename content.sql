@@ -155,3 +155,6 @@ SELECT * from iwnep;
 SELECT * from egrhx;
 SELECT * from rbcxy;
 SELECT * from pcqes;
+SELECT * from kibvw;
+SELECT * from yjoja;
+SELECT * from padyv;
