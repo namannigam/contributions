@@ -158,3 +158,4 @@ SELECT * from pcqes;
 SELECT * from kibvw;
 SELECT * from yjoja;
 SELECT * from padyv;
+SELECT * from gsmqy;
