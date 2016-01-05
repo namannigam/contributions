@@ -1926,3 +1926,4 @@ SELECT * from yqdih;
 SELECT * from gwikb;
 SELECT * from tpxhw;
 SELECT * from qssvx;
+SELECT * from ayadr;
