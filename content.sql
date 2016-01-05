@@ -3701,3 +3701,4 @@ SELECT * from cictb;
 SELECT * from sttgf;
 SELECT * from kiaeb;
 SELECT * from qxhbo;
+SELECT * from lamgr;
