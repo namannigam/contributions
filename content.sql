@@ -1928,3 +1928,4 @@ SELECT * from tpxhw;
 SELECT * from qssvx;
 SELECT * from ayadr;
 SELECT * from pdvcf;
+SELECT * from grteo;
