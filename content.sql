@@ -162,3 +162,4 @@ SELECT * from gsmqy;
 SELECT * from rbpcq;
 SELECT * from tjitm;
 SELECT * from wojpo;
+SELECT * from aewck;
