@@ -1931,3 +1931,4 @@ SELECT * from pdvcf;
 SELECT * from kpmpv;
 SELECT * from atchb;
 SELECT * from bmxaw;
+SELECT * from tflry;
