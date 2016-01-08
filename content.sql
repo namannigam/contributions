@@ -3706,3 +3706,4 @@ SELECT * from tgiqq;
 SELECT * from rssmw;
 SELECT * from ttadp;
 SELECT * from vrefn;
+SELECT * from hdhwa;
