@@ -3705,3 +3705,4 @@ SELECT * from lamgr;
 SELECT * from tgiqq;
 SELECT * from rssmw;
 SELECT * from ttadp;
+SELECT * from vrefn;
