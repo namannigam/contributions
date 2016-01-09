@@ -3707,3 +3707,5 @@ SELECT * from rssmw;
 SELECT * from ttadp;
 SELECT * from vrefn;
 SELECT * from hdhwa;
+SELECT * from eeevu;
+SELECT * from kofkb;
