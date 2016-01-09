@@ -1932,3 +1932,5 @@ SELECT * from kpmpv;
 SELECT * from atchb;
 SELECT * from bmxaw;
 SELECT * from tflry;
+SELECT * from ascgq;
+SELECT * from owvdj;
