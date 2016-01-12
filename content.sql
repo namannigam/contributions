@@ -166,3 +166,4 @@ SELECT * from aewck;
 SELECT * from stvjy;
 SELECT * from xgafd;
 SELECT * from xhlhs;
+SELECT * from cnvwy;
