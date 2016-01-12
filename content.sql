@@ -3709,3 +3709,4 @@ SELECT * from vrefn;
 SELECT * from hdhwa;
 SELECT * from eeevu;
 SELECT * from kofkb;
+SELECT * from prfqo;
