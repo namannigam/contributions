@@ -1936,3 +1936,4 @@ SELECT * from ascgq;
 SELECT * from owvdj;
 SELECT * from ribmv;
 SELECT * from ybuqe;
+SELECT * from jqtup;
