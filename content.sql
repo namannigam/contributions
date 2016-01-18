@@ -168,3 +168,4 @@ SELECT * from xgafd;
 SELECT * from xhlhs;
 SELECT * from cnvwy;
 SELECT * from jdtfe;
+SELECT * from fiihh;
