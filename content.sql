@@ -1937,3 +1937,4 @@ SELECT * from owvdj;
 SELECT * from ribmv;
 SELECT * from ybuqe;
 SELECT * from jqtup;
+SELECT * from otbai;
