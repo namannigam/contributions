@@ -1938,3 +1938,4 @@ SELECT * from ribmv;
 SELECT * from ybuqe;
 SELECT * from jqtup;
 SELECT * from otbai;
+SELECT * from obskf;
