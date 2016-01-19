@@ -3713,3 +3713,4 @@ SELECT * from prfqo;
 SELECT * from vgdbq;
 SELECT * from eamqh;
 SELECT * from nfldd;
+SELECT * from lpcno;
