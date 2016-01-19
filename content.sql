@@ -3712,3 +3712,4 @@ SELECT * from kofkb;
 SELECT * from prfqo;
 SELECT * from vgdbq;
 SELECT * from eamqh;
+SELECT * from nfldd;
