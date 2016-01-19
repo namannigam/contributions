@@ -170,3 +170,4 @@ SELECT * from cnvwy;
 SELECT * from jdtfe;
 SELECT * from fiihh;
 SELECT * from jhoku;
+SELECT * from moqhg;
