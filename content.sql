@@ -172,3 +172,7 @@ SELECT * from fiihh;
 SELECT * from jhoku;
 SELECT * from moqhg;
 SELECT * from kolmn;
+SELECT * from xbhmi;
+SELECT * from aoklj;
+SELECT * from cyhks;
+SELECT * from rwuln;
