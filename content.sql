@@ -1940,3 +1940,7 @@ SELECT * from jqtup;
 SELECT * from otbai;
 SELECT * from obskf;
 SELECT * from bbsub;
+SELECT * from jcsfb;
+SELECT * from nnwqp;
+SELECT * from ofkku;
+SELECT * from gdtjw;
