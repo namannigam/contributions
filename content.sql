@@ -3715,3 +3715,7 @@ SELECT * from eamqh;
 SELECT * from nfldd;
 SELECT * from lpcno;
 SELECT * from wjlym;
+SELECT * from tyvbq;
+SELECT * from qxglr;
+SELECT * from ljwpb;
+SELECT * from cdcoo;
