@@ -175,4 +175,4 @@ SELECT * from kolmn;
 SELECT * from xbhmi;
 SELECT * from aoklj;
 SELECT * from cyhks;
-SELECT * from fknht;
+SELECT * from gxomn;
