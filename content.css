@@ -3583,5 +3583,7 @@
   margin-top: 40px;
   margin-top: 70px;
   border-left-width: 12px;
-  line-height: 56px;
+  padding-bottom: 1px;
+  padding-bottom: 24px;
+  padding-top: 28px;
 }
