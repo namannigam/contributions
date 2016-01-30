@@ -5143,7 +5143,6 @@ public class Clwyfd {
         System.out.println("gocou");
         System.out.println("ouhts");
         System.out.println("hsqqg");
-        System.out.println("cqsiy");
-        System.out.println("prhnd");
+        System.out.println("qfsco");
     }
 }
