@@ -3585,5 +3585,6 @@
   border-left-width: 12px;
   padding-bottom: 1px;
   padding-bottom: 24px;
-  border-top-width: 13px;
+  border-right-width: 45px;
+  font-size: 36px;
 }
