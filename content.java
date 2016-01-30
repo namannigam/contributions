@@ -400,7 +400,6 @@ public class Clwyfd {
         System.out.println("isjgy");
         System.out.println("ponyh");
         System.out.println("nupsa");
-        System.out.println("xduas");
-        System.out.println("vmpeu");
+        System.out.println("iripk");
     }
 }
