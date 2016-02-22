@@ -419,7 +419,6 @@ public class Clwyfd {
         System.out.println("jfnpg");
         System.out.println("ghksv");
         System.out.println("pmimv");
-        System.out.println("lbsur");
-        System.out.println("livfo");
+        System.out.println("schdb");
     }
 }
