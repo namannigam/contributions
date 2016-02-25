@@ -1945,3 +1945,4 @@ SELECT * from nnwqp;
 SELECT * from ofkku;
 SELECT * from qonye;
 SELECT * from jhcal;
+SELECT * from trhie;
