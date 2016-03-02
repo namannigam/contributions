@@ -1950,3 +1950,4 @@ SELECT * from xcduj;
 SELECT * from xuwnm;
 SELECT * from sanac;
 SELECT * from wrged;
+SELECT * from tpeje;
