@@ -183,3 +183,4 @@ SELECT * from vpowq;
 SELECT * from fredk;
 SELECT * from embqd;
 SELECT * from fqhgo;
+SELECT * from sovcb;
