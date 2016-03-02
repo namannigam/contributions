@@ -1949,3 +1949,4 @@ SELECT * from wsbgt;
 SELECT * from xcduj;
 SELECT * from xuwnm;
 SELECT * from sanac;
+SELECT * from wrged;
