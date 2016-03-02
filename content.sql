@@ -182,3 +182,4 @@ SELECT * from bdcyo;
 SELECT * from vpowq;
 SELECT * from fredk;
 SELECT * from embqd;
+SELECT * from fqhgo;
