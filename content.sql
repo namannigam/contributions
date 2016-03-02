@@ -1946,3 +1946,5 @@ SELECT * from ofkku;
 SELECT * from qonye;
 SELECT * from jhcal;
 SELECT * from wsbgt;
+SELECT * from xcduj;
+SELECT * from xuwnm;
