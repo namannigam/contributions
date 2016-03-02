@@ -1951,3 +1951,4 @@ SELECT * from xuwnm;
 SELECT * from sanac;
 SELECT * from wrged;
 SELECT * from tpeje;
+SELECT * from yvkso;
