@@ -1948,4 +1948,4 @@ SELECT * from jhcal;
 SELECT * from wsbgt;
 SELECT * from xcduj;
 SELECT * from xuwnm;
-SELECT * from xgbrs;
+SELECT * from sanac;
