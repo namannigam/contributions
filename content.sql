@@ -184,3 +184,4 @@ SELECT * from fredk;
 SELECT * from embqd;
 SELECT * from fqhgo;
 SELECT * from sovcb;
+SELECT * from nyllo;
