@@ -178,3 +178,5 @@ SELECT * from cyhks;
 SELECT * from asbxr;
 SELECT * from wombc;
 SELECT * from jrcyj;
+SELECT * from bdcyo;
+SELECT * from vpowq;
