@@ -3621,5 +3621,7 @@
   margin-left: 1px;
   border-bottom-width: 99px;
   font-size: 67px;
-  margin-right: 76px;
+  border-left-width: 78px;
+  padding-left: 86px;
+  line-height: 0px;
 }
