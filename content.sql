@@ -1959,4 +1959,4 @@ SELECT * from dfdmd;
 SELECT * from uxgrg;
 SELECT * from jpogi;
 SELECT * from tnjse;
-SELECT * from akqmx;
+SELECT * from afyst;
