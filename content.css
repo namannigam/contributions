@@ -463,5 +463,6 @@
   font-size: 64px;
   font-size: 84px;
   margin-right: 47px;
-  padding-left: 56px;
+  border-bottom-width: 23px;
+  margin-right: 10px;
 }
