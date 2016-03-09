@@ -3735,3 +3735,4 @@ SELECT * from japil;
 SELECT * from xcjas;
 SELECT * from ffymb;
 SELECT * from hogjp;
+SELECT * from icxhs;
