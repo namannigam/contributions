@@ -195,4 +195,4 @@ SELECT * from jkjha;
 SELECT * from uqeek;
 SELECT * from nlrun;
 SELECT * from volje;
-SELECT * from jcmvo;
+SELECT * from lgyxg;
