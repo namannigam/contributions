@@ -196,3 +196,4 @@ SELECT * from uqeek;
 SELECT * from nlrun;
 SELECT * from volje;
 SELECT * from lgyxg;
+SELECT * from fqgov;
