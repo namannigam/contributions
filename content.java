@@ -437,5 +437,7 @@ public class Clwyfd {
         System.out.println("uhmej");
         System.out.println("ontes");
         System.out.println("coffd");
+        System.out.println("nkmau");
+        System.out.println("soroa");
     }
 }
