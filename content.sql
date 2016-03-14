@@ -1965,4 +1965,6 @@ SELECT * from rogjg;
 SELECT * from onpdl;
 SELECT * from orxoc;
 SELECT * from roank;
-SELECT * from tmshu;
+SELECT * from nyrtn;
+SELECT * from hnrej;
+SELECT * from sudwt;
