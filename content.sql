@@ -3743,3 +3743,4 @@ SELECT * from rrudu;
 SELECT * from rdgun;
 SELECT * from woiom;
 SELECT * from njdsu;
+SELECT * from kuadu;
