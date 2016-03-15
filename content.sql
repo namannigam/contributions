@@ -1968,3 +1968,4 @@ SELECT * from roank;
 SELECT * from nyrtn;
 SELECT * from hnrej;
 SELECT * from sudwt;
+SELECT * from gwcdw;
