@@ -3742,4 +3742,3 @@ SELECT * from daqso;
 SELECT * from rrudu;
 SELECT * from rdgun;
 SELECT * from woiom;
-SELECT * from njdsu;
