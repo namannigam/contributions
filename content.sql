@@ -199,4 +199,3 @@ SELECT * from lgyxg;
 SELECT * from fqgov;
 SELECT * from cwuck;
 SELECT * from ygtio;
-SELECT * from lmmnh;
