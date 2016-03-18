@@ -3739,6 +3739,4 @@ SELECT * from icxhs;
 SELECT * from mssgy;
 SELECT * from wclsf;
 SELECT * from daqso;
-SELECT * from rrudu;
-SELECT * from rdgun;
-SELECT * from woiom;
+SELECT * from wbkee;
