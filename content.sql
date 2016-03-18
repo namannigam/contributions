@@ -1964,6 +1964,4 @@ SELECT * from fdouu;
 SELECT * from rogjg;
 SELECT * from onpdl;
 SELECT * from orxoc;
-SELECT * from roank;
-SELECT * from nyrtn;
-SELECT * from hnrej;
+SELECT * from rptwh;
