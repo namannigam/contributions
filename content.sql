@@ -3740,4 +3740,4 @@ SELECT * from mssgy;
 SELECT * from wclsf;
 SELECT * from daqso;
 SELECT * from kvmss;
-SELECT * from isniq;
+SELECT * from jjcpo;
