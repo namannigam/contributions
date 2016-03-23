@@ -1966,3 +1966,5 @@ SELECT * from onpdl;
 SELECT * from orxoc;
 SELECT * from bijko;
 SELECT * from ypica;
+SELECT * from qvnfa;
+SELECT * from vmbee;
