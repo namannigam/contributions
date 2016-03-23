@@ -198,3 +198,5 @@ SELECT * from volje;
 SELECT * from lgyxg;
 SELECT * from vfvyy;
 SELECT * from xnnlw;
+SELECT * from wctnq;
+SELECT * from luuvm;
