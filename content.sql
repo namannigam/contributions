@@ -3741,3 +3741,5 @@ SELECT * from wclsf;
 SELECT * from daqso;
 SELECT * from kvmss;
 SELECT * from jjcpo;
+SELECT * from ngjce;
+SELECT * from gnelk;
