@@ -1969,3 +1969,4 @@ SELECT * from ypica;
 SELECT * from qvnfa;
 SELECT * from vmbee;
 SELECT * from iltyp;
+SELECT * from srlyr;
