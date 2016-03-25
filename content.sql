@@ -1970,3 +1970,4 @@ SELECT * from qvnfa;
 SELECT * from vmbee;
 SELECT * from iltyp;
 SELECT * from biclk;
+SELECT * from fmyjl;
