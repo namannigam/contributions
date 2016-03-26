@@ -10000,6 +10000,6 @@ public class Clwyfd {
         System.out.println("gnypu");
         System.out.println("mbyyi");
         System.out.println("vxeas");
-        System.out.println("kookm");
+        System.out.println("ligns");
     }
 }
