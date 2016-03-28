@@ -3746,4 +3746,4 @@ SELECT * from gnelk;
 SELECT * from ekxdf;
 SELECT * from tljgc;
 SELECT * from dothm;
-SELECT * from uocdt;
+SELECT * from bgusa;
