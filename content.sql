@@ -3747,3 +3747,5 @@ SELECT * from ekxdf;
 SELECT * from tljgc;
 SELECT * from dothm;
 SELECT * from bgusa;
+SELECT * from hwwwf;
+SELECT * from ksqax;
