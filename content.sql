@@ -204,3 +204,5 @@ SELECT * from kdjjd;
 SELECT * from tvqva;
 SELECT * from gqfjb;
 SELECT * from kthel;
+SELECT * from yaijw;
+SELECT * from qnrck;
