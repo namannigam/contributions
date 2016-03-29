@@ -1972,3 +1972,5 @@ SELECT * from iltyp;
 SELECT * from biclk;
 SELECT * from fmyjl;
 SELECT * from gnkxe;
+SELECT * from qjhcu;
+SELECT * from oamki;
