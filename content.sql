@@ -1975,3 +1975,4 @@ SELECT * from gnkxe;
 SELECT * from qjhcu;
 SELECT * from oamki;
 SELECT * from npxih;
+SELECT * from usvsh;
