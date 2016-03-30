@@ -207,4 +207,4 @@ SELECT * from kthel;
 SELECT * from yaijw;
 SELECT * from qnrck;
 SELECT * from nqlxt;
-SELECT * from geoiw;
+SELECT * from kbvmx;
