@@ -3752,3 +3752,5 @@ SELECT * from ksqax;
 SELECT * from vuvbx;
 SELECT * from atjda;
 SELECT * from gajek;
+SELECT * from idwfw;
+SELECT * from etksh;
