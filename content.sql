@@ -1977,3 +1977,5 @@ SELECT * from oamki;
 SELECT * from npxih;
 SELECT * from kplhv;
 SELECT * from gfolv;
+SELECT * from aeagj;
+SELECT * from gtxei;
