@@ -1982,3 +1982,4 @@ SELECT * from mlplc;
 SELECT * from afcfh;
 SELECT * from uqdrp;
 SELECT * from ccryq;
+SELECT * from krpgq;
