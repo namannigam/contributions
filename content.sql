@@ -3763,4 +3763,4 @@ SELECT * from wfxfh;
 SELECT * from mybei;
 SELECT * from jhspy;
 SELECT * from kplom;
-SELECT * from wggot;
+SELECT * from euoku;
