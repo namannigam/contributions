@@ -1991,3 +1991,4 @@ SELECT * from qptlo;
 SELECT * from qcqer;
 SELECT * from abbta;
 SELECT * from qwctp;
+SELECT * from qnblk;
