@@ -223,3 +223,4 @@ SELECT * from fkfjt;
 SELECT * from vtjio;
 SELECT * from yjvja;
 SELECT * from fieop;
+SELECT * from ullku;
