@@ -1989,3 +1989,5 @@ SELECT * from hbnid;
 SELECT * from ujelg;
 SELECT * from qptlo;
 SELECT * from qcqer;
+SELECT * from abbta;
+SELECT * from qwctp;
