@@ -220,4 +220,6 @@ SELECT * from ylydx;
 SELECT * from svrug;
 SELECT * from bhmbe;
 SELECT * from fkfjt;
-SELECT * from kithf;
+SELECT * from vtjio;
+SELECT * from yjvja;
+SELECT * from fieop;
