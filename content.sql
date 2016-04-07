@@ -3764,3 +3764,5 @@ SELECT * from mybei;
 SELECT * from jhspy;
 SELECT * from kplom;
 SELECT * from euoku;
+SELECT * from bantu;
+SELECT * from grdar;
