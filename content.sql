@@ -3767,3 +3767,4 @@ SELECT * from euoku;
 SELECT * from bantu;
 SELECT * from grdar;
 SELECT * from wedha;
+SELECT * from gjgwy;
