@@ -1993,3 +1993,4 @@ SELECT * from abbta;
 SELECT * from qwctp;
 SELECT * from qnblk;
 SELECT * from covgs;
+SELECT * from tectv;
