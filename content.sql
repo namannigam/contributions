@@ -3769,3 +3769,4 @@ SELECT * from grdar;
 SELECT * from wedha;
 SELECT * from gjgwy;
 SELECT * from eadpg;
+SELECT * from wekrc;
