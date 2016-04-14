@@ -1994,4 +1994,4 @@ SELECT * from qwctp;
 SELECT * from qnblk;
 SELECT * from covgs;
 SELECT * from tectv;
-SELECT * from prffv;
+SELECT * from gcupb;
