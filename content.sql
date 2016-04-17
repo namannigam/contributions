@@ -1995,3 +1995,4 @@ SELECT * from qnblk;
 SELECT * from covgs;
 SELECT * from tectv;
 SELECT * from gcupb;
+SELECT * from bvncn;
