@@ -227,3 +227,4 @@ SELECT * from ullku;
 SELECT * from hywxo;
 SELECT * from yvohw;
 SELECT * from riwth;
+SELECT * from vrtsr;
