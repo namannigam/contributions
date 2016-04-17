@@ -3770,3 +3770,4 @@ SELECT * from wedha;
 SELECT * from gjgwy;
 SELECT * from eadpg;
 SELECT * from vksdk;
+SELECT * from uaedu;
