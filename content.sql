@@ -1996,3 +1996,4 @@ SELECT * from covgs;
 SELECT * from tectv;
 SELECT * from gcupb;
 SELECT * from bvncn;
+SELECT * from ckksb;
