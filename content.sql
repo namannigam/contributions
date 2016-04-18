@@ -1998,3 +1998,4 @@ SELECT * from gcupb;
 SELECT * from bvncn;
 SELECT * from ckksb;
 SELECT * from ncanm;
+SELECT * from vdpub;
