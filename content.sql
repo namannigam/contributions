@@ -3774,3 +3774,4 @@ SELECT * from uaedu;
 SELECT * from mtkgm;
 SELECT * from kpfoy;
 SELECT * from ofagl;
+SELECT * from yjaiv;
