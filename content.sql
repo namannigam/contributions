@@ -3772,3 +3772,4 @@ SELECT * from eadpg;
 SELECT * from vksdk;
 SELECT * from uaedu;
 SELECT * from mtkgm;
+SELECT * from kpfoy;
