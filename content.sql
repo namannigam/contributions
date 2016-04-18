@@ -231,3 +231,4 @@ SELECT * from vrtsr;
 SELECT * from jqpvr;
 SELECT * from fmtsr;
 SELECT * from cdndk;
+SELECT * from gbkoc;
