@@ -1999,4 +1999,4 @@ SELECT * from bvncn;
 SELECT * from ckksb;
 SELECT * from ncanm;
 SELECT * from pyeby;
-SELECT * from sgnuv;
+SELECT * from ritvu;
