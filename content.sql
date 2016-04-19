@@ -2002,3 +2002,4 @@ SELECT * from pyeby;
 SELECT * from ritvu;
 SELECT * from yqbyu;
 SELECT * from kswmk;
+SELECT * from xsdna;
