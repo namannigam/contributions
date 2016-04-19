@@ -3777,3 +3777,4 @@ SELECT * from ofagl;
 SELECT * from weodm;
 SELECT * from pxreq;
 SELECT * from ccuty;
+SELECT * from kxtpc;
