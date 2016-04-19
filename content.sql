@@ -234,3 +234,4 @@ SELECT * from cdndk;
 SELECT * from prkkb;
 SELECT * from rcfnq;
 SELECT * from ssmbr;
+SELECT * from jmvov;
