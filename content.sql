@@ -3775,3 +3775,5 @@ SELECT * from mtkgm;
 SELECT * from kpfoy;
 SELECT * from ofagl;
 SELECT * from weodm;
+SELECT * from pxreq;
+SELECT * from ccuty;
