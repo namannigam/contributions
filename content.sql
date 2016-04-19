@@ -232,3 +232,5 @@ SELECT * from jqpvr;
 SELECT * from fmtsr;
 SELECT * from cdndk;
 SELECT * from prkkb;
+SELECT * from rcfnq;
+SELECT * from ssmbr;
