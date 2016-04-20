@@ -238,3 +238,4 @@ SELECT * from jmvov;
 SELECT * from jyjwc;
 SELECT * from ohcii;
 SELECT * from lnxvg;
+SELECT * from ixgsk;
