@@ -2005,3 +2005,4 @@ SELECT * from kswmk;
 SELECT * from xsdna;
 SELECT * from uujoc;
 SELECT * from wwlby;
+SELECT * from mbgvd;
