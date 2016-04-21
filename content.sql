@@ -2007,3 +2007,6 @@ SELECT * from uujoc;
 SELECT * from wwlby;
 SELECT * from mbgvd;
 SELECT * from dfmpg;
+SELECT * from kpqnt;
+SELECT * from epylr;
+SELECT * from hxixg;
