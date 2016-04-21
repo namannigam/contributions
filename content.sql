@@ -239,3 +239,6 @@ SELECT * from jyjwc;
 SELECT * from ohcii;
 SELECT * from lnxvg;
 SELECT * from ixgsk;
+SELECT * from gffib;
+SELECT * from semna;
+SELECT * from bifti;
