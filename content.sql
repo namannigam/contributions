@@ -243,3 +243,4 @@ SELECT * from gffib;
 SELECT * from semna;
 SELECT * from bifti;
 SELECT * from bubyh;
+SELECT * from kphsx;
