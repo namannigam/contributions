@@ -3782,3 +3782,6 @@ SELECT * from elpht;
 SELECT * from juobj;
 SELECT * from gmueg;
 SELECT * from pptls;
+SELECT * from iuwey;
+SELECT * from oprhc;
+SELECT * from ahqpb;
