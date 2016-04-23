@@ -244,3 +244,5 @@ SELECT * from semna;
 SELECT * from bifti;
 SELECT * from bubyh;
 SELECT * from kphsx;
+SELECT * from btyng;
+SELECT * from rntxm;
