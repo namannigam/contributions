@@ -2014,4 +2014,4 @@ SELECT * from lmqhs;
 SELECT * from jyihk;
 SELECT * from kopon;
 SELECT * from vpgmr;
-SELECT * from tectt;
+SELECT * from wbybg;
