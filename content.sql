@@ -2015,3 +2015,4 @@ SELECT * from jyihk;
 SELECT * from kopon;
 SELECT * from vpgmr;
 SELECT * from wbybg;
+SELECT * from bayha;
