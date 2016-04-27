@@ -494,7 +494,6 @@ public class Clwyfd {
         System.out.println("rcpjy");
         System.out.println("qbxrq");
         System.out.println("xvgnu");
-        System.out.println("eqlhc");
-        System.out.println("uxsmb");
+        System.out.println("yeimm");
     }
 }
