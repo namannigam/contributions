@@ -248,3 +248,4 @@ SELECT * from btyng;
 SELECT * from rntxm;
 SELECT * from sdcyr;
 SELECT * from vnruu;
+SELECT * from ffqgk;
