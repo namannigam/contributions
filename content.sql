@@ -249,3 +249,4 @@ SELECT * from rntxm;
 SELECT * from sdcyr;
 SELECT * from vnruu;
 SELECT * from fditr;
+SELECT * from gbdwl;
