@@ -3791,3 +3791,4 @@ SELECT * from nudyf;
 SELECT * from ppwqb;
 SELECT * from alydv;
 SELECT * from tjlyt;
+SELECT * from cpidw;
