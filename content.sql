@@ -2016,3 +2016,4 @@ SELECT * from kopon;
 SELECT * from vpgmr;
 SELECT * from wbybg;
 SELECT * from bayha;
+SELECT * from alaxv;
