@@ -3793,3 +3793,4 @@ SELECT * from alydv;
 SELECT * from tjlyt;
 SELECT * from mtstc;
 SELECT * from odxom;
+SELECT * from ndxrn;
