@@ -250,3 +250,4 @@ SELECT * from sdcyr;
 SELECT * from vnruu;
 SELECT * from fditr;
 SELECT * from gbdwl;
+SELECT * from rlkls;
