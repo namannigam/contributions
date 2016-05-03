@@ -3794,3 +3794,4 @@ SELECT * from tjlyt;
 SELECT * from mtstc;
 SELECT * from odxom;
 SELECT * from fcwig;
+SELECT * from jciac;
