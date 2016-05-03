@@ -3795,3 +3795,4 @@ SELECT * from mtstc;
 SELECT * from odxom;
 SELECT * from fcwig;
 SELECT * from jciac;
+SELECT * from lhcaf;
