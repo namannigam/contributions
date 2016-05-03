@@ -2019,3 +2019,4 @@ SELECT * from bayha;
 SELECT * from boyjh;
 SELECT * from videp;
 SELECT * from uylbp;
+SELECT * from hufjy;
