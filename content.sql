@@ -251,3 +251,4 @@ SELECT * from vnruu;
 SELECT * from fditr;
 SELECT * from gbdwl;
 SELECT * from uuhqm;
+SELECT * from bniof;
