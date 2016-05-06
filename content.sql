@@ -253,4 +253,4 @@ SELECT * from gbdwl;
 SELECT * from uuhqm;
 SELECT * from bniof;
 SELECT * from wkxwo;
-SELECT * from ldkjr;
+SELECT * from pgmxa;
