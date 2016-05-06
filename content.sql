@@ -2021,4 +2021,4 @@ SELECT * from videp;
 SELECT * from uylbp;
 SELECT * from hufjy;
 SELECT * from iqavm;
-SELECT * from gonrq;
+SELECT * from tpicm;
