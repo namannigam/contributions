@@ -255,3 +255,4 @@ SELECT * from bniof;
 SELECT * from wkxwo;
 SELECT * from pgmxa;
 SELECT * from bynxk;
+SELECT * from ucwnk;
