@@ -257,3 +257,4 @@ SELECT * from pgmxa;
 SELECT * from bynxk;
 SELECT * from ucwnk;
 SELECT * from ointv;
+SELECT * from gdcho;
