@@ -256,3 +256,4 @@ SELECT * from wkxwo;
 SELECT * from pgmxa;
 SELECT * from bynxk;
 SELECT * from ucwnk;
+SELECT * from ointv;
