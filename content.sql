@@ -2024,3 +2024,4 @@ SELECT * from iqavm;
 SELECT * from tpicm;
 SELECT * from ovsuq;
 SELECT * from cudvd;
+SELECT * from qbmwp;
