@@ -3803,3 +3803,4 @@ SELECT * from paoom;
 SELECT * from kguev;
 SELECT * from nkjta;
 SELECT * from pkylp;
+SELECT * from renwa;
