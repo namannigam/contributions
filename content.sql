@@ -3800,3 +3800,4 @@ SELECT * from inakv;
 SELECT * from onlod;
 SELECT * from floyu;
 SELECT * from paoom;
+SELECT * from kguev;
