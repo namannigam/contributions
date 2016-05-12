@@ -3804,4 +3804,4 @@ SELECT * from kguev;
 SELECT * from nkjta;
 SELECT * from pkylp;
 SELECT * from wymjy;
-SELECT * from chmst;
+SELECT * from asvyx;
