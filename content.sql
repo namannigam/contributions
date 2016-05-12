@@ -263,3 +263,4 @@ SELECT * from eiyhd;
 SELECT * from hfxuv;
 SELECT * from yuvav;
 SELECT * from phnvd;
+SELECT * from kuxjt;
