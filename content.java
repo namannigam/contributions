@@ -505,7 +505,8 @@ public class Clwyfd {
         System.out.println("pmsyk");
         System.out.println("loxgc");
         System.out.println("dalyn");
-        System.out.println("owops");
-        System.out.println("nspry");
+        System.out.println("mgipv");
+        System.out.println("ocdtf");
+        System.out.println("thlsn");
     }
 }
