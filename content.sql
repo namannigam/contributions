@@ -2030,4 +2030,5 @@ SELECT * from cvjqw;
 SELECT * from enfhk;
 SELECT * from ltdrq;
 SELECT * from grjsk;
-SELECT * from wfrid;
+SELECT * from louyy;
+SELECT * from igxsk;
