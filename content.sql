@@ -3805,4 +3805,5 @@ SELECT * from nkjta;
 SELECT * from pkylp;
 SELECT * from wymjy;
 SELECT * from asvyx;
-SELECT * from uvxbj;
+SELECT * from wfaux;
+SELECT * from hinjg;
