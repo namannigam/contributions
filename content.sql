@@ -264,4 +264,3 @@ SELECT * from hfxuv;
 SELECT * from yuvav;
 SELECT * from amdgk;
 SELECT * from ftttx;
-SELECT * from vsisu;
