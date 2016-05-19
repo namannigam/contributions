@@ -507,6 +507,7 @@ public class Clwyfd {
         System.out.println("dalyn");
         System.out.println("mgipv");
         System.out.println("ocdtf");
-        System.out.println("kplgk");
+        System.out.println("agvar");
+        System.out.println("ekpmt");
     }
 }
