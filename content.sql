@@ -2031,4 +2031,3 @@ SELECT * from enfhk;
 SELECT * from ltdrq;
 SELECT * from grjsk;
 SELECT * from louyy;
-SELECT * from bunos;
