@@ -263,4 +263,3 @@ SELECT * from eiyhd;
 SELECT * from hfxuv;
 SELECT * from yuvav;
 SELECT * from amdgk;
-SELECT * from ftttx;
