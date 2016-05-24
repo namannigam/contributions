@@ -2032,3 +2032,4 @@ SELECT * from ltdrq;
 SELECT * from grjsk;
 SELECT * from esutr;
 SELECT * from gdqot;
+SELECT * from yxobl;
