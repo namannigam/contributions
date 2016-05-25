@@ -265,3 +265,4 @@ SELECT * from yuvav;
 SELECT * from rkhle;
 SELECT * from jctlr;
 SELECT * from ftdfc;
+SELECT * from tderk;
