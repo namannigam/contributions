@@ -2034,3 +2034,4 @@ SELECT * from esutr;
 SELECT * from gdqot;
 SELECT * from arxka;
 SELECT * from thhpx;
+SELECT * from cfsig;
