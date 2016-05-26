@@ -266,3 +266,4 @@ SELECT * from rkhle;
 SELECT * from jctlr;
 SELECT * from ftdfc;
 SELECT * from ptcog;
+SELECT * from dejfw;
