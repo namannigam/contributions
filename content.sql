@@ -3809,4 +3809,4 @@ SELECT * from iugve;
 SELECT * from vydco;
 SELECT * from fdiga;
 SELECT * from nbsfg;
-SELECT * from ytdnb;
+SELECT * from rsccq;
