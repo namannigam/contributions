@@ -3811,3 +3811,4 @@ SELECT * from fdiga;
 SELECT * from nbsfg;
 SELECT * from rsccq;
 SELECT * from bgvfx;
+SELECT * from ndjrc;
