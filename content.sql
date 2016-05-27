@@ -2036,3 +2036,5 @@ SELECT * from arxka;
 SELECT * from thhpx;
 SELECT * from mgjhb;
 SELECT * from jfrui;
+SELECT * from hiqxe;
+SELECT * from ohpxh;
