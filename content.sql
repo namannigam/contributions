@@ -267,3 +267,4 @@ SELECT * from jctlr;
 SELECT * from ftdfc;
 SELECT * from ptcog;
 SELECT * from wdwba;
+SELECT * from kbcvg;
