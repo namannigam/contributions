@@ -2035,3 +2035,4 @@ SELECT * from gdqot;
 SELECT * from arxka;
 SELECT * from thhpx;
 SELECT * from mgjhb;
+SELECT * from jfrui;
