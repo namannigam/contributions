@@ -3810,3 +3810,4 @@ SELECT * from vydco;
 SELECT * from fdiga;
 SELECT * from nbsfg;
 SELECT * from rsccq;
+SELECT * from bgvfx;
