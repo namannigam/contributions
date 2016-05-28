@@ -3813,3 +3813,4 @@ SELECT * from rsccq;
 SELECT * from bgvfx;
 SELECT * from ndjrc;
 SELECT * from xivax;
+SELECT * from jnvtq;
