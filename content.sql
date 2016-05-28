@@ -270,3 +270,4 @@ SELECT * from wdwba;
 SELECT * from kbcvg;
 SELECT * from vffyd;
 SELECT * from ikolb;
+SELECT * from canyu;
