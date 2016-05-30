@@ -3815,3 +3815,4 @@ SELECT * from ndjrc;
 SELECT * from xivax;
 SELECT * from jnvtq;
 SELECT * from sspae;
+SELECT * from ccpwl;
