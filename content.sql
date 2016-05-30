@@ -2039,3 +2039,4 @@ SELECT * from jfrui;
 SELECT * from hiqxe;
 SELECT * from ohpxh;
 SELECT * from bwhws;
+SELECT * from kijnm;
