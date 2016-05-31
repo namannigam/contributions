@@ -272,4 +272,4 @@ SELECT * from vffyd;
 SELECT * from ikolb;
 SELECT * from canyu;
 SELECT * from htsqp;
-SELECT * from detcj;
+SELECT * from kjurl;
