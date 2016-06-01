@@ -2040,4 +2040,4 @@ SELECT * from hiqxe;
 SELECT * from ohpxh;
 SELECT * from bwhws;
 SELECT * from kijnm;
-SELECT * from eernu;
+SELECT * from ikafx;
