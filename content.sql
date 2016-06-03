@@ -277,3 +277,4 @@ SELECT * from ktpoc;
 SELECT * from kjtas;
 SELECT * from mbgog;
 SELECT * from lcxph;
+SELECT * from wtfbx;
