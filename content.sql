@@ -274,4 +274,4 @@ SELECT * from canyu;
 SELECT * from htsqp;
 SELECT * from kjurl;
 SELECT * from ktpoc;
-SELECT * from jxobw;
+SELECT * from kjtas;
