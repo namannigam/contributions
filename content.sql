@@ -2043,3 +2043,4 @@ SELECT * from kijnm;
 SELECT * from ikafx;
 SELECT * from yhnfc;
 SELECT * from esfki;
+SELECT * from tbqgx;
