@@ -3821,3 +3821,4 @@ SELECT * from shiwm;
 SELECT * from uqsna;
 SELECT * from sjpls;
 SELECT * from osggi;
+SELECT * from imkad;
