@@ -3819,3 +3819,4 @@ SELECT * from jqsii;
 SELECT * from pcnun;
 SELECT * from shiwm;
 SELECT * from uqsna;
+SELECT * from sjpls;
