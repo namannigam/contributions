@@ -3820,3 +3820,4 @@ SELECT * from pcnun;
 SELECT * from shiwm;
 SELECT * from uqsna;
 SELECT * from sjpls;
+SELECT * from osggi;
