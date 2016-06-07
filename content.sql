@@ -280,3 +280,4 @@ SELECT * from lcxph;
 SELECT * from wtfbx;
 SELECT * from blgmf;
 SELECT * from dgrhj;
+SELECT * from bjefa;
