@@ -3824,3 +3824,4 @@ SELECT * from osggi;
 SELECT * from imkad;
 SELECT * from gifig;
 SELECT * from tpedc;
+SELECT * from uklcs;
