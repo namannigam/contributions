@@ -522,6 +522,6 @@ public class Clwyfd {
         System.out.println("kyugw");
         System.out.println("uguxm");
         System.out.println("nasvl");
-        System.out.println("snppi");
+        System.out.println("ibmap");
     }
 }
