@@ -2049,3 +2049,4 @@ SELECT * from aiwxo;
 SELECT * from bdvvu;
 SELECT * from ergwq;
 SELECT * from sbydj;
+SELECT * from rekst;
