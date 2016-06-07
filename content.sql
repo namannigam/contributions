@@ -2050,3 +2050,4 @@ SELECT * from bdvvu;
 SELECT * from ergwq;
 SELECT * from sbydj;
 SELECT * from xbocu;
+SELECT * from gnrpg;
