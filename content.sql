@@ -2048,3 +2048,4 @@ SELECT * from rgeny;
 SELECT * from aiwxo;
 SELECT * from bdvvu;
 SELECT * from ergwq;
+SELECT * from sbydj;
