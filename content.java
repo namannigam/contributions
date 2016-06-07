@@ -520,6 +520,8 @@ public class Clwyfd {
         System.out.println("osjeo");
         System.out.println("ixvwc");
         System.out.println("kyugw");
-        System.out.println("wqwkm");
+        System.out.println("uguxm");
+        System.out.println("nasvl");
+        System.out.println("encoo");
     }
 }
