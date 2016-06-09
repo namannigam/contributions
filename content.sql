@@ -3825,3 +3825,4 @@ SELECT * from imkad;
 SELECT * from gifig;
 SELECT * from tpedc;
 SELECT * from inmfe;
+SELECT * from ueksj;
