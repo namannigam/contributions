@@ -285,3 +285,4 @@ SELECT * from rkkmy;
 SELECT * from ygpwp;
 SELECT * from imisg;
 SELECT * from jnthq;
+SELECT * from nhldu;
