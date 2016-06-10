@@ -2051,3 +2051,5 @@ SELECT * from ergwq;
 SELECT * from sbydj;
 SELECT * from xbocu;
 SELECT * from dyors;
+SELECT * from tkewg;
+SELECT * from hoqeq;
