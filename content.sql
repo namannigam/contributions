@@ -283,3 +283,5 @@ SELECT * from dgrhj;
 SELECT * from bjefa;
 SELECT * from rkkmy;
 SELECT * from ygpwp;
+SELECT * from imisg;
+SELECT * from jnthq;
