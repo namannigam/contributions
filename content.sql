@@ -3826,3 +3826,5 @@ SELECT * from gifig;
 SELECT * from tpedc;
 SELECT * from inmfe;
 SELECT * from ueksj;
+SELECT * from qmdev;
+SELECT * from puryq;
