@@ -3829,3 +3829,4 @@ SELECT * from ueksj;
 SELECT * from qmdev;
 SELECT * from puryq;
 SELECT * from tskip;
+SELECT * from jnyqa;
