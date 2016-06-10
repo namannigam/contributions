@@ -3828,3 +3828,4 @@ SELECT * from inmfe;
 SELECT * from ueksj;
 SELECT * from qmdev;
 SELECT * from puryq;
+SELECT * from tskip;
