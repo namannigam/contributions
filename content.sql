@@ -287,3 +287,4 @@ SELECT * from imisg;
 SELECT * from jnthq;
 SELECT * from nhldu;
 SELECT * from vnatb;
+SELECT * from bbfce;
