@@ -288,4 +288,4 @@ SELECT * from jnthq;
 SELECT * from nhldu;
 SELECT * from vnatb;
 SELECT * from auxmq;
-SELECT * from gecbe;
+SELECT * from nqgho;
