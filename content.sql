@@ -2057,3 +2057,4 @@ SELECT * from ssjcb;
 SELECT * from wtuji;
 SELECT * from xsuxr;
 SELECT * from hykgc;
+SELECT * from tstcb;
