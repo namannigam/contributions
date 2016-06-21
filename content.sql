@@ -3832,3 +3832,4 @@ SELECT * from tskip;
 SELECT * from jnyqa;
 SELECT * from ifffo;
 SELECT * from xqbmy;
+SELECT * from teuta;
