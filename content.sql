@@ -289,3 +289,4 @@ SELECT * from nhldu;
 SELECT * from vnatb;
 SELECT * from auxmq;
 SELECT * from maynn;
+SELECT * from mduyp;
