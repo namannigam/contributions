@@ -293,3 +293,4 @@ SELECT * from mduyp;
 SELECT * from oujer;
 SELECT * from kvjeg;
 SELECT * from mnjbn;
+SELECT * from prgrd;
