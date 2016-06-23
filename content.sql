@@ -3836,3 +3836,4 @@ SELECT * from teuta;
 SELECT * from armmr;
 SELECT * from ncyik;
 SELECT * from baoap;
+SELECT * from hfaul;
