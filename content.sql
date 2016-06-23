@@ -2061,3 +2061,4 @@ SELECT * from tstcb;
 SELECT * from awsdx;
 SELECT * from wuosa;
 SELECT * from ihimi;
+SELECT * from lklbh;
