@@ -3834,3 +3834,4 @@ SELECT * from ifffo;
 SELECT * from xqbmy;
 SELECT * from teuta;
 SELECT * from armmr;
+SELECT * from ncyik;
