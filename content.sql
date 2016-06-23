@@ -2059,3 +2059,4 @@ SELECT * from xsuxr;
 SELECT * from hykgc;
 SELECT * from tstcb;
 SELECT * from awsdx;
+SELECT * from wuosa;
