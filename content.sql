@@ -296,3 +296,4 @@ SELECT * from mnjbn;
 SELECT * from brrga;
 SELECT * from hrdxl;
 SELECT * from xyacq;
+SELECT * from indlj;
