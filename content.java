@@ -552,6 +552,7 @@ public class Clwyfd {
         System.out.println("cudrq");
         System.out.println("kxkne");
         System.out.println("ipaxi");
-        System.out.println("uvuot");
+        System.out.println("cfdnu");
+        System.out.println("sskov");
     }
 }
