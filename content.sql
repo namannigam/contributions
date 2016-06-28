@@ -3837,3 +3837,5 @@ SELECT * from armmr;
 SELECT * from ncyik;
 SELECT * from baoap;
 SELECT * from kuaox;
+SELECT * from xngox;
+SELECT * from scxmd;
