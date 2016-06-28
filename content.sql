@@ -2067,3 +2067,5 @@ SELECT * from hthho;
 SELECT * from vxxja;
 SELECT * from jigui;
 SELECT * from mucwl;
+SELECT * from qunnv;
+SELECT * from rdchm;
