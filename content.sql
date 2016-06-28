@@ -3841,3 +3841,4 @@ SELECT * from xngox;
 SELECT * from scxmd;
 SELECT * from mxmtr;
 SELECT * from jvefs;
+SELECT * from ywjry;
