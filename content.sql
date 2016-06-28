@@ -2066,3 +2066,4 @@ SELECT * from qosau;
 SELECT * from hthho;
 SELECT * from vxxja;
 SELECT * from jigui;
+SELECT * from mucwl;
