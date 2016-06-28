@@ -3840,3 +3840,4 @@ SELECT * from kuaox;
 SELECT * from xngox;
 SELECT * from scxmd;
 SELECT * from mxmtr;
+SELECT * from jvefs;
