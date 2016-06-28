@@ -2065,3 +2065,4 @@ SELECT * from wqamv;
 SELECT * from qosau;
 SELECT * from hthho;
 SELECT * from vxxja;
+SELECT * from jigui;
