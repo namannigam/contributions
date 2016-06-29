@@ -302,3 +302,4 @@ SELECT * from kxogx;
 SELECT * from tstik;
 SELECT * from mqokg;
 SELECT * from fcvhw;
+SELECT * from ypmrg;
