@@ -300,3 +300,5 @@ SELECT * from indlj;
 SELECT * from wcyxp;
 SELECT * from kxogx;
 SELECT * from tstik;
+SELECT * from mqokg;
+SELECT * from fcvhw;
