@@ -2070,3 +2070,4 @@ SELECT * from mucwl;
 SELECT * from qunnv;
 SELECT * from rdchm;
 SELECT * from ogret;
+SELECT * from vexdk;
