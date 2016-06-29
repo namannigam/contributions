@@ -3843,3 +3843,5 @@ SELECT * from mxmtr;
 SELECT * from jvefs;
 SELECT * from ywjry;
 SELECT * from ldskj;
+SELECT * from bhdmk;
+SELECT * from alnuh;
