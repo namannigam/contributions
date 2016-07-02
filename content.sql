@@ -314,4 +314,4 @@ SELECT * from dcnyb;
 SELECT * from pwpsf;
 SELECT * from rmyth;
 SELECT * from wyqda;
-SELECT * from awtwf;
+SELECT * from nyffx;
