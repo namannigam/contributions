@@ -3860,3 +3860,4 @@ SELECT * from wekrc;
 SELECT * from sonbt;
 SELECT * from mmbsh;
 SELECT * from burqq;
+SELECT * from wamni;
