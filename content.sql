@@ -317,3 +317,4 @@ SELECT * from wyqda;
 SELECT * from jrrwp;
 SELECT * from dyxnv;
 SELECT * from fkmiq;
+SELECT * from cqbov;
