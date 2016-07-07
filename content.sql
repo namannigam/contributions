@@ -2086,3 +2086,4 @@ SELECT * from wsdfj;
 SELECT * from ecexq;
 SELECT * from sutxn;
 SELECT * from qgfdq;
+SELECT * from lnbgx;
