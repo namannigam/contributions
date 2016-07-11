@@ -319,4 +319,4 @@ SELECT * from dyxnv;
 SELECT * from fkmiq;
 SELECT * from cqbov;
 SELECT * from puybi;
-SELECT * from gphkn;
+SELECT * from dvtma;
