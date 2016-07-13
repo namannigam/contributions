@@ -3863,4 +3863,4 @@ SELECT * from burqq;
 SELECT * from wamni;
 SELECT * from wurfo;
 SELECT * from fkexu;
-SELECT * from rmwvr;
+SELECT * from swxbo;
