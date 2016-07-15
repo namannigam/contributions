@@ -3865,3 +3865,4 @@ SELECT * from wurfo;
 SELECT * from fkexu;
 SELECT * from gohfi;
 SELECT * from myaci;
+SELECT * from vwora;
