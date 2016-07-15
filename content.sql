@@ -2092,3 +2092,5 @@ SELECT * from qxsin;
 SELECT * from tnwmg;
 SELECT * from htpkk;
 SELECT * from eslsa;
+SELECT * from grerf;
+SELECT * from bwxoe;
