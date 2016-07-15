@@ -3867,3 +3867,5 @@ SELECT * from gohfi;
 SELECT * from myaci;
 SELECT * from vwora;
 SELECT * from spwxx;
+SELECT * from idwhb;
+SELECT * from muifm;
