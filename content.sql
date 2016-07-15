@@ -324,3 +324,5 @@ SELECT * from rosjb;
 SELECT * from ulbpg;
 SELECT * from yphwv;
 SELECT * from prjnk;
+SELECT * from ixqai;
+SELECT * from ojkes;
