@@ -3866,3 +3866,4 @@ SELECT * from fkexu;
 SELECT * from gohfi;
 SELECT * from myaci;
 SELECT * from vwora;
+SELECT * from spwxx;
