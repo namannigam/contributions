@@ -3870,3 +3870,5 @@ SELECT * from spwxx;
 SELECT * from idwhb;
 SELECT * from csybb;
 SELECT * from vbxnx;
+SELECT * from gmpgi;
+SELECT * from pdjmc;
