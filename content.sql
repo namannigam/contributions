@@ -2095,3 +2095,5 @@ SELECT * from eslsa;
 SELECT * from grerf;
 SELECT * from mgunl;
 SELECT * from arqxl;
+SELECT * from lpnof;
+SELECT * from emivl;
