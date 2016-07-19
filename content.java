@@ -578,6 +578,8 @@ public class Clwyfd {
         System.out.println("eigmm");
         System.out.println("eipkd");
         System.out.println("mtoux");
-        System.out.println("qcctd");
+        System.out.println("nvinx");
+        System.out.println("phxpb");
+        System.out.println("llhdk");
     }
 }

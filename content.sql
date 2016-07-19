@@ -327,3 +327,5 @@ SELECT * from prjnk;
 SELECT * from ixqai;
 SELECT * from tnipi;
 SELECT * from aispw;
+SELECT * from fmmuf;
+SELECT * from etmah;
