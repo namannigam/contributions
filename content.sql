@@ -330,3 +330,4 @@ SELECT * from aispw;
 SELECT * from fmmuf;
 SELECT * from etmah;
 SELECT * from ixsdv;
+SELECT * from pydyw;
