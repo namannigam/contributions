@@ -335,4 +335,4 @@ SELECT * from guodx;
 SELECT * from jguif;
 SELECT * from icskt;
 SELECT * from qcspx;
-SELECT * from ufeqs;
+SELECT * from kynfb;
