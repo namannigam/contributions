@@ -3875,3 +3875,7 @@ SELECT * from pdjmc;
 SELECT * from ewekn;
 SELECT * from pgbiq;
 SELECT * from lbyis;
+SELECT * from jbcbg;
+SELECT * from jkuex;
+SELECT * from knopu;
+SELECT * from cgmpj;
