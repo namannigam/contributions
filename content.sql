@@ -3878,4 +3878,4 @@ SELECT * from lbyis;
 SELECT * from jbcbg;
 SELECT * from jkuex;
 SELECT * from knopu;
-SELECT * from cgmpj;
+SELECT * from ptkso;
