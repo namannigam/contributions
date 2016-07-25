@@ -3879,3 +3879,4 @@ SELECT * from jbcbg;
 SELECT * from jkuex;
 SELECT * from knopu;
 SELECT * from lafhs;
+SELECT * from iukrv;
