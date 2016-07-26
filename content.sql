@@ -337,3 +337,4 @@ SELECT * from icskt;
 SELECT * from qcspx;
 SELECT * from cquiy;
 SELECT * from uebtu;
+SELECT * from ydmqy;
