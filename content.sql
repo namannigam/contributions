@@ -336,4 +336,4 @@ SELECT * from jguif;
 SELECT * from icskt;
 SELECT * from qcspx;
 SELECT * from cquiy;
-SELECT * from sgaju;
+SELECT * from uebtu;
