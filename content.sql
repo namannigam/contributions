@@ -3880,3 +3880,7 @@ SELECT * from jkuex;
 SELECT * from knopu;
 SELECT * from lafhs;
 SELECT * from qoljo;
+SELECT * from fuviw;
+SELECT * from cvfok;
+SELECT * from smdda;
+SELECT * from yscdl;
