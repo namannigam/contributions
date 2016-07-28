@@ -340,4 +340,6 @@ SELECT * from uebtu;
 SELECT * from ydmqy;
 SELECT * from kjnyg;
 SELECT * from kpnhv;
-SELECT * from lbgca;
+SELECT * from ynlpk;
+SELECT * from lyynr;
+SELECT * from xkuob;
