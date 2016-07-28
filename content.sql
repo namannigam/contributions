@@ -3883,4 +3883,4 @@ SELECT * from qoljo;
 SELECT * from fuviw;
 SELECT * from cvfok;
 SELECT * from smdda;
-SELECT * from nregq;
+SELECT * from kvctj;
