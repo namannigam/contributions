@@ -3885,4 +3885,4 @@ SELECT * from cvfok;
 SELECT * from smdda;
 SELECT * from blbog;
 SELECT * from mjymk;
-SELECT * from icgyw;
+SELECT * from uavsa;
