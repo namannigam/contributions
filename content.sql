@@ -3886,3 +3886,4 @@ SELECT * from smdda;
 SELECT * from blbog;
 SELECT * from mjymk;
 SELECT * from uavsa;
+SELECT * from qsbej;
