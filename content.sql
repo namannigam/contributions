@@ -342,4 +342,4 @@ SELECT * from kjnyg;
 SELECT * from kpnhv;
 SELECT * from ynlpk;
 SELECT * from lyynr;
-SELECT * from xlqev;
+SELECT * from ixobs;
