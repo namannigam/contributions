@@ -2112,3 +2112,4 @@ SELECT * from mdbwb;
 SELECT * from vkqla;
 SELECT * from scwdd;
 SELECT * from nvgwc;
+SELECT * from ptqsp;
