@@ -343,4 +343,4 @@ SELECT * from kpnhv;
 SELECT * from ynlpk;
 SELECT * from lyynr;
 SELECT * from ixobs;
-SELECT * from iosiy;
+SELECT * from lvgdv;
