@@ -344,3 +344,4 @@ SELECT * from ynlpk;
 SELECT * from lyynr;
 SELECT * from ixobs;
 SELECT * from lvgdv;
+SELECT * from wlqty;
