@@ -2113,3 +2113,6 @@ SELECT * from vkqla;
 SELECT * from scwdd;
 SELECT * from nvgwc;
 SELECT * from ptqsp;
+SELECT * from kymyi;
+SELECT * from nxdds;
+SELECT * from qoeoe;
