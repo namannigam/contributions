@@ -3888,3 +3888,6 @@ SELECT * from mjymk;
 SELECT * from uavsa;
 SELECT * from tbhxn;
 SELECT * from gkusw;
+SELECT * from kcowg;
+SELECT * from jgvks;
+SELECT * from kkkjq;
