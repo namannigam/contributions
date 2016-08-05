@@ -348,3 +348,4 @@ SELECT * from wlqty;
 SELECT * from ucmmf;
 SELECT * from idfhh;
 SELECT * from ibquk;
+SELECT * from indbw;

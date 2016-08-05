@@ -600,6 +600,8 @@ public class Clwyfd {
         System.out.println("pormo");
         System.out.println("mtdar");
         System.out.println("yaeku");
-        System.out.println("lijqv");
+        System.out.println("llaqm");
+        System.out.println("lndkt");
+        System.out.println("lylid");
     }
 }
