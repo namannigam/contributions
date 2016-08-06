@@ -2117,3 +2117,4 @@ SELECT * from kymyi;
 SELECT * from nxdds;
 SELECT * from qoeoe;
 SELECT * from cglgq;
+SELECT * from djayx;
