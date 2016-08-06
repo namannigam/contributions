@@ -601,7 +601,6 @@ public class Clwyfd {
         System.out.println("mtdar");
         System.out.println("yaeku");
         System.out.println("llaqm");
-        System.out.println("lndkt");
-        System.out.println("oxaqk");
+        System.out.println("acyqq");
     }
 }
