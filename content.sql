@@ -2118,3 +2118,4 @@ SELECT * from nxdds;
 SELECT * from qoeoe;
 SELECT * from cglgq;
 SELECT * from lksnq;
+SELECT * from wuepm;
