@@ -3893,3 +3893,4 @@ SELECT * from jgvks;
 SELECT * from kkkjq;
 SELECT * from yasxd;
 SELECT * from wmvyd;
+SELECT * from skutp;
