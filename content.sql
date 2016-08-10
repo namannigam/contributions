@@ -2119,3 +2119,7 @@ SELECT * from qoeoe;
 SELECT * from cglgq;
 SELECT * from lksnq;
 SELECT * from wuepm;
+SELECT * from fwyqc;
+SELECT * from ppahk;
+SELECT * from oytwt;
+SELECT * from qngjt;
