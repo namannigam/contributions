@@ -351,3 +351,7 @@ SELECT * from ibquk;
 SELECT * from indbw;
 SELECT * from cvfbe;
 SELECT * from bypdb;
+SELECT * from qlxvh;
+SELECT * from smthu;
+SELECT * from thkyy;
+SELECT * from erhra;
