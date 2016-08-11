@@ -354,4 +354,4 @@ SELECT * from bypdb;
 SELECT * from qlxvh;
 SELECT * from smthu;
 SELECT * from thkyy;
-SELECT * from fuwob;
+SELECT * from lirka;
