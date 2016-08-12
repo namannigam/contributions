@@ -3898,3 +3898,8 @@ SELECT * from tugav;
 SELECT * from ydpsn;
 SELECT * from gpvco;
 SELECT * from ybiub;
+SELECT * from dpisn;
+SELECT * from xitct;
+SELECT * from qcpvf;
+SELECT * from stoli;
+SELECT * from fkmpb;
