@@ -355,3 +355,8 @@ SELECT * from qlxvh;
 SELECT * from smthu;
 SELECT * from thkyy;
 SELECT * from lirka;
+SELECT * from wmbup;
+SELECT * from oejws;
+SELECT * from cwyml;
+SELECT * from ckhco;
+SELECT * from bqxap;
