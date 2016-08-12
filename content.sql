@@ -360,3 +360,4 @@ SELECT * from oejws;
 SELECT * from cwyml;
 SELECT * from ckhco;
 SELECT * from hdauo;
+SELECT * from nolim;
