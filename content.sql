@@ -3902,4 +3902,4 @@ SELECT * from dpisn;
 SELECT * from xitct;
 SELECT * from qcpvf;
 SELECT * from stoli;
-SELECT * from fkmpb;
+SELECT * from pdycb;
