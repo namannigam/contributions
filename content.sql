@@ -2123,3 +2123,8 @@ SELECT * from fwyqc;
 SELECT * from ppahk;
 SELECT * from oytwt;
 SELECT * from vkstf;
+SELECT * from jkvja;
+SELECT * from tquge;
+SELECT * from htmwr;
+SELECT * from rdgwh;
+SELECT * from ecdau;
