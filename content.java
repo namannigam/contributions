@@ -5352,7 +5352,7 @@ public class Clwyfd {
         System.out.println("oftcm");
         System.out.println("wsqwd");
         System.out.println("bgase");
-        System.out.println("jurfw");
-        System.out.println("hocte");
+        System.out.println("hoglp");
+        System.out.println("tbode");
     }
 }
