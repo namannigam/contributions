@@ -361,4 +361,7 @@ SELECT * from cwyml;
 SELECT * from ckhco;
 SELECT * from hdauo;
 SELECT * from nolim;
-SELECT * from xtyup;
+SELECT * from drwvc;
+SELECT * from jumbp;
+SELECT * from higqu;
+SELECT * from tqiuu;
