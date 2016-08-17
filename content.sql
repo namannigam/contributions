@@ -365,3 +365,4 @@ SELECT * from drwvc;
 SELECT * from jumbp;
 SELECT * from higqu;
 SELECT * from tqiuu;
+SELECT * from sfowf;
