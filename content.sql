@@ -365,4 +365,6 @@ SELECT * from drwvc;
 SELECT * from jumbp;
 SELECT * from higqu;
 SELECT * from tqiuu;
-SELECT * from pjabp;
+SELECT * from weltl;
+SELECT * from nrrlv;
+SELECT * from bdwsp;
