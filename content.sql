@@ -368,4 +368,7 @@ SELECT * from tqiuu;
 SELECT * from weltl;
 SELECT * from nrrlv;
 SELECT * from bdwsp;
-SELECT * from kikih;
+SELECT * from caxhm;
+SELECT * from ynxgn;
+SELECT * from hdflg;
+SELECT * from kgdcy;
