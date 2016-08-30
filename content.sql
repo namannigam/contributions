@@ -371,4 +371,4 @@ SELECT * from bdwsp;
 SELECT * from caxhm;
 SELECT * from ynxgn;
 SELECT * from hdflg;
-SELECT * from hmrnb;
+SELECT * from chgmt;
