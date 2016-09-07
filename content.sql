@@ -2138,4 +2138,3 @@ SELECT * from abpma;
 SELECT * from ogydh;
 SELECT * from ffyyu;
 SELECT * from vthht;
-SELECT * from irtsq;
