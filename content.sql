@@ -370,4 +370,3 @@ SELECT * from nrrlv;
 SELECT * from bdwsp;
 SELECT * from caxhm;
 SELECT * from ynxgn;
-SELECT * from sbkjv;
