@@ -368,4 +368,3 @@ SELECT * from tqiuu;
 SELECT * from weltl;
 SELECT * from nrrlv;
 SELECT * from bdwsp;
-SELECT * from lukvh;
