@@ -2136,4 +2136,4 @@ SELECT * from qblrh;
 SELECT * from rdjek;
 SELECT * from abpma;
 SELECT * from ogydh;
-SELECT * from ffyyu;
+SELECT * from galtg;
