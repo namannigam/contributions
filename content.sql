@@ -2137,3 +2137,4 @@ SELECT * from rdjek;
 SELECT * from hidvh;
 SELECT * from qidkc;
 SELECT * from tkrwo;
+SELECT * from bctqu;
