@@ -3909,5 +3909,5 @@ SELECT * from ebtkw;
 SELECT * from qafxq;
 SELECT * from oomec;
 SELECT * from droer;
-SELECT * from fxspf;
-SELECT * from wtgjv;
+SELECT * from yeiod;
+SELECT * from hejtk;
