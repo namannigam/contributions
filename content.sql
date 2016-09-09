@@ -366,5 +366,5 @@ SELECT * from jumbp;
 SELECT * from higqu;
 SELECT * from tqiuu;
 SELECT * from weltl;
-SELECT * from nrrlv;
-SELECT * from bdwsp;
+SELECT * from mfkwi;
+SELECT * from foqpq;
