@@ -2134,5 +2134,5 @@ SELECT * from hpnep;
 SELECT * from uqnmp;
 SELECT * from qblrh;
 SELECT * from rdjek;
-SELECT * from abpma;
-SELECT * from ogydh;
+SELECT * from hidvh;
+SELECT * from qidkc;
