@@ -3699,5 +3699,9 @@
   margin-bottom: 53px;
   margin-right: 50px;
   border-top-width: 34px;
-  padding-right: 54px;
+  border-right-width: 16px;
+  line-height: 53px;
+  font-size: 8px;
+  margin-top: 1px;
+  border-top-width: 35px;
 }
