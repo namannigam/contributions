@@ -370,3 +370,6 @@ SELECT * from mfkwi;
 SELECT * from foqpq;
 SELECT * from hhrbo;
 SELECT * from migjn;
+SELECT * from oynhd;
+SELECT * from psbbb;
+SELECT * from yiscu;
