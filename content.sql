@@ -2138,3 +2138,6 @@ SELECT * from hidvh;
 SELECT * from qidkc;
 SELECT * from tkrwo;
 SELECT * from qmluk;
+SELECT * from ssynv;
+SELECT * from kvuis;
+SELECT * from xxapg;
