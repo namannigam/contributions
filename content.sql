@@ -373,3 +373,4 @@ SELECT * from migjn;
 SELECT * from oynhd;
 SELECT * from psbbb;
 SELECT * from yiscu;
+SELECT * from ssfex;
