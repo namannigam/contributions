@@ -669,6 +669,13 @@ public class Clwyfd {
         System.out.println("voevr");
         System.out.println("tmymx");
         System.out.println("klefh");
-        System.out.println("bcgaf");
+        System.out.println("ahymu");
+        System.out.println("crlxq");
+        System.out.println("ncqng");
+        System.out.println("gnsee");
+        System.out.println("iklsi");
+        System.out.println("nxsja");
+        System.out.println("swwfn");
+        System.out.println("udska");
     }
 }

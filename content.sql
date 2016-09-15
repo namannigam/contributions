@@ -373,4 +373,6 @@ SELECT * from migjn;
 SELECT * from oynhd;
 SELECT * from psbbb;
 SELECT * from yiscu;
-SELECT * from lddoy;
+SELECT * from qkliv;
+SELECT * from cwofg;
+SELECT * from jeerj;
