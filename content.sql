@@ -2141,4 +2141,6 @@ SELECT * from qmluk;
 SELECT * from ssynv;
 SELECT * from kvuis;
 SELECT * from xxapg;
-SELECT * from ejgyh;
+SELECT * from qxldd;
+SELECT * from luttt;
+SELECT * from xipcg;
