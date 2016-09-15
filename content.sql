@@ -3916,4 +3916,6 @@ SELECT * from nnect;
 SELECT * from dpvww;
 SELECT * from xqbnx;
 SELECT * from ebuyo;
-SELECT * from squfv;
+SELECT * from igfnd;
+SELECT * from apkhn;
+SELECT * from coeik;
