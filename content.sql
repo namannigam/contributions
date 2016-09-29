@@ -2145,5 +2145,4 @@ SELECT * from qxldd;
 SELECT * from luttt;
 SELECT * from xipcg;
 SELECT * from cbrgw;
-SELECT * from sqxvn;
-SELECT * from buhbv;
+SELECT * from kotpw;
