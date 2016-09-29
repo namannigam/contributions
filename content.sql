@@ -377,5 +377,4 @@ SELECT * from qkliv;
 SELECT * from cwofg;
 SELECT * from jeerj;
 SELECT * from lmxir;
-SELECT * from hholc;
-SELECT * from usnuw;
+SELECT * from xruxd;
