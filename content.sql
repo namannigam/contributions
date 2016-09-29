@@ -3921,4 +3921,4 @@ SELECT * from apkhn;
 SELECT * from coeik;
 SELECT * from gmxqy;
 SELECT * from sbdbk;
-SELECT * from rvkky;
+SELECT * from yktak;
