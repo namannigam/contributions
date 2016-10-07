@@ -3924,4 +3924,4 @@ SELECT * from orgun;
 SELECT * from bvcen;
 SELECT * from tklre;
 SELECT * from ydvkf;
-SELECT * from onvwv;
+SELECT * from ujdup;
