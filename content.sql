@@ -381,4 +381,4 @@ SELECT * from dkpes;
 SELECT * from ycbgj;
 SELECT * from aixdi;
 SELECT * from uojvo;
-SELECT * from welfu;
+SELECT * from dkfsx;
