@@ -3920,6 +3920,3 @@ SELECT * from igfnd;
 SELECT * from apkhn;
 SELECT * from coeik;
 SELECT * from gmxqy;
-SELECT * from orgun;
-SELECT * from bvcen;
-SELECT * from tklre;
