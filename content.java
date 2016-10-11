@@ -720,7 +720,6 @@ public class Clwyfd {
         System.out.println("hqahl");
         System.out.println("mqiyp");
         System.out.println("kpqbi");
-        System.out.println("kheai");
-        System.out.println("udwup");
+        System.out.println("oqdkx");
     }
 }
