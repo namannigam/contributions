@@ -2147,4 +2147,3 @@ SELECT * from xipcg;
 SELECT * from cbrgw;
 SELECT * from kdche;
 SELECT * from dbbgt;
-SELECT * from snjrh;
