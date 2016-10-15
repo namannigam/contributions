@@ -3923,3 +3923,4 @@ SELECT * from gmxqy;
 SELECT * from lxylq;
 SELECT * from baxtu;
 SELECT * from kurvi;
+SELECT * from cisqx;
