@@ -380,3 +380,4 @@ SELECT * from lmxir;
 SELECT * from jepfh;
 SELECT * from cqckm;
 SELECT * from jtmel;
+SELECT * from oiwua;
