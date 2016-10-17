@@ -2149,3 +2149,4 @@ SELECT * from kdche;
 SELECT * from dbbgt;
 SELECT * from yoyfk;
 SELECT * from ytovt;
+SELECT * from lyrar;
