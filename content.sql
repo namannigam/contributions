@@ -382,3 +382,5 @@ SELECT * from cqckm;
 SELECT * from jtmel;
 SELECT * from oiwua;
 SELECT * from jsttd;
+SELECT * from whlyb;
+SELECT * from anwfw;
