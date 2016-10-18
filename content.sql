@@ -3928,3 +3928,4 @@ SELECT * from exopn;
 SELECT * from rgysr;
 SELECT * from atmrc;
 SELECT * from uwcdh;
+SELECT * from ftjtx;
