@@ -3927,3 +3927,4 @@ SELECT * from cisqx;
 SELECT * from exopn;
 SELECT * from rgysr;
 SELECT * from atmrc;
+SELECT * from uwcdh;
