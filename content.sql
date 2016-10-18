@@ -2150,4 +2150,5 @@ SELECT * from dbbgt;
 SELECT * from yoyfk;
 SELECT * from ytovt;
 SELECT * from lyrar;
-SELECT * from pyyjh;
+SELECT * from wxluq;
+SELECT * from xhqkd;
