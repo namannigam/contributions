@@ -3928,4 +3928,7 @@ SELECT * from exopn;
 SELECT * from rgysr;
 SELECT * from atmrc;
 SELECT * from uwcdh;
-SELECT * from ftjtx;
+SELECT * from roldq;
+SELECT * from bphfn;
+SELECT * from lkglq;
+SELECT * from uqwku;
