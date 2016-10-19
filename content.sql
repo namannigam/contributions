@@ -2152,3 +2152,8 @@ SELECT * from ytovt;
 SELECT * from lyrar;
 SELECT * from wxluq;
 SELECT * from xhqkd;
+SELECT * from siiyg;
+SELECT * from hupbk;
+SELECT * from ofijn;
+SELECT * from kmcfc;
+SELECT * from mxsfr;
