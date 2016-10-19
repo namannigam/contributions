@@ -580,5 +580,6 @@
   padding-bottom: 39px;
   margin-bottom: 90px;
   border-bottom-width: 33px;
-  border-bottom-width: 17px;
+  font-size: 0px;
+  padding-bottom: 57px;
 }

@@ -385,4 +385,7 @@ SELECT * from jsttd;
 SELECT * from whlyb;
 SELECT * from anwfw;
 SELECT * from ibwcy;
-SELECT * from yprcs;
+SELECT * from hqasr;
+SELECT * from gyibf;
+SELECT * from fwbqs;
+SELECT * from qmehf;
