@@ -388,4 +388,5 @@ SELECT * from ibwcy;
 SELECT * from hqasr;
 SELECT * from gyibf;
 SELECT * from fwbqs;
-SELECT * from hjxnn;
+SELECT * from dbjiw;
+SELECT * from myfsy;
