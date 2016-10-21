@@ -3931,4 +3931,5 @@ SELECT * from uwcdh;
 SELECT * from roldq;
 SELECT * from bphfn;
 SELECT * from lkglq;
-SELECT * from mahjq;
+SELECT * from rilir;
+SELECT * from dbjgl;
