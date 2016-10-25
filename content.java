@@ -740,8 +740,6 @@ public class Clwyfd {
         System.out.println("motlb");
         System.out.println("klkge");
         System.out.println("hragp");
-        System.out.println("ojoog");
-        System.out.println("bvyma");
-        System.out.println("xmeuj");
+        System.out.println("ckooe");
     }
 }
