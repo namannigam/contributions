@@ -3935,3 +3935,4 @@ SELECT * from rilir;
 SELECT * from warls;
 SELECT * from tjqua;
 SELECT * from qxigf;
+SELECT * from dftbo;
