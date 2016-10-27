@@ -390,3 +390,5 @@ SELECT * from gyibf;
 SELECT * from fwbqs;
 SELECT * from dbjiw;
 SELECT * from vbblw;
+SELECT * from coduk;
+SELECT * from nkrrd;
