@@ -2160,3 +2160,4 @@ SELECT * from pcsns;
 SELECT * from bfbvu;
 SELECT * from bsqux;
 SELECT * from metye;
+SELECT * from wwumu;
