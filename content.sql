@@ -2158,3 +2158,5 @@ SELECT * from ofijn;
 SELECT * from kmcfc;
 SELECT * from pcsns;
 SELECT * from bfbvu;
+SELECT * from bsqux;
+SELECT * from metye;
