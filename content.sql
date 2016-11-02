@@ -392,4 +392,4 @@ SELECT * from dbjiw;
 SELECT * from vbblw;
 SELECT * from coduk;
 SELECT * from nkrrd;
-SELECT * from giced;
+SELECT * from mudwf;
