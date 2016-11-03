@@ -2161,4 +2161,7 @@ SELECT * from bfbvu;
 SELECT * from bsqux;
 SELECT * from metye;
 SELECT * from kuymu;
-SELECT * from thgua;
+SELECT * from pqpfk;
+SELECT * from jnrji;
+SELECT * from qjvke;
+SELECT * from ilvro;
