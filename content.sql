@@ -394,3 +394,6 @@ SELECT * from coduk;
 SELECT * from nkrrd;
 SELECT * from mudwf;
 SELECT * from pmcsf;
+SELECT * from mtpfd;
+SELECT * from ojtxd;
+SELECT * from ulvmp;
