@@ -397,4 +397,4 @@ SELECT * from pmcsf;
 SELECT * from mtpfd;
 SELECT * from ojtxd;
 SELECT * from ulvmp;
-SELECT * from bmwnr;
+SELECT * from juodb;
