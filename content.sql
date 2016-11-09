@@ -398,4 +398,4 @@ SELECT * from mtpfd;
 SELECT * from ojtxd;
 SELECT * from ulvmp;
 SELECT * from juodb;
-SELECT * from uoviy;
+SELECT * from luqdf;
