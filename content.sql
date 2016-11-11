@@ -3942,3 +3942,4 @@ SELECT * from vjukw;
 SELECT * from mwmjp;
 SELECT * from ocpbx;
 SELECT * from ntxpp;
+SELECT * from foqqt;
