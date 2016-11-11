@@ -399,3 +399,4 @@ SELECT * from ojtxd;
 SELECT * from ulvmp;
 SELECT * from juodb;
 SELECT * from rsmlk;
+SELECT * from gjdti;
