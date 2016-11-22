@@ -2169,3 +2169,4 @@ SELECT * from nbflb;
 SELECT * from gybws;
 SELECT * from ewhyl;
 SELECT * from kgdow;
+SELECT * from cnjpc;
