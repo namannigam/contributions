@@ -404,3 +404,4 @@ SELECT * from mewuq;
 SELECT * from hiepo;
 SELECT * from cixns;
 SELECT * from smsoy;
+SELECT * from xaswn;
