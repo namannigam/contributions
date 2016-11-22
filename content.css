@@ -592,5 +592,6 @@
   line-height: 73px;
   line-height: 0px;
   border-right-width: 28px;
-  border-left-width: 31px;
+  border-left-width: 0px;
+  padding-left: 44px;
 }
