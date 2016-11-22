@@ -2172,3 +2172,4 @@ SELECT * from kgdow;
 SELECT * from cnjpc;
 SELECT * from kxprb;
 SELECT * from jwgyw;
+SELECT * from wgyfp;
