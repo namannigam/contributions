@@ -2175,3 +2175,4 @@ SELECT * from jwgyw;
 SELECT * from yjipq;
 SELECT * from dxynh;
 SELECT * from ugtip;
+SELECT * from tpkol;
