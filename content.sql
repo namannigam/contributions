@@ -3950,3 +3950,4 @@ SELECT * from wjqqx;
 SELECT * from qddpj;
 SELECT * from uyfid;
 SELECT * from wkedb;
+SELECT * from efynv;
