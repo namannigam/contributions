@@ -3952,3 +3952,4 @@ SELECT * from uyfid;
 SELECT * from wkedb;
 SELECT * from efynv;
 SELECT * from vhrxo;
+SELECT * from sxgat;
