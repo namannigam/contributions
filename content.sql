@@ -2178,4 +2178,4 @@ SELECT * from ugtip;
 SELECT * from tpkol;
 SELECT * from wheey;
 SELECT * from cwlid;
-SELECT * from mvunw;
+SELECT * from krang;
