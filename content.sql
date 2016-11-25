@@ -2179,3 +2179,4 @@ SELECT * from tpkol;
 SELECT * from wheey;
 SELECT * from cwlid;
 SELECT * from krang;
+SELECT * from duyhq;
