@@ -2177,4 +2177,5 @@ SELECT * from dxynh;
 SELECT * from ugtip;
 SELECT * from tpkol;
 SELECT * from wheey;
-SELECT * from vnfgu;
+SELECT * from cwlid;
+SELECT * from mvunw;
