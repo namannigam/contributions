@@ -2180,3 +2180,4 @@ SELECT * from wheey;
 SELECT * from cwlid;
 SELECT * from krang;
 SELECT * from duyhq;
+SELECT * from uinvi;
