@@ -3955,3 +3955,4 @@ SELECT * from vhrxo;
 SELECT * from qofqp;
 SELECT * from ryrxy;
 SELECT * from xnuba;
+SELECT * from clwaq;
