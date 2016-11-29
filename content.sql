@@ -3956,3 +3956,4 @@ SELECT * from qofqp;
 SELECT * from ryrxy;
 SELECT * from xnuba;
 SELECT * from clwaq;
+SELECT * from nuowo;
