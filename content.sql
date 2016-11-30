@@ -2182,3 +2182,4 @@ SELECT * from krang;
 SELECT * from duyhq;
 SELECT * from uinvi;
 SELECT * from sqtfl;
+SELECT * from spduu;
