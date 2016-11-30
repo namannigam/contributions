@@ -2183,3 +2183,4 @@ SELECT * from duyhq;
 SELECT * from uinvi;
 SELECT * from sqtfl;
 SELECT * from spduu;
+SELECT * from dqyry;
