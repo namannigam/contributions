@@ -2190,3 +2190,4 @@ SELECT * from awwbt;
 SELECT * from ilxbc;
 SELECT * from balya;
 SELECT * from egbie;
+SELECT * from jyxwf;
