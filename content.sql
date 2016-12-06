@@ -2191,3 +2191,4 @@ SELECT * from ilxbc;
 SELECT * from balya;
 SELECT * from egbie;
 SELECT * from bbkuw;
+SELECT * from vobsi;
