@@ -2185,3 +2185,7 @@ SELECT * from sqtfl;
 SELECT * from spduu;
 SELECT * from lcvlp;
 SELECT * from axdqo;
+SELECT * from tsgqo;
+SELECT * from awwbt;
+SELECT * from ilxbc;
+SELECT * from balya;
