@@ -417,3 +417,7 @@ SELECT * from sdavv;
 SELECT * from htgky;
 SELECT * from xxpnv;
 SELECT * from ndern;
+SELECT * from leqkn;
+SELECT * from serwo;
+SELECT * from fpjdv;
+SELECT * from mvgjk;
