@@ -2192,3 +2192,4 @@ SELECT * from balya;
 SELECT * from egbie;
 SELECT * from bbkuw;
 SELECT * from vobsi;
+SELECT * from befsb;
