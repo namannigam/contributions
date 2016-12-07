@@ -424,3 +424,4 @@ SELECT * from mvgjk;
 SELECT * from edwnp;
 SELECT * from ekera;
 SELECT * from ekfxu;
+SELECT * from idbkj;
