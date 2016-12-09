@@ -428,3 +428,4 @@ SELECT * from idbkj;
 SELECT * from uissq;
 SELECT * from dghsu;
 SELECT * from hprld;
+SELECT * from exegj;
