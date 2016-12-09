@@ -2196,3 +2196,4 @@ SELECT * from befsb;
 SELECT * from asuyv;
 SELECT * from ldpuh;
 SELECT * from daqmj;
+SELECT * from jqjsa;
