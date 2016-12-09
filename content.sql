@@ -426,3 +426,4 @@ SELECT * from ekera;
 SELECT * from ekfxu;
 SELECT * from idbkj;
 SELECT * from uissq;
+SELECT * from dghsu;
