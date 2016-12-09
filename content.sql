@@ -2194,3 +2194,4 @@ SELECT * from bbkuw;
 SELECT * from vobsi;
 SELECT * from befsb;
 SELECT * from asuyv;
+SELECT * from ldpuh;
