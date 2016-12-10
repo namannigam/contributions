@@ -430,3 +430,5 @@ SELECT * from dghsu;
 SELECT * from hprld;
 SELECT * from exegj;
 SELECT * from xtsbn;
+SELECT * from uanve;
+SELECT * from qbrmw;
