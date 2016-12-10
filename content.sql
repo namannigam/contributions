@@ -3973,3 +3973,5 @@ SELECT * from fuhvi;
 SELECT * from nmlxy;
 SELECT * from hcmrm;
 SELECT * from quosf;
+SELECT * from xydoi;
+SELECT * from fkoso;
