@@ -2200,3 +2200,4 @@ SELECT * from jqjsa;
 SELECT * from vhtev;
 SELECT * from yxicb;
 SELECT * from owxwa;
+SELECT * from inhfm;
