@@ -432,3 +432,4 @@ SELECT * from exegj;
 SELECT * from xtsbn;
 SELECT * from uanve;
 SELECT * from qbrmw;
+SELECT * from qmcmk;
