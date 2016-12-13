@@ -441,3 +441,4 @@ SELECT * from lcujj;
 SELECT * from vmvls;
 SELECT * from qmslh;
 SELECT * from xcghu;
+SELECT * from mkdtc;
