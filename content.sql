@@ -3985,3 +3985,7 @@ SELECT * from oeohs;
 SELECT * from ryvsc;
 SELECT * from bdqxy;
 SELECT * from ifxxp;
+SELECT * from yhiji;
+SELECT * from fghfm;
+SELECT * from fidsj;
+SELECT * from ralhu;
