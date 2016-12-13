@@ -442,3 +442,7 @@ SELECT * from vmvls;
 SELECT * from qmslh;
 SELECT * from xcghu;
 SELECT * from mkdtc;
+SELECT * from pktdn;
+SELECT * from cqiqy;
+SELECT * from ehnva;
+SELECT * from sbftt;
