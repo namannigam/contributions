@@ -3990,3 +3990,6 @@ SELECT * from fghfm;
 SELECT * from fidsj;
 SELECT * from ralhu;
 SELECT * from rmwvs;
+SELECT * from ljltl;
+SELECT * from slpru;
+SELECT * from koacg;
