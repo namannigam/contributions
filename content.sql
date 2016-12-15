@@ -447,3 +447,6 @@ SELECT * from cqiqy;
 SELECT * from ehnva;
 SELECT * from sbftt;
 SELECT * from mcbwc;
+SELECT * from kfpad;
+SELECT * from ailoo;
+SELECT * from tliut;
