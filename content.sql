@@ -450,4 +450,4 @@ SELECT * from mcbwc;
 SELECT * from kfpad;
 SELECT * from ailoo;
 SELECT * from tliut;
-SELECT * from oxplq;
+SELECT * from ypspm;
