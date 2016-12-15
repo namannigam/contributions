@@ -2218,4 +2218,4 @@ SELECT * from wkhho;
 SELECT * from khwls;
 SELECT * from hhdex;
 SELECT * from jints;
-SELECT * from gwetj;
+SELECT * from igyrm;
