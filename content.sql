@@ -3995,3 +3995,5 @@ SELECT * from slpru;
 SELECT * from koacg;
 SELECT * from kkkii;
 SELECT * from xlhra;
+SELECT * from dqwea;
+SELECT * from wvlhb;
