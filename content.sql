@@ -452,3 +452,5 @@ SELECT * from ailoo;
 SELECT * from tliut;
 SELECT * from ypspm;
 SELECT * from ovemw;
+SELECT * from iaxgl;
+SELECT * from wrvog;
