@@ -3772,5 +3772,7 @@
   border-left-width: 50px;
   margin-right: 13px;
   margin-top: 96px;
-  border-top-width: 35px;
+  padding-left: 90px;
+  font-size: 45px;
+  border-left-width: 20px;
 }
