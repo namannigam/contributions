@@ -2222,3 +2222,5 @@ SELECT * from igyrm;
 SELECT * from kvhrp;
 SELECT * from smvqe;
 SELECT * from wmkfh;
+SELECT * from kroqk;
+SELECT * from jrgnq;
