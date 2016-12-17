@@ -2224,3 +2224,4 @@ SELECT * from smvqe;
 SELECT * from wmkfh;
 SELECT * from kroqk;
 SELECT * from jrgnq;
+SELECT * from cljsj;
