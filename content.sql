@@ -2226,3 +2226,4 @@ SELECT * from kroqk;
 SELECT * from jrgnq;
 SELECT * from winrq;
 SELECT * from suevs;
+SELECT * from otutu;
