@@ -458,3 +458,4 @@ SELECT * from mfxmb;
 SELECT * from gyjfu;
 SELECT * from iqiyw;
 SELECT * from fuvdo;
+SELECT * from hinhu;
