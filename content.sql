@@ -2227,3 +2227,7 @@ SELECT * from jrgnq;
 SELECT * from winrq;
 SELECT * from suevs;
 SELECT * from otutu;
+SELECT * from hqgqj;
+SELECT * from femmd;
+SELECT * from dinii;
+SELECT * from pqpgw;
