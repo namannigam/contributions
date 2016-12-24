@@ -459,3 +459,7 @@ SELECT * from gyjfu;
 SELECT * from iqiyw;
 SELECT * from fuvdo;
 SELECT * from hinhu;
+SELECT * from okrfi;
+SELECT * from ijfsw;
+SELECT * from phhcv;
+SELECT * from pdkhg;
