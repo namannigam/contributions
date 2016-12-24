@@ -10379,7 +10379,7 @@ public class Clwyfd {
         System.out.println("dxsdq");
         System.out.println("ahabd");
         System.out.println("svcwc");
-        System.out.println("uxgkt");
-        System.out.println("comox");
+        System.out.println("gebie");
+        System.out.println("lqoib");
     }
 }
