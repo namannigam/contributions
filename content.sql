@@ -2232,3 +2232,4 @@ SELECT * from femmd;
 SELECT * from dinii;
 SELECT * from pqpgw;
 SELECT * from jsvlm;
+SELECT * from gwkcd;
