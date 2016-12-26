@@ -4006,3 +4006,4 @@ SELECT * from gydgj;
 SELECT * from mlunv;
 SELECT * from cmswt;
 SELECT * from wovxu;
+SELECT * from ftjtu;
