@@ -2233,3 +2233,4 @@ SELECT * from dinii;
 SELECT * from pqpgw;
 SELECT * from jsvlm;
 SELECT * from gwkcd;
+SELECT * from qyjhr;
