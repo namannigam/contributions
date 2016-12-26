@@ -464,3 +464,4 @@ SELECT * from ijfsw;
 SELECT * from phhcv;
 SELECT * from pdkhg;
 SELECT * from xtffa;
+SELECT * from fiwud;
