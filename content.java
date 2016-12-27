@@ -10382,6 +10382,5 @@ public class Clwyfd {
         System.out.println("gebie");
         System.out.println("xllyg");
         System.out.println("cgwct");
-        System.out.println("ftalc");
     }
 }
