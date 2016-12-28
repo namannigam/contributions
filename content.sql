@@ -465,4 +465,5 @@ SELECT * from phhcv;
 SELECT * from pdkhg;
 SELECT * from xtffa;
 SELECT * from fiwud;
-SELECT * from hqdrx;
+SELECT * from jygje;
+SELECT * from oyshh;
