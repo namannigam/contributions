@@ -467,4 +467,4 @@ SELECT * from xtffa;
 SELECT * from fiwud;
 SELECT * from jygje;
 SELECT * from oyshh;
-SELECT * from exenr;
+SELECT * from fdvfa;
