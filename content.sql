@@ -468,3 +468,4 @@ SELECT * from fiwud;
 SELECT * from jygje;
 SELECT * from oyshh;
 SELECT * from icvdo;
+SELECT * from knbmy;
