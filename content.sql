@@ -469,3 +469,4 @@ SELECT * from jygje;
 SELECT * from oyshh;
 SELECT * from icvdo;
 SELECT * from knbmy;
+SELECT * from bjtxb;
