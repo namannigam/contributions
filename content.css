@@ -3776,5 +3776,6 @@
   border-left-width: 28px;
   padding-right: 35px;
   font-size: 38px;
-  border-right-width: 87px;
+  padding-bottom: 16px;
+  line-height: 35px;
 }
