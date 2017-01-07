@@ -2238,4 +2238,4 @@ SELECT * from guufo;
 SELECT * from awoqo;
 SELECT * from scjwj;
 SELECT * from hcxcy;
-SELECT * from gvgcs;
+SELECT * from xosoh;
