@@ -873,7 +873,6 @@ public class Clwyfd {
         System.out.println("uedtq");
         System.out.println("wioln");
         System.out.println("itqon");
-        System.out.println("bevyn");
-        System.out.println("damjg");
+        System.out.println("qicdy");
     }
 }
