@@ -3778,5 +3778,6 @@
   font-size: 38px;
   padding-bottom: 16px;
   border-right-width: 37px;
-  line-height: 63px;
+  border-top-width: 20px;
+  border-left-width: 88px;
 }
