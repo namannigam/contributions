@@ -470,4 +470,5 @@ SELECT * from oyshh;
 SELECT * from icvdo;
 SELECT * from knbmy;
 SELECT * from nwbps;
-SELECT * from ojbei;
+SELECT * from qlhcl;
+SELECT * from mwxev;
