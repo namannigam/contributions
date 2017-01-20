@@ -627,5 +627,21 @@
   font-size: 54px;
   border-left-width: 86px;
   border-left-width: 87px;
-  margin-top: 32px;
+  border-bottom-width: 10px;
+  margin-bottom: 22px;
+  border-right-width: 35px;
+  padding-bottom: 43px;
+  padding-bottom: 12px;
+  line-height: 6px;
+  font-size: 85px;
+  border-top-width: 4px;
+  line-height: 48px;
+  border-right-width: 64px;
+  font-size: 58px;
+  margin-right: 48px;
+  margin-right: 3px;
+  padding-right: 25px;
+  margin-right: 99px;
+  padding-left: 54px;
+  padding-left: 46px;
 }
