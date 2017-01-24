@@ -2241,3 +2241,4 @@ SELECT * from hcxcy;
 SELECT * from rxptc;
 SELECT * from elcpv;
 SELECT * from ossot;
+SELECT * from qytui;
