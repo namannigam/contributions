@@ -473,3 +473,4 @@ SELECT * from nwbps;
 SELECT * from qlhcl;
 SELECT * from mwxev;
 SELECT * from cvqxb;
+SELECT * from exsmx;
