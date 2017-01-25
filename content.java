@@ -5640,7 +5640,6 @@ public class Clwyfd {
         System.out.println("iuvnu");
         System.out.println("majwb");
         System.out.println("rmunw");
-        System.out.println("ugobw");
-        System.out.println("hwmlp");
+        System.out.println("pltrc");
     }
 }
