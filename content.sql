@@ -473,4 +473,7 @@ SELECT * from nwbps;
 SELECT * from qlhcl;
 SELECT * from mwxev;
 SELECT * from cvqxb;
-SELECT * from exsmx;
+SELECT * from xrsqg;
+SELECT * from qxhht;
+SELECT * from etnrd;
+SELECT * from bqisw;
