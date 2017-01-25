@@ -4016,4 +4016,7 @@ SELECT * from hqfyf;
 SELECT * from yvxou;
 SELECT * from xaxnk;
 SELECT * from qrtrv;
-SELECT * from mroor;
+SELECT * from dbnay;
+SELECT * from hhikx;
+SELECT * from eduto;
+SELECT * from npfma;
