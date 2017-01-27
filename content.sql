@@ -4020,3 +4020,4 @@ SELECT * from dbnay;
 SELECT * from hhikx;
 SELECT * from eduto;
 SELECT * from npfma;
+SELECT * from kguwt;
