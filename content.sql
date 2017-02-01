@@ -4022,3 +4022,6 @@ SELECT * from eduto;
 SELECT * from npfma;
 SELECT * from kguwt;
 SELECT * from afaci;
+SELECT * from vfeha;
+SELECT * from ijiaj;
+SELECT * from idhin;
