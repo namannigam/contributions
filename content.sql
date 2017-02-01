@@ -479,3 +479,6 @@ SELECT * from etnrd;
 SELECT * from bqisw;
 SELECT * from pwbgh;
 SELECT * from cevjl;
+SELECT * from evwhg;
+SELECT * from reewr;
+SELECT * from hxhbm;
