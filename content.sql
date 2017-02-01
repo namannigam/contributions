@@ -2247,3 +2247,6 @@ SELECT * from ulffp;
 SELECT * from ykbyp;
 SELECT * from jqmtu;
 SELECT * from fkshw;
+SELECT * from fbdtb;
+SELECT * from qupwu;
+SELECT * from gjgar;
