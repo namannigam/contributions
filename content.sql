@@ -4029,3 +4029,4 @@ SELECT * from pdrbv;
 SELECT * from jkjne;
 SELECT * from lmkks;
 SELECT * from hmgoy;
+SELECT * from hkcyg;
