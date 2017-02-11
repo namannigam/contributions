@@ -482,4 +482,7 @@ SELECT * from cevjl;
 SELECT * from evwhg;
 SELECT * from reewr;
 SELECT * from oseqp;
-SELECT * from wxogt;
+SELECT * from jwcgt;
+SELECT * from euxtd;
+SELECT * from wsqra;
+SELECT * from iokam;
