@@ -2254,3 +2254,4 @@ SELECT * from gjdbp;
 SELECT * from reast;
 SELECT * from eubja;
 SELECT * from qpcii;
+SELECT * from eqwlj;
