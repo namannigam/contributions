@@ -487,4 +487,6 @@ SELECT * from euxtd;
 SELECT * from wsqra;
 SELECT * from iokam;
 SELECT * from mdxwv;
-SELECT * from jiuni;
+SELECT * from bwopq;
+SELECT * from fviht;
+SELECT * from jvoma;
