@@ -494,4 +494,5 @@ SELECT * from mbnjy;
 SELECT * from bqnmj;
 SELECT * from axkdl;
 SELECT * from cbayv;
-SELECT * from uvlpq;
+SELECT * from nqdwa;
+SELECT * from npjca;
