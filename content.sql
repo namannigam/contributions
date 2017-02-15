@@ -2262,4 +2262,4 @@ SELECT * from yfgke;
 SELECT * from ubwvf;
 SELECT * from lpopf;
 SELECT * from skkyx;
-SELECT * from jniwu;
+SELECT * from pubmy;
