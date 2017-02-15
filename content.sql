@@ -490,3 +490,7 @@ SELECT * from mdxwv;
 SELECT * from bwopq;
 SELECT * from fviht;
 SELECT * from jvoma;
+SELECT * from mbnjy;
+SELECT * from bqnmj;
+SELECT * from axkdl;
+SELECT * from cbayv;
