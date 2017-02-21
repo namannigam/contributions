@@ -500,4 +500,4 @@ SELECT * from heloy;
 SELECT * from evfpb;
 SELECT * from xxbrx;
 SELECT * from tfbqo;
-SELECT * from edexk;
+SELECT * from awkmk;
