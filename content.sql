@@ -2269,3 +2269,5 @@ SELECT * from itniu;
 SELECT * from covaw;
 SELECT * from rbahr;
 SELECT * from xycji;
+SELECT * from qlwio;
+SELECT * from shjit;
