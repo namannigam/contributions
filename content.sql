@@ -4044,3 +4044,5 @@ SELECT * from okjlk;
 SELECT * from fptci;
 SELECT * from oryix;
 SELECT * from wfkqr;
+SELECT * from stkxs;
+SELECT * from pljqt;
