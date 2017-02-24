@@ -501,3 +501,5 @@ SELECT * from evfpb;
 SELECT * from xxbrx;
 SELECT * from tfbqo;
 SELECT * from ojelg;
+SELECT * from rrdal;
+SELECT * from ixllj;
