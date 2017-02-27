@@ -2270,4 +2270,7 @@ SELECT * from covaw;
 SELECT * from rbahr;
 SELECT * from xycji;
 SELECT * from qlwio;
-SELECT * from shjit;
+SELECT * from aqmua;
+SELECT * from wxayg;
+SELECT * from kqdpl;
+SELECT * from fscxj;
