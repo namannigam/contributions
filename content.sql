@@ -505,4 +505,4 @@ SELECT * from rrdal;
 SELECT * from ttkqf;
 SELECT * from nvlwf;
 SELECT * from geeko;
-SELECT * from hydow;
+SELECT * from ejdua;
