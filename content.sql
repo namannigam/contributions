@@ -4048,4 +4048,6 @@ SELECT * from stkxs;
 SELECT * from kuxxx;
 SELECT * from uxlrt;
 SELECT * from qpjbi;
-SELECT * from jkdvr;
+SELECT * from xinxy;
+SELECT * from nwuyk;
+SELECT * from awsph;
