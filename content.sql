@@ -2276,3 +2276,4 @@ SELECT * from kqdpl;
 SELECT * from paxfi;
 SELECT * from tvmbj;
 SELECT * from wpsva;
+SELECT * from glqym;
