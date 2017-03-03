@@ -510,3 +510,4 @@ SELECT * from jmhfh;
 SELECT * from vkfhr;
 SELECT * from trxip;
 SELECT * from laysu;
+SELECT * from wtmuo;
