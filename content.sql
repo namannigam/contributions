@@ -2278,3 +2278,4 @@ SELECT * from tvmbj;
 SELECT * from wpsva;
 SELECT * from glqym;
 SELECT * from pinkh;
+SELECT * from svjlj;
