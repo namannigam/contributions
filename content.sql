@@ -4054,3 +4054,5 @@ SELECT * from awsph;
 SELECT * from mhicv;
 SELECT * from xghjm;
 SELECT * from ajpis;
+SELECT * from spoqn;
+SELECT * from wuoet;
