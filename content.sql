@@ -511,3 +511,5 @@ SELECT * from vkfhr;
 SELECT * from trxip;
 SELECT * from laysu;
 SELECT * from wtmuo;
+SELECT * from dyxxk;
+SELECT * from vbkru;
