@@ -2280,4 +2280,4 @@ SELECT * from glqym;
 SELECT * from pinkh;
 SELECT * from svjlj;
 SELECT * from tselx;
-SELECT * from oyjlb;
+SELECT * from tceni;
