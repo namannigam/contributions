@@ -963,6 +963,11 @@ public class Clwyfd {
         System.out.println("uflio");
         System.out.println("ofdvd");
         System.out.println("yhnva");
-        System.out.println("ohhux");
+        System.out.println("atpia");
+        System.out.println("gdwco");
+        System.out.println("naexo");
+        System.out.println("vyysb");
+        System.out.println("sumsi");
+        System.out.println("ekucp");
     }
 }
