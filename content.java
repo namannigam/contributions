@@ -970,6 +970,6 @@ public class Clwyfd {
         System.out.println("sumsi");
         System.out.println("ekucp");
         System.out.println("dpstr");
-        System.out.println("gendc");
+        System.out.println("nksit");
     }
 }
