@@ -2281,4 +2281,4 @@ SELECT * from pinkh;
 SELECT * from svjlj;
 SELECT * from tselx;
 SELECT * from gnruo;
-SELECT * from bltkg;
+SELECT * from rmqod;
