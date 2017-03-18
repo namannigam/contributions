@@ -10530,7 +10530,6 @@ public class Clwyfd {
         System.out.println("tqukr");
         System.out.println("xrsxg");
         System.out.println("qntgc");
-        System.out.println("qsbxp");
-        System.out.println("torre");
+        System.out.println("jjgjx");
     }
 }

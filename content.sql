@@ -4057,3 +4057,4 @@ SELECT * from ajpis;
 SELECT * from spoqn;
 SELECT * from dpvij;
 SELECT * from bfowk;
+SELECT * from joenu;
