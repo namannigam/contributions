@@ -2282,3 +2282,4 @@ SELECT * from svjlj;
 SELECT * from tselx;
 SELECT * from gnruo;
 SELECT * from efwsv;
+SELECT * from ixjnv;
