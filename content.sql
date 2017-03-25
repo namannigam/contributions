@@ -515,3 +515,4 @@ SELECT * from dyxxk;
 SELECT * from mkamf;
 SELECT * from xqqhu;
 SELECT * from lhrdo;
+SELECT * from awdgp;
