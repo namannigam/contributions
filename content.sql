@@ -2284,3 +2284,4 @@ SELECT * from gnruo;
 SELECT * from efwsv;
 SELECT * from mncbv;
 SELECT * from cbbeo;
+SELECT * from oykia;
