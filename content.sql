@@ -4058,3 +4058,4 @@ SELECT * from spoqn;
 SELECT * from dpvij;
 SELECT * from bfowk;
 SELECT * from rxnro;
+SELECT * from qdcmw;
