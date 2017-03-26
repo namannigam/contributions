@@ -518,3 +518,4 @@ SELECT * from lhrdo;
 SELECT * from awdgp;
 SELECT * from etwaf;
 SELECT * from owemw;
+SELECT * from bjcqf;
