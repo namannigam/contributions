@@ -2286,3 +2286,4 @@ SELECT * from mncbv;
 SELECT * from cbbeo;
 SELECT * from oykia;
 SELECT * from ucojs;
+SELECT * from usvyy;
