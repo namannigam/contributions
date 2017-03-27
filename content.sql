@@ -519,3 +519,4 @@ SELECT * from awdgp;
 SELECT * from etwaf;
 SELECT * from owemw;
 SELECT * from bjcqf;
+SELECT * from otpdf;
