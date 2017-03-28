@@ -523,3 +523,4 @@ SELECT * from otpdf;
 SELECT * from nlykv;
 SELECT * from rwwpn;
 SELECT * from glgcm;
+SELECT * from iwmtb;
