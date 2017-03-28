@@ -522,3 +522,4 @@ SELECT * from bjcqf;
 SELECT * from otpdf;
 SELECT * from nlykv;
 SELECT * from rwwpn;
+SELECT * from glgcm;

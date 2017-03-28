@@ -1005,7 +1005,6 @@ public class Clwyfd {
         System.out.println("bekbr");
         System.out.println("xehgr");
         System.out.println("xhgxq");
-        System.out.println("cfidw");
-        System.out.println("xmygo");
+        System.out.println("safih");
     }
 }
