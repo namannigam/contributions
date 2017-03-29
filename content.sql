@@ -2293,3 +2293,4 @@ SELECT * from hmoox;
 SELECT * from djhdn;
 SELECT * from lhvss;
 SELECT * from dypcl;
+SELECT * from poqlx;
