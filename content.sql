@@ -4066,4 +4066,5 @@ SELECT * from ochvg;
 SELECT * from dbhhq;
 SELECT * from nohrk;
 SELECT * from komxf;
-SELECT * from jbmnw;
+SELECT * from sewik;
+SELECT * from fijof;
