@@ -4068,4 +4068,4 @@ SELECT * from nohrk;
 SELECT * from komxf;
 SELECT * from sewik;
 SELECT * from fijof;
-SELECT * from kspxj;
+SELECT * from jbovn;
