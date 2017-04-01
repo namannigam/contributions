@@ -4070,3 +4070,4 @@ SELECT * from sewik;
 SELECT * from fijof;
 SELECT * from jbovn;
 SELECT * from kwowc;
+SELECT * from gprnb;
