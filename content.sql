@@ -2295,3 +2295,4 @@ SELECT * from lhvss;
 SELECT * from dypcl;
 SELECT * from mkbxu;
 SELECT * from njewk;
+SELECT * from tkisb;
