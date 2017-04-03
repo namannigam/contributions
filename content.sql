@@ -2296,3 +2296,4 @@ SELECT * from dypcl;
 SELECT * from mkbxu;
 SELECT * from njewk;
 SELECT * from tkisb;
+SELECT * from ehnet;
