@@ -528,3 +528,4 @@ SELECT * from egdjj;
 SELECT * from ivmmb;
 SELECT * from ugvab;
 SELECT * from hcdir;
+SELECT * from xqnvp;
