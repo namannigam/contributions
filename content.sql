@@ -2300,3 +2300,4 @@ SELECT * from ehnet;
 SELECT * from xbnyd;
 SELECT * from qddmn;
 SELECT * from quknw;
+SELECT * from vcuok;
