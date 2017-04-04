@@ -4072,3 +4072,6 @@ SELECT * from jbovn;
 SELECT * from kwowc;
 SELECT * from gprnb;
 SELECT * from mrcur;
+SELECT * from iypsk;
+SELECT * from bbfpl;
+SELECT * from cegde;
