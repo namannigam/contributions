@@ -531,4 +531,4 @@ SELECT * from hcdir;
 SELECT * from xqnvp;
 SELECT * from yrmbv;
 SELECT * from gccom;
-SELECT * from iixsr;
+SELECT * from lcuya;
