@@ -529,3 +529,6 @@ SELECT * from ivmmb;
 SELECT * from ugvab;
 SELECT * from hcdir;
 SELECT * from xqnvp;
+SELECT * from yrmbv;
+SELECT * from gccom;
+SELECT * from iixsr;
