@@ -4074,4 +4074,4 @@ SELECT * from gprnb;
 SELECT * from mrcur;
 SELECT * from iypsk;
 SELECT * from bbfpl;
-SELECT * from cegde;
+SELECT * from dquhi;
