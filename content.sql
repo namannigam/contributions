@@ -532,4 +532,5 @@ SELECT * from xqnvp;
 SELECT * from yrmbv;
 SELECT * from gccom;
 SELECT * from lcuya;
-SELECT * from hglcg;
+SELECT * from esmxm;
+SELECT * from bsgag;
