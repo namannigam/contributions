@@ -4075,4 +4075,4 @@ SELECT * from mrcur;
 SELECT * from iypsk;
 SELECT * from bbfpl;
 SELECT * from dquhi;
-SELECT * from dqyjt;
+SELECT * from mqbup;
