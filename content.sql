@@ -533,4 +533,7 @@ SELECT * from yrmbv;
 SELECT * from gccom;
 SELECT * from lcuya;
 SELECT * from esmxm;
-SELECT * from gotbo;
+SELECT * from ubapi;
+SELECT * from wrjil;
+SELECT * from flyep;
+SELECT * from mxrhs;
