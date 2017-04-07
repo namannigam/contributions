@@ -2301,4 +2301,7 @@ SELECT * from xbnyd;
 SELECT * from qddmn;
 SELECT * from quknw;
 SELECT * from iiiyu;
-SELECT * from pagmp;
+SELECT * from mekho;
+SELECT * from stejn;
+SELECT * from ekyqi;
+SELECT * from purwx;
