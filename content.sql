@@ -2304,4 +2304,5 @@ SELECT * from iiiyu;
 SELECT * from mekho;
 SELECT * from stejn;
 SELECT * from ekyqi;
-SELECT * from purwx;
+SELECT * from fenkm;
+SELECT * from ikdxd;
