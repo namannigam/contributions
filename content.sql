@@ -2306,3 +2306,4 @@ SELECT * from stejn;
 SELECT * from ekyqi;
 SELECT * from fenkm;
 SELECT * from ikdxd;
+SELECT * from kguqc;
