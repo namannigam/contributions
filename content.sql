@@ -538,3 +538,4 @@ SELECT * from wrjil;
 SELECT * from flyep;
 SELECT * from wybmt;
 SELECT * from ljkkc;
+SELECT * from qbukp;
