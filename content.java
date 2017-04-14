@@ -1027,7 +1027,6 @@ public class Clwyfd {
         System.out.println("uqklx");
         System.out.println("xtpmk");
         System.out.println("emvkd");
-        System.out.println("cwprb");
-        System.out.println("hswrt");
+        System.out.println("hfehb");
     }
 }
