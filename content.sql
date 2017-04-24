@@ -2311,3 +2311,4 @@ SELECT * from dvcvg;
 SELECT * from tgyrj;
 SELECT * from tinnp;
 SELECT * from vtafk;
+SELECT * from ruloq;
