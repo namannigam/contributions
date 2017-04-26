@@ -2311,4 +2311,6 @@ SELECT * from dvcvg;
 SELECT * from tgyrj;
 SELECT * from tinnp;
 SELECT * from vtafk;
-SELECT * from ketug;
+SELECT * from bsimu;
+SELECT * from ligkk;
+SELECT * from dmeqw;
