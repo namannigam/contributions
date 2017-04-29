@@ -2315,4 +2315,4 @@ SELECT * from bsimu;
 SELECT * from ligkk;
 SELECT * from dmeqw;
 SELECT * from egiqn;
-SELECT * from ntsbj;
+SELECT * from wtukb;
