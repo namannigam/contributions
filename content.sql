@@ -547,4 +547,4 @@ SELECT * from sbqjf;
 SELECT * from wubny;
 SELECT * from xqagk;
 SELECT * from roqxh;
-SELECT * from nuibo;
+SELECT * from avpma;
