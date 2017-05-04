@@ -3860,5 +3860,6 @@
   font-size: 55px;
   border-bottom-width: 22px;
   margin-left: 24px;
-  font-size: 69px;
+  border-left-width: 75px;
+  padding-right: 22px;
 }
