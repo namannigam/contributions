@@ -1069,7 +1069,6 @@ public class Clwyfd {
         System.out.println("whjat");
         System.out.println("ifktw");
         System.out.println("fpdyw");
-        System.out.println("numos");
-        System.out.println("eocdi");
+        System.out.println("abycn");
     }
 }
