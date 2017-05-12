@@ -2316,3 +2316,4 @@ SELECT * from ligkk;
 SELECT * from dmeqw;
 SELECT * from egiqn;
 SELECT * from qmlwl;
+SELECT * from vkqac;
