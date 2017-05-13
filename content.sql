@@ -2318,4 +2318,4 @@ SELECT * from egiqn;
 SELECT * from qmlwl;
 SELECT * from vkqac;
 SELECT * from nmcvr;
-SELECT * from bugcv;
+SELECT * from cwsyo;
