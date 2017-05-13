@@ -550,3 +550,4 @@ SELECT * from roqxh;
 SELECT * from avpma;
 SELECT * from gqqba;
 SELECT * from dvkvp;
+SELECT * from ligjv;
