@@ -2319,3 +2319,4 @@ SELECT * from qmlwl;
 SELECT * from vkqac;
 SELECT * from nmcvr;
 SELECT * from cwsyo;
+SELECT * from mrxvl;
