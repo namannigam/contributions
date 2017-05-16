@@ -1072,7 +1072,6 @@ public class Clwyfd {
         System.out.println("vxtso");
         System.out.println("megel");
         System.out.println("jbbaq");
-        System.out.println("gnubd");
-        System.out.println("hpclc");
+        System.out.println("rbpsh");
     }
 }
