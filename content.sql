@@ -551,3 +551,4 @@ SELECT * from avpma;
 SELECT * from gqqba;
 SELECT * from dvkvp;
 SELECT * from wjcbt;
+SELECT * from fudxr;
