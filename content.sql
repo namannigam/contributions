@@ -2327,3 +2327,4 @@ SELECT * from vofux;
 SELECT * from vpuib;
 SELECT * from bolpk;
 SELECT * from bkuvw;
+SELECT * from dyjfr;
