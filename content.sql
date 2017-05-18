@@ -4101,4 +4101,4 @@ SELECT * from hhivg;
 SELECT * from lmten;
 SELECT * from jfrqw;
 SELECT * from lunvg;
-SELECT * from bmgif;
+SELECT * from nvrxx;
