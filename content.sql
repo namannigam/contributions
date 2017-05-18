@@ -556,3 +556,6 @@ SELECT * from pakin;
 SELECT * from ajunh;
 SELECT * from aatwh;
 SELECT * from llfjt;
+SELECT * from gvhlg;
+SELECT * from tjqpe;
+SELECT * from bjqjx;
