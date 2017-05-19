@@ -4103,3 +4103,5 @@ SELECT * from jfrqw;
 SELECT * from lunvg;
 SELECT * from nvrxx;
 SELECT * from ljdsn;
+SELECT * from oqlyp;
+SELECT * from igpoq;
