@@ -560,3 +560,5 @@ SELECT * from gvhlg;
 SELECT * from tjqpe;
 SELECT * from njpdw;
 SELECT * from pfbbs;
+SELECT * from cuodj;
+SELECT * from qxrdn;
