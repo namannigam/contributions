@@ -563,3 +563,4 @@ SELECT * from pfbbs;
 SELECT * from cuodj;
 SELECT * from qxrdn;
 SELECT * from gjotm;
+SELECT * from owxwe;
