@@ -2266,5 +2266,6 @@
   font-size: 81px;
   margin-bottom: 19px;
   padding-right: 34px;
-  margin-right: 0px;
+  border-left-width: 96px;
+  border-top-width: 95px;
 }
