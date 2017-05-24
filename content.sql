@@ -4108,3 +4108,4 @@ SELECT * from igpoq;
 SELECT * from agilr;
 SELECT * from jqibi;
 SELECT * from kiicu;
+SELECT * from spmdp;
