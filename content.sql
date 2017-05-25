@@ -566,3 +566,5 @@ SELECT * from gjotm;
 SELECT * from crxhc;
 SELECT * from fvjcm;
 SELECT * from yekwn;
+SELECT * from eliox;
+SELECT * from ltjjm;
