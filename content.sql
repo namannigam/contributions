@@ -4109,3 +4109,5 @@ SELECT * from agilr;
 SELECT * from jqibi;
 SELECT * from kiicu;
 SELECT * from spmdp;
+SELECT * from cdpck;
+SELECT * from iuvcv;
