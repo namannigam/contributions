@@ -4111,3 +4111,4 @@ SELECT * from kiicu;
 SELECT * from spmdp;
 SELECT * from cdpck;
 SELECT * from iuvcv;
+SELECT * from mqesl;
