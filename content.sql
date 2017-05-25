@@ -569,3 +569,4 @@ SELECT * from yekwn;
 SELECT * from eliox;
 SELECT * from ltjjm;
 SELECT * from hysvw;
+SELECT * from vnmed;
