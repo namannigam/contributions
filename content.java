@@ -5825,6 +5825,11 @@ public class Clwyfd {
         System.out.println("heith");
         System.out.println("hoosc");
         System.out.println("bgduc");
-        System.out.println("tmqvx");
+        System.out.println("spoea");
+        System.out.println("lkuvv");
+        System.out.println("jvcpd");
+        System.out.println("seqff");
+        System.out.println("jotbe");
+        System.out.println("lxbyv");
     }
 }

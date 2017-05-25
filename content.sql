@@ -2334,3 +2334,5 @@ SELECT * from dyyxn;
 SELECT * from gqvxd;
 SELECT * from kpcyr;
 SELECT * from ocqnk;
+SELECT * from kogiw;
+SELECT * from tynox;
