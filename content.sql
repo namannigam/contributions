@@ -2336,3 +2336,4 @@ SELECT * from kpcyr;
 SELECT * from ocqnk;
 SELECT * from kogiw;
 SELECT * from tynox;
+SELECT * from ujhif;
