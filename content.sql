@@ -570,3 +570,4 @@ SELECT * from eliox;
 SELECT * from ltjjm;
 SELECT * from hysvw;
 SELECT * from vungm;
+SELECT * from yaigs;
