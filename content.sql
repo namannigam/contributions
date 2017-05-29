@@ -4113,3 +4113,4 @@ SELECT * from cdpck;
 SELECT * from iuvcv;
 SELECT * from mqesl;
 SELECT * from abiwm;
+SELECT * from arlgl;
