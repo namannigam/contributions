@@ -2339,3 +2339,6 @@ SELECT * from tynox;
 SELECT * from ujhif;
 SELECT * from sbbrx;
 SELECT * from umsvh;
+SELECT * from qjood;
+SELECT * from fmxjt;
+SELECT * from nyevr;
