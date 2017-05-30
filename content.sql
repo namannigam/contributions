@@ -571,3 +571,6 @@ SELECT * from ltjjm;
 SELECT * from hysvw;
 SELECT * from vungm;
 SELECT * from yaigs;
+SELECT * from lkggy;
+SELECT * from bjvon;
+SELECT * from cqsfn;
