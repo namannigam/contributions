@@ -4114,3 +4114,6 @@ SELECT * from iuvcv;
 SELECT * from mqesl;
 SELECT * from abiwm;
 SELECT * from arlgl;
+SELECT * from aroct;
+SELECT * from wkian;
+SELECT * from ximxd;
