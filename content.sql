@@ -574,3 +574,4 @@ SELECT * from yaigs;
 SELECT * from lkggy;
 SELECT * from bjvon;
 SELECT * from cqsfn;
+SELECT * from xnmwn;
