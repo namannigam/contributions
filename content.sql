@@ -2345,3 +2345,8 @@ SELECT * from nyevr;
 SELECT * from byecb;
 SELECT * from ufvqr;
 SELECT * from eeweb;
+SELECT * from aivng;
+SELECT * from gsfbi;
+SELECT * from shkru;
+SELECT * from qqopf;
+SELECT * from wridh;
