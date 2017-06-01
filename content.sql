@@ -4118,3 +4118,5 @@ SELECT * from aroct;
 SELECT * from wkian;
 SELECT * from ximxd;
 SELECT * from mcewd;
+SELECT * from fwgol;
+SELECT * from leveu;
