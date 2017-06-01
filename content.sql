@@ -577,3 +577,8 @@ SELECT * from cqsfn;
 SELECT * from xnmwn;
 SELECT * from ugofy;
 SELECT * from jtktl;
+SELECT * from uvtne;
+SELECT * from wvpnj;
+SELECT * from ntwlc;
+SELECT * from ymfgi;
+SELECT * from bccom;
