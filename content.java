@@ -1100,6 +1100,5 @@ public class Clwyfd {
         System.out.println("ngybu");
         System.out.println("idemy");
         System.out.println("hpcwu");
-        System.out.println("nhwwn");
     }
 }
