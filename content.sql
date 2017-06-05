@@ -2350,4 +2350,4 @@ SELECT * from gsfbi;
 SELECT * from shkru;
 SELECT * from qqopf;
 SELECT * from wridh;
-SELECT * from ckqtu;
+SELECT * from xogjm;
