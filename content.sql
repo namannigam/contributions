@@ -583,3 +583,4 @@ SELECT * from ntwlc;
 SELECT * from ymfgi;
 SELECT * from bccom;
 SELECT * from sfhsl;
+SELECT * from uxckh;
