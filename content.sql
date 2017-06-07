@@ -595,3 +595,4 @@ SELECT * from adgke;
 SELECT * from jkbgv;
 SELECT * from lfbqt;
 SELECT * from mawbb;
+SELECT * from dpocq;
