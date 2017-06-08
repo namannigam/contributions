@@ -4139,3 +4139,7 @@ SELECT * from wolru;
 SELECT * from urhta;
 SELECT * from hsidt;
 SELECT * from btgte;
+SELECT * from fhpqy;
+SELECT * from ikdoj;
+SELECT * from jrieu;
+SELECT * from rjeph;
