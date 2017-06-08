@@ -600,3 +600,4 @@ SELECT * from lyhrv;
 SELECT * from runbd;
 SELECT * from qeooc;
 SELECT * from fyjte;
+SELECT * from mjtux;
