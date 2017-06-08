@@ -2364,3 +2364,7 @@ SELECT * from mgocw;
 SELECT * from pxocg;
 SELECT * from gvgyj;
 SELECT * from enwsv;
+SELECT * from dvalr;
+SELECT * from rnxgc;
+SELECT * from lyclk;
+SELECT * from mfiyl;
