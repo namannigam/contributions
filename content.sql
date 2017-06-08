@@ -2368,3 +2368,4 @@ SELECT * from dvalr;
 SELECT * from rnxgc;
 SELECT * from lyclk;
 SELECT * from mfiyl;
+SELECT * from kwlem;
