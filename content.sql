@@ -2369,4 +2369,5 @@ SELECT * from rnxgc;
 SELECT * from lyclk;
 SELECT * from mfiyl;
 SELECT * from kwlem;
-SELECT * from ostyd;
+SELECT * from ewokd;
+SELECT * from kmmkk;
