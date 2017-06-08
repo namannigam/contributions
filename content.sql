@@ -596,3 +596,7 @@ SELECT * from jkbgv;
 SELECT * from lfbqt;
 SELECT * from mawbb;
 SELECT * from dpocq;
+SELECT * from lyhrv;
+SELECT * from runbd;
+SELECT * from qeooc;
+SELECT * from fyjte;
