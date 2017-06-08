@@ -4144,3 +4144,4 @@ SELECT * from ikdoj;
 SELECT * from jrieu;
 SELECT * from rjeph;
 SELECT * from bvvmv;
+SELECT * from qdtng;
