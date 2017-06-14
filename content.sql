@@ -606,3 +606,4 @@ SELECT * from odhix;
 SELECT * from bkeap;
 SELECT * from ynnbf;
 SELECT * from yijrr;
+SELECT * from stvxh;
