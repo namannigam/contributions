@@ -603,4 +603,5 @@ SELECT * from fyjte;
 SELECT * from mjtux;
 SELECT * from rjqim;
 SELECT * from odhix;
-SELECT * from tbnkt;
+SELECT * from bkeap;
+SELECT * from ynnbf;
