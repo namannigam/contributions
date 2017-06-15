@@ -4149,3 +4149,6 @@ SELECT * from qonrs;
 SELECT * from jdfbs;
 SELECT * from aiygl;
 SELECT * from xmmjj;
+SELECT * from knlid;
+SELECT * from mdmlu;
+SELECT * from drrnq;
