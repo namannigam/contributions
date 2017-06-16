@@ -10673,6 +10673,5 @@ public class Clwyfd {
         System.out.println("ldxar");
         System.out.println("rjxyw");
         System.out.println("eptxt");
-        System.out.println("bpidt");
     }
 }
