@@ -2380,3 +2380,4 @@ SELECT * from qpqud;
 SELECT * from mktcn;
 SELECT * from tpjrx;
 SELECT * from kfocw;
+SELECT * from gmnmb;
