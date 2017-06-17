@@ -4150,3 +4150,8 @@ SELECT * from jdfbs;
 SELECT * from aiygl;
 SELECT * from xmmjj;
 SELECT * from knlid;
+SELECT * from hrsnj;
+SELECT * from fhuoq;
+SELECT * from revyb;
+SELECT * from mttya;
+SELECT * from pdvbj;
