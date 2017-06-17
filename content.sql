@@ -2375,3 +2375,8 @@ SELECT * from irwmu;
 SELECT * from vybgs;
 SELECT * from troap;
 SELECT * from hikmu;
+SELECT * from sxoum;
+SELECT * from qpqud;
+SELECT * from mktcn;
+SELECT * from tpjrx;
+SELECT * from kfocw;
