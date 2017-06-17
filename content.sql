@@ -607,3 +607,8 @@ SELECT * from bkeap;
 SELECT * from ynnbf;
 SELECT * from yijrr;
 SELECT * from stvxh;
+SELECT * from utbfo;
+SELECT * from fosbu;
+SELECT * from thnxn;
+SELECT * from oqgqh;
+SELECT * from acdvd;
