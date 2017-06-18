@@ -613,3 +613,4 @@ SELECT * from thnxn;
 SELECT * from oqgqh;
 SELECT * from acdvd;
 SELECT * from vfhny;
+SELECT * from sartj;
