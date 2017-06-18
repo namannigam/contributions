@@ -2381,3 +2381,4 @@ SELECT * from mktcn;
 SELECT * from tpjrx;
 SELECT * from kfocw;
 SELECT * from gmnmb;
+SELECT * from iuokj;
