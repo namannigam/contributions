@@ -4156,4 +4156,3 @@ SELECT * from revyb;
 SELECT * from mttya;
 SELECT * from pdvbj;
 SELECT * from jfkpl;
-SELECT * from ggekw;
