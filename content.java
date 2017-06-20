@@ -1134,7 +1134,12 @@ public class Clwyfd {
         System.out.println("hhpad");
         System.out.println("eadvp");
         System.out.println("mkqpa");
-        System.out.println("wuglp");
-        System.out.println("pidvl");
+        System.out.println("kwwns");
+        System.out.println("xweje");
+        System.out.println("alffs");
+        System.out.println("qxrps");
+        System.out.println("ljxgk");
+        System.out.println("wgfpu");
+        System.out.println("guaef");
     }
 }
