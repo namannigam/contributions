@@ -10682,7 +10682,12 @@ public class Clwyfd {
         System.out.println("bkebp");
         System.out.println("lfieh");
         System.out.println("atqpj");
-        System.out.println("vrolg");
-        System.out.println("rwdou");
+        System.out.println("hjjgk");
+        System.out.println("ofjmf");
+        System.out.println("uogmp");
+        System.out.println("qlldo");
+        System.out.println("cqqtj");
+        System.out.println("yxlba");
+        System.out.println("qvwdu");
     }
 }
