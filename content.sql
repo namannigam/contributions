@@ -618,3 +618,4 @@ SELECT * from ajxfg;
 SELECT * from vreuy;
 SELECT * from qqoht;
 SELECT * from kanri;
+SELECT * from nwqms;
