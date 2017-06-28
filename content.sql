@@ -2384,4 +2384,5 @@ SELECT * from uelow;
 SELECT * from skpet;
 SELECT * from eppbn;
 SELECT * from vtean;
-SELECT * from sypql;
+SELECT * from bsjar;
+SELECT * from hnwjn;
