@@ -616,4 +616,5 @@ SELECT * from gcslq;
 SELECT * from bkjdl;
 SELECT * from ajxfg;
 SELECT * from vreuy;
-SELECT * from nuouy;
+SELECT * from qqoht;
+SELECT * from kanri;
