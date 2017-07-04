@@ -4162,4 +4162,6 @@ SELECT * from cbvqi;
 SELECT * from xruja;
 SELECT * from baavh;
 SELECT * from qvreu;
-SELECT * from kunam;
+SELECT * from nidlm;
+SELECT * from nmoos;
+SELECT * from lmssf;
