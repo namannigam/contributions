@@ -2387,4 +2387,6 @@ SELECT * from vtean;
 SELECT * from bsjar;
 SELECT * from hnwjn;
 SELECT * from ygttp;
-SELECT * from phfcr;
+SELECT * from yfadd;
+SELECT * from vyhtk;
+SELECT * from iksig;
