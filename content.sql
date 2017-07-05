@@ -621,4 +621,4 @@ SELECT * from kanri;
 SELECT * from nwqms;
 SELECT * from esucj;
 SELECT * from aecgq;
-SELECT * from kamlg;
+SELECT * from ibtrj;
