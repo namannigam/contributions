@@ -764,5 +764,12 @@
   border-bottom-width: 47px;
   border-right-width: 34px;
   margin-top: 4px;
-  font-size: 51px;
+  border-left-width: 10px;
+  padding-left: 62px;
+  border-top-width: 96px;
+  padding-left: 38px;
+  padding-bottom: 67px;
+  font-size: 65px;
+  border-top-width: 84px;
+  margin-bottom: 38px;
 }
