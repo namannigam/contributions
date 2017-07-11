@@ -785,4 +785,8 @@
   padding-top: 11px;
   padding-right: 57px;
   font-size: 36px;
+  padding-right: 5px;
+  border-bottom-width: 64px;
+  border-left-width: 5px;
+  margin-right: 0px;
 }
