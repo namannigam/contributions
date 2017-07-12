@@ -10759,7 +10759,6 @@ public class Clwyfd {
         System.out.println("pcctm");
         System.out.println("rldtl");
         System.out.println("lymeq");
-        System.out.println("lwueu");
-        System.out.println("soqir");
+        System.out.println("cunxx");
     }
 }
