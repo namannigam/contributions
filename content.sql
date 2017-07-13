@@ -2390,3 +2390,4 @@ SELECT * from ygttp;
 SELECT * from yfadd;
 SELECT * from vyhtk;
 SELECT * from olnrt;
+SELECT * from ppyxw;
