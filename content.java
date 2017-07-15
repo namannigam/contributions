@@ -10761,8 +10761,7 @@ public class Clwyfd {
         System.out.println("lymeq");
         System.out.println("ypwkm");
         System.out.println("whknu");
-        System.out.println("okgri");
-        System.out.println("ynffh");
-        System.out.println("oeagx");
+        System.out.println("aycdh");
+        System.out.println("obwld");
     }
 }
