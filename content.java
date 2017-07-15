@@ -1213,8 +1213,7 @@ public class Clwyfd {
         System.out.println("otgih");
         System.out.println("uvfvh");
         System.out.println("sftoq");
-        System.out.println("yxshv");
-        System.out.println("bklfk");
-        System.out.println("wkvlg");
+        System.out.println("jyske");
+        System.out.println("mktaj");
     }
 }
