@@ -627,3 +627,4 @@ SELECT * from wibom;
 SELECT * from msubr;
 SELECT * from rslki;
 SELECT * from ekrrt;
+SELECT * from ibctl;
