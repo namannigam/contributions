@@ -4169,4 +4169,4 @@ SELECT * from pjnfh;
 SELECT * from setxr;
 SELECT * from ttimb;
 SELECT * from cojts;
-SELECT * from anrdf;
+SELECT * from efnom;
