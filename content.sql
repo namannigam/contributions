@@ -2391,3 +2391,7 @@ SELECT * from yfadd;
 SELECT * from vyhtk;
 SELECT * from olnrt;
 SELECT * from eegfy;
+SELECT * from rjori;
+SELECT * from fiokh;
+SELECT * from highc;
+SELECT * from psmsq;
