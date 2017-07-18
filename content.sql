@@ -623,3 +623,7 @@ SELECT * from esucj;
 SELECT * from aecgq;
 SELECT * from scuod;
 SELECT * from eftas;
+SELECT * from wibom;
+SELECT * from msubr;
+SELECT * from rslki;
+SELECT * from qonov;
