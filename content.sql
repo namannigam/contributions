@@ -2394,4 +2394,4 @@ SELECT * from eegfy;
 SELECT * from rjori;
 SELECT * from fiokh;
 SELECT * from highc;
-SELECT * from psmsq;
+SELECT * from qbkfq;
