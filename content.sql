@@ -626,4 +626,4 @@ SELECT * from eftas;
 SELECT * from wibom;
 SELECT * from msubr;
 SELECT * from rslki;
-SELECT * from qonov;
+SELECT * from ekrrt;
