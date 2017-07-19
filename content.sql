@@ -4173,4 +4173,4 @@ SELECT * from efnom;
 SELECT * from euaxy;
 SELECT * from xwcst;
 SELECT * from ifigu;
-SELECT * from lbjyn;
+SELECT * from ipgyr;
