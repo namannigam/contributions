@@ -4172,3 +4172,5 @@ SELECT * from cojts;
 SELECT * from efnom;
 SELECT * from euaxy;
 SELECT * from xwcst;
+SELECT * from ifigu;
+SELECT * from olluw;
