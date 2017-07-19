@@ -628,4 +628,6 @@ SELECT * from msubr;
 SELECT * from rslki;
 SELECT * from ekrrt;
 SELECT * from ibctl;
-SELECT * from jmfso;
+SELECT * from psjse;
+SELECT * from hwodm;
+SELECT * from tngdb;
