@@ -630,4 +630,4 @@ SELECT * from ekrrt;
 SELECT * from ibctl;
 SELECT * from psjse;
 SELECT * from hwodm;
-SELECT * from tngdb;
+SELECT * from igqae;
