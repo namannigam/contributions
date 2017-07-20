@@ -2399,3 +2399,4 @@ SELECT * from oijag;
 SELECT * from kxqpa;
 SELECT * from xthrc;
 SELECT * from tcosv;
+SELECT * from divrm;
