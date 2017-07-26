@@ -2399,4 +2399,5 @@ SELECT * from oijag;
 SELECT * from kxqpa;
 SELECT * from xthrc;
 SELECT * from tcosv;
-SELECT * from abymp;
+SELECT * from iglec;
+SELECT * from aogui;
