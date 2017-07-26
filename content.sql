@@ -4174,4 +4174,5 @@ SELECT * from euaxy;
 SELECT * from xwcst;
 SELECT * from ifigu;
 SELECT * from ipgyr;
-SELECT * from cpepg;
+SELECT * from ufemd;
+SELECT * from yskfw;
