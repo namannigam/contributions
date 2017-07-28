@@ -635,3 +635,4 @@ SELECT * from phlhg;
 SELECT * from rkbdu;
 SELECT * from rguuk;
 SELECT * from uocwb;
+SELECT * from mgahh;
