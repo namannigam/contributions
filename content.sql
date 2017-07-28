@@ -632,4 +632,6 @@ SELECT * from psjse;
 SELECT * from hwodm;
 SELECT * from wcotc;
 SELECT * from phlhg;
-SELECT * from tapqe;
+SELECT * from rkbdu;
+SELECT * from rguuk;
+SELECT * from uocwb;
