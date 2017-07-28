@@ -4178,3 +4178,4 @@ SELECT * from ufemd;
 SELECT * from fdukl;
 SELECT * from lkyyt;
 SELECT * from nhbnd;
+SELECT * from aswlk;
