@@ -4175,4 +4175,6 @@ SELECT * from xwcst;
 SELECT * from ifigu;
 SELECT * from ipgyr;
 SELECT * from ufemd;
-SELECT * from yskfw;
+SELECT * from fdukl;
+SELECT * from lkyyt;
+SELECT * from nhbnd;
