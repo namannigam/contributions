@@ -637,3 +637,4 @@ SELECT * from rguuk;
 SELECT * from uocwb;
 SELECT * from mgahh;
 SELECT * from ubfoy;
+SELECT * from jirkc;
