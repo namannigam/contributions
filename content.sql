@@ -4180,3 +4180,4 @@ SELECT * from lkyyt;
 SELECT * from nhbnd;
 SELECT * from aswlk;
 SELECT * from xflid;
+SELECT * from catkt;
