@@ -2406,3 +2406,4 @@ SELECT * from abdbn;
 SELECT * from sksqc;
 SELECT * from tyxta;
 SELECT * from ngilw;
+SELECT * from fwagr;
