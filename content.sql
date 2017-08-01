@@ -4182,3 +4182,6 @@ SELECT * from aswlk;
 SELECT * from xflid;
 SELECT * from catkt;
 SELECT * from vlltk;
+SELECT * from pwmyb;
+SELECT * from hvuww;
+SELECT * from wrtgh;
