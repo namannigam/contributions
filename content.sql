@@ -2410,3 +2410,4 @@ SELECT * from fwagr;
 SELECT * from ygdys;
 SELECT * from skhtg;
 SELECT * from kqkhk;
+SELECT * from yeykp;
