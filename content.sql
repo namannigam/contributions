@@ -642,3 +642,4 @@ SELECT * from ycrxb;
 SELECT * from dnogu;
 SELECT * from omvmp;
 SELECT * from lkehp;
+SELECT * from stkvv;
