@@ -2407,3 +2407,6 @@ SELECT * from sksqc;
 SELECT * from tyxta;
 SELECT * from ngilw;
 SELECT * from fwagr;
+SELECT * from ygdys;
+SELECT * from skhtg;
+SELECT * from kqkhk;
