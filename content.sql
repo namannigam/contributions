@@ -639,3 +639,6 @@ SELECT * from mgahh;
 SELECT * from ubfoy;
 SELECT * from jirkc;
 SELECT * from ycrxb;
+SELECT * from dnogu;
+SELECT * from omvmp;
+SELECT * from lkehp;
