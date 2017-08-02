@@ -2359,5 +2359,12 @@
   padding-left: 64px;
   padding-right: 20px;
   font-size: 10px;
-  padding-right: 51px;
+  border-left-width: 31px;
+  line-height: 12px;
+  border-right-width: 17px;
+  line-height: 73px;
+  border-top-width: 90px;
+  padding-right: 77px;
+  padding-left: 35px;
+  font-size: 42px;
 }
