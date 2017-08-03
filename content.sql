@@ -649,3 +649,5 @@ SELECT * from inpwp;
 SELECT * from wectu;
 SELECT * from qpfin;
 SELECT * from ruiqt;
+SELECT * from uxoes;
+SELECT * from qbjtn;
