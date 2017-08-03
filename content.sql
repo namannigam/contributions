@@ -4192,3 +4192,5 @@ SELECT * from gdpos;
 SELECT * from cygex;
 SELECT * from hkrwa;
 SELECT * from bcdxf;
+SELECT * from hrvri;
+SELECT * from cmekk;
