@@ -2419,3 +2419,4 @@ SELECT * from dvndl;
 SELECT * from tuwrs;
 SELECT * from tyvcg;
 SELECT * from rcnpt;
+SELECT * from bduco;
