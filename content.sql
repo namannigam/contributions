@@ -2417,3 +2417,5 @@ SELECT * from oxhwf;
 SELECT * from iornr;
 SELECT * from dvndl;
 SELECT * from tuwrs;
+SELECT * from tyvcg;
+SELECT * from rcnpt;
