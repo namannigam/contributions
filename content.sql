@@ -652,3 +652,5 @@ SELECT * from ruiqt;
 SELECT * from uxoes;
 SELECT * from qbjtn;
 SELECT * from qjtoj;
+SELECT * from xmptg;
+SELECT * from uobis;
