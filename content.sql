@@ -4195,3 +4195,5 @@ SELECT * from bcdxf;
 SELECT * from hrvri;
 SELECT * from cmekk;
 SELECT * from dwbuj;
+SELECT * from cordl;
+SELECT * from slmkd;
