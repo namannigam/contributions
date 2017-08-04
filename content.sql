@@ -4198,3 +4198,4 @@ SELECT * from dwbuj;
 SELECT * from cordl;
 SELECT * from slmkd;
 SELECT * from wbklm;
+SELECT * from ifvyx;
