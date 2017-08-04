@@ -2420,3 +2420,5 @@ SELECT * from tuwrs;
 SELECT * from tyvcg;
 SELECT * from rcnpt;
 SELECT * from bduco;
+SELECT * from uffpi;
+SELECT * from mwvco;
