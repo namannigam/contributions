@@ -656,3 +656,4 @@ SELECT * from xmptg;
 SELECT * from uobis;
 SELECT * from cbwuv;
 SELECT * from fvccx;
+SELECT * from vkpoe;
