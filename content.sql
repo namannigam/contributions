@@ -4200,3 +4200,5 @@ SELECT * from slmkd;
 SELECT * from wbklm;
 SELECT * from ifvyx;
 SELECT * from qmcwg;
+SELECT * from pghsp;
+SELECT * from prrvk;
