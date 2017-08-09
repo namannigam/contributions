@@ -4202,3 +4202,4 @@ SELECT * from ifvyx;
 SELECT * from qmcwg;
 SELECT * from pghsp;
 SELECT * from prrvk;
+SELECT * from iqims;
