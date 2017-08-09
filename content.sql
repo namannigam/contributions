@@ -2427,3 +2427,4 @@ SELECT * from uyyxe;
 SELECT * from yuvur;
 SELECT * from jfvbh;
 SELECT * from dpbos;
+SELECT * from wmruf;
