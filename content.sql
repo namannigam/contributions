@@ -657,3 +657,5 @@ SELECT * from uobis;
 SELECT * from cbwuv;
 SELECT * from fvccx;
 SELECT * from rnsax;
+SELECT * from tomrx;
+SELECT * from weqql;
