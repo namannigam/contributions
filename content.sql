@@ -660,4 +660,6 @@ SELECT * from rnsax;
 SELECT * from tomrx;
 SELECT * from weqql;
 SELECT * from ntrno;
-SELECT * from bjuyw;
+SELECT * from smcce;
+SELECT * from mabpc;
+SELECT * from hstsu;
