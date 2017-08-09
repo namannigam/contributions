@@ -2425,3 +2425,5 @@ SELECT * from mwvco;
 SELECT * from tbvli;
 SELECT * from uyyxe;
 SELECT * from yuvur;
+SELECT * from jfvbh;
+SELECT * from dpbos;
