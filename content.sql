@@ -663,3 +663,4 @@ SELECT * from ntrno;
 SELECT * from smcce;
 SELECT * from mabpc;
 SELECT * from hstsu;
+SELECT * from qebvv;
