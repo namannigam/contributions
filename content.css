@@ -2373,5 +2373,7 @@
   border-left-width: 44px;
   padding-left: 9px;
   margin-left: 87px;
-  font-size: 33px;
+  border-left-width: 14px;
+  border-top-width: 69px;
+  border-bottom-width: 24px;
 }
