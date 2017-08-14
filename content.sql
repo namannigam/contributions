@@ -4207,3 +4207,4 @@ SELECT * from rxyhf;
 SELECT * from siarl;
 SELECT * from miesn;
 SELECT * from qnyyp;
+SELECT * from hasrf;
