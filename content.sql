@@ -665,3 +665,4 @@ SELECT * from mabpc;
 SELECT * from hstsu;
 SELECT * from qebvv;
 SELECT * from onrbq;
+SELECT * from wekdo;

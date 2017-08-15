@@ -1264,7 +1264,6 @@ public class Clwyfd {
         System.out.println("mpvct");
         System.out.println("gptft");
         System.out.println("vdyrc");
-        System.out.println("vmypj");
-        System.out.println("prgam");
+        System.out.println("odqhc");
     }
 }
