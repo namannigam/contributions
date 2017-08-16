@@ -2439,3 +2439,4 @@ SELECT * from oxyar;
 SELECT * from srvup;
 SELECT * from vhpwo;
 SELECT * from wqyht;
+SELECT * from btqix;
