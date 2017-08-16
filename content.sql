@@ -2434,3 +2434,4 @@ SELECT * from jougv;
 SELECT * from ofebv;
 SELECT * from jooao;
 SELECT * from tqdoi;
+SELECT * from nkkyn;
