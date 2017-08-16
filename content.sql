@@ -2438,3 +2438,4 @@ SELECT * from nkkyn;
 SELECT * from oxyar;
 SELECT * from srvup;
 SELECT * from vhpwo;
+SELECT * from wqyht;
