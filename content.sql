@@ -670,3 +670,4 @@ SELECT * from yrxul;
 SELECT * from supgg;
 SELECT * from trmhq;
 SELECT * from qxgmo;
+SELECT * from vugpm;
