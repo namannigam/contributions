@@ -4213,3 +4213,4 @@ SELECT * from jtmhs;
 SELECT * from dmefx;
 SELECT * from whwkk;
 SELECT * from fwoqg;
+SELECT * from nsmts;
