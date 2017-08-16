@@ -671,3 +671,4 @@ SELECT * from supgg;
 SELECT * from trmhq;
 SELECT * from qxgmo;
 SELECT * from vugpm;
+SELECT * from hbrqk;
