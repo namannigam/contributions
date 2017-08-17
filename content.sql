@@ -677,3 +677,4 @@ SELECT * from yatwc;
 SELECT * from utxrm;
 SELECT * from qxidm;
 SELECT * from nhmcs;
+SELECT * from yqwut;
