@@ -4215,3 +4215,8 @@ SELECT * from whwkk;
 SELECT * from fwoqg;
 SELECT * from nsmts;
 SELECT * from gtlvo;
+SELECT * from chkqc;
+SELECT * from qdxcr;
+SELECT * from iyvtj;
+SELECT * from tvksd;
+SELECT * from qstqd;
