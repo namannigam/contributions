@@ -674,3 +674,6 @@ SELECT * from vugpm;
 SELECT * from hbrqk;
 SELECT * from usnrr;
 SELECT * from yatwc;
+SELECT * from utxrm;
+SELECT * from qxidm;
+SELECT * from nhmcs;
