@@ -2442,3 +2442,6 @@ SELECT * from wqyht;
 SELECT * from btqix;
 SELECT * from ejmvf;
 SELECT * from aduel;
+SELECT * from ljevv;
+SELECT * from newmw;
+SELECT * from ejrog;
