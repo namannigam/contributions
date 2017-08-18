@@ -2450,3 +2450,4 @@ SELECT * from dgtjx;
 SELECT * from jklqd;
 SELECT * from rlfbv;
 SELECT * from rweip;
+SELECT * from gtodi;
