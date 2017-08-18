@@ -681,3 +681,4 @@ SELECT * from yqwut;
 SELECT * from xjgwe;
 SELECT * from ltdst;
 SELECT * from wpevn;
+SELECT * from icpyc;
