@@ -682,4 +682,5 @@ SELECT * from xjgwe;
 SELECT * from ltdst;
 SELECT * from wpevn;
 SELECT * from icpyc;
-SELECT * from liego;
+SELECT * from qunby;
+SELECT * from srdnk;
