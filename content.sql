@@ -684,4 +684,6 @@ SELECT * from wpevn;
 SELECT * from icpyc;
 SELECT * from qunby;
 SELECT * from nduxo;
-SELECT * from clnia;
+SELECT * from qxhpa;
+SELECT * from qocee;
+SELECT * from dcfmi;
