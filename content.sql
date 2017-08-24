@@ -4227,4 +4227,6 @@ SELECT * from auobk;
 SELECT * from uxmrx;
 SELECT * from mfpsi;
 SELECT * from ecjby;
-SELECT * from imdqk;
+SELECT * from euxde;
+SELECT * from dymmd;
+SELECT * from eylrd;
