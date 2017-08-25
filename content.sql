@@ -687,3 +687,4 @@ SELECT * from nduxo;
 SELECT * from qxhpa;
 SELECT * from qocee;
 SELECT * from cmvsn;
+SELECT * from kqnmq;
