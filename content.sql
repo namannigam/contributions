@@ -4230,4 +4230,5 @@ SELECT * from ecjby;
 SELECT * from euxde;
 SELECT * from dymmd;
 SELECT * from kmcpt;
-SELECT * from nning;
+SELECT * from cloia;
+SELECT * from hmdgg;
