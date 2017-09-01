@@ -688,4 +688,5 @@ SELECT * from qxhpa;
 SELECT * from qocee;
 SELECT * from rdywm;
 SELECT * from bbiuq;
-SELECT * from knjhw;
+SELECT * from qkvrc;
+SELECT * from ptdmn;
