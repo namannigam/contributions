@@ -689,4 +689,5 @@ SELECT * from qocee;
 SELECT * from rdywm;
 SELECT * from bbiuq;
 SELECT * from qkvrc;
-SELECT * from fuopw;
+SELECT * from bdirv;
+SELECT * from biedi;
