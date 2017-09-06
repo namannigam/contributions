@@ -4232,4 +4232,4 @@ SELECT * from dymmd;
 SELECT * from kmcpt;
 SELECT * from cloia;
 SELECT * from uwfge;
-SELECT * from doies;
+SELECT * from xedge;
