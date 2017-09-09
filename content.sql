@@ -2459,3 +2459,4 @@ SELECT * from hpljn;
 SELECT * from ctnlk;
 SELECT * from opsnn;
 SELECT * from dvaoe;
+SELECT * from jqjur;
