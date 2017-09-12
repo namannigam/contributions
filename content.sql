@@ -691,4 +691,6 @@ SELECT * from bbiuq;
 SELECT * from qkvrc;
 SELECT * from bdirv;
 SELECT * from eljma;
-SELECT * from xtfkt;
+SELECT * from asggc;
+SELECT * from jjjon;
+SELECT * from jlxbm;
