@@ -696,3 +696,6 @@ SELECT * from jjjon;
 SELECT * from jlxbm;
 SELECT * from pnwss;
 SELECT * from lecxq;
+SELECT * from kbrsp;
+SELECT * from wmpnc;
+SELECT * from jpiat;
