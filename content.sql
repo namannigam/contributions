@@ -2463,3 +2463,7 @@ SELECT * from btraj;
 SELECT * from cnuhw;
 SELECT * from mxenq;
 SELECT * from dcjvu;
+SELECT * from ssifc;
+SELECT * from lgxmo;
+SELECT * from yoiuk;
+SELECT * from uhruy;
