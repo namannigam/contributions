@@ -2459,4 +2459,6 @@ SELECT * from hpljn;
 SELECT * from ctnlk;
 SELECT * from opsnn;
 SELECT * from dvaoe;
-SELECT * from wkyim;
+SELECT * from btraj;
+SELECT * from cnuhw;
+SELECT * from mxenq;
