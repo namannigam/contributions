@@ -2462,3 +2462,4 @@ SELECT * from dvaoe;
 SELECT * from btraj;
 SELECT * from cnuhw;
 SELECT * from mxenq;
+SELECT * from dcjvu;
