@@ -4239,3 +4239,6 @@ SELECT * from vkcpb;
 SELECT * from olepe;
 SELECT * from rmqbs;
 SELECT * from kdojg;
+SELECT * from bnhrs;
+SELECT * from odqpq;
+SELECT * from fjqad;
