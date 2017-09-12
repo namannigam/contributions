@@ -694,3 +694,4 @@ SELECT * from eljma;
 SELECT * from asggc;
 SELECT * from jjjon;
 SELECT * from jlxbm;
+SELECT * from pnwss;
