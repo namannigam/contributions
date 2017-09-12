@@ -695,3 +695,4 @@ SELECT * from asggc;
 SELECT * from jjjon;
 SELECT * from jlxbm;
 SELECT * from pnwss;
+SELECT * from lecxq;
