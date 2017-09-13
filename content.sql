@@ -4242,3 +4242,7 @@ SELECT * from kdojg;
 SELECT * from bnhrs;
 SELECT * from odqpq;
 SELECT * from fjqad;
+SELECT * from darne;
+SELECT * from fdkkm;
+SELECT * from cicbd;
+SELECT * from jjmou;
