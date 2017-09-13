@@ -699,3 +699,7 @@ SELECT * from lecxq;
 SELECT * from kbrsp;
 SELECT * from wmpnc;
 SELECT * from jpiat;
+SELECT * from qdktq;
+SELECT * from mtuwi;
+SELECT * from xguga;
+SELECT * from txpfb;

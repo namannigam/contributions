@@ -844,5 +844,6 @@
   padding-right: 83px;
   border-right-width: 20px;
   padding-right: 86px;
-  padding-left: 29px;
+  padding-left: 1px;
+  border-top-width: 15px;
 }
