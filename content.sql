@@ -2467,3 +2467,7 @@ SELECT * from ssifc;
 SELECT * from lgxmo;
 SELECT * from yoiuk;
 SELECT * from uhruy;
+SELECT * from pdxuk;
+SELECT * from ghtgu;
+SELECT * from ftuft;
+SELECT * from uuuad;
