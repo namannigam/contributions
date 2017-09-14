@@ -703,3 +703,4 @@ SELECT * from qdktq;
 SELECT * from mtuwi;
 SELECT * from xguga;
 SELECT * from txpfb;
+SELECT * from yclru;
