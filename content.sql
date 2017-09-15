@@ -705,4 +705,4 @@ SELECT * from xguga;
 SELECT * from txpfb;
 SELECT * from yclru;
 SELECT * from xnhku;
-SELECT * from elicl;
+SELECT * from latqh;
