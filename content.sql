@@ -2475,3 +2475,4 @@ SELECT * from ayhgr;
 SELECT * from twitb;
 SELECT * from vcmlw;
 SELECT * from kqdwg;
+SELECT * from wndyt;
