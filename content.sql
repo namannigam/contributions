@@ -707,3 +707,4 @@ SELECT * from yclru;
 SELECT * from xnhku;
 SELECT * from oqjrh;
 SELECT * from eswss;
+SELECT * from pnejj;
