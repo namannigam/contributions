@@ -4253,3 +4253,4 @@ SELECT * from bkyla;
 SELECT * from xakjd;
 SELECT * from deiaj;
 SELECT * from ajodv;
+SELECT * from yiqet;
