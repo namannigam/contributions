@@ -1331,6 +1331,10 @@ public class Clwyfd {
         System.out.println("plgkr");
         System.out.println("gontk");
         System.out.println("uomyv");
-        System.out.println("jofuq");
+        System.out.println("dfuwy");
+        System.out.println("odpgc");
+        System.out.println("ognim");
+        System.out.println("rxufe");
+        System.out.println("ptahx");
     }
 }
