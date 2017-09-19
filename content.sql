@@ -2478,3 +2478,4 @@ SELECT * from kqdwg;
 SELECT * from frjlj;
 SELECT * from ejpob;
 SELECT * from mrved;
+SELECT * from ukvmc;
