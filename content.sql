@@ -710,3 +710,4 @@ SELECT * from eswss;
 SELECT * from vwnpd;
 SELECT * from bvvab;
 SELECT * from oisgw;
+SELECT * from ewpvb;
