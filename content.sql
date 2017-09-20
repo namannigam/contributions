@@ -711,4 +711,6 @@ SELECT * from vwnpd;
 SELECT * from bvvab;
 SELECT * from oisgw;
 SELECT * from ewpvb;
-SELECT * from lmqbm;
+SELECT * from cvgsi;
+SELECT * from bdnwl;
+SELECT * from wjeks;
