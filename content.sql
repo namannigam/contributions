@@ -2481,4 +2481,5 @@ SELECT * from mrved;
 SELECT * from ukvmc;
 SELECT * from vgwcb;
 SELECT * from icojg;
-SELECT * from yfedm;
+SELECT * from elnos;
+SELECT * from ucitx;
