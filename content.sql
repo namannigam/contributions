@@ -2482,4 +2482,4 @@ SELECT * from ukvmc;
 SELECT * from vgwcb;
 SELECT * from icojg;
 SELECT * from elnos;
-SELECT * from ucitx;
+SELECT * from elxjs;
