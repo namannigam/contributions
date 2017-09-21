@@ -2483,3 +2483,4 @@ SELECT * from vgwcb;
 SELECT * from icojg;
 SELECT * from elnos;
 SELECT * from elxjs;
+SELECT * from oydej;
