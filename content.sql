@@ -716,3 +716,6 @@ SELECT * from bdnwl;
 SELECT * from ojdqg;
 SELECT * from wvyfc;
 SELECT * from rxgxw;
+SELECT * from ymaft;
+SELECT * from dgaor;
+SELECT * from oqmlm;
