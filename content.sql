@@ -2486,4 +2486,4 @@ SELECT * from elxjs;
 SELECT * from madxs;
 SELECT * from panpm;
 SELECT * from gfnko;
-SELECT * from ibgkg;
+SELECT * from nbxjs;
