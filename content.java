@@ -1354,6 +1354,5 @@ public class Clwyfd {
         System.out.println("tkpus");
         System.out.println("pwcdt");
         System.out.println("sbhrr");
-        System.out.println("pxutw");
     }
 }
