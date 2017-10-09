@@ -2491,3 +2491,4 @@ SELECT * from xdecm;
 SELECT * from ltvji;
 SELECT * from tvdvf;
 SELECT * from ifeuj;
+SELECT * from luwtf;
