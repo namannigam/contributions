@@ -2487,3 +2487,7 @@ SELECT * from madxs;
 SELECT * from panpm;
 SELECT * from gfnko;
 SELECT * from sqcix;
+SELECT * from xdecm;
+SELECT * from ltvji;
+SELECT * from tvdvf;
+SELECT * from ifeuj;
