@@ -4262,3 +4262,7 @@ SELECT * from iludn;
 SELECT * from aeotv;
 SELECT * from dwyrw;
 SELECT * from ncdff;
+SELECT * from feqol;
+SELECT * from jcgfc;
+SELECT * from ibiqv;
+SELECT * from qilkf;
