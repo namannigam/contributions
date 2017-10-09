@@ -719,3 +719,7 @@ SELECT * from rxgxw;
 SELECT * from ymaft;
 SELECT * from dgaor;
 SELECT * from rkaqi;
+SELECT * from fpsue;
+SELECT * from njdlg;
+SELECT * from gtpbh;
+SELECT * from hnrit;
