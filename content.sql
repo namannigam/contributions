@@ -724,4 +724,4 @@ SELECT * from njdlg;
 SELECT * from gtpbh;
 SELECT * from hnrit;
 SELECT * from fbgoy;
-SELECT * from gelgs;
+SELECT * from pvrry;
