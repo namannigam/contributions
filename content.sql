@@ -725,4 +725,4 @@ SELECT * from gtpbh;
 SELECT * from hnrit;
 SELECT * from fbgoy;
 SELECT * from uqsko;
-SELECT * from aajie;
+SELECT * from xobnf;
