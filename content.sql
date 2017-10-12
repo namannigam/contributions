@@ -2492,4 +2492,5 @@ SELECT * from ltvji;
 SELECT * from tvdvf;
 SELECT * from ifeuj;
 SELECT * from wfnsw;
-SELECT * from qnsom;
+SELECT * from wqvgg;
+SELECT * from snkri;
