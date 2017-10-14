@@ -2494,3 +2494,5 @@ SELECT * from ifeuj;
 SELECT * from wfnsw;
 SELECT * from wqvgg;
 SELECT * from vwjsn;
+SELECT * from fxrbo;
+SELECT * from bxvbo;
