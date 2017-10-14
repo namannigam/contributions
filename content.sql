@@ -726,3 +726,5 @@ SELECT * from hnrit;
 SELECT * from fbgoy;
 SELECT * from uqsko;
 SELECT * from lecye;
+SELECT * from sxndg;
+SELECT * from kuxoc;
