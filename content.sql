@@ -728,3 +728,4 @@ SELECT * from uqsko;
 SELECT * from lecye;
 SELECT * from sxndg;
 SELECT * from kuxoc;
+SELECT * from njguh;
