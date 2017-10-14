@@ -4269,3 +4269,5 @@ SELECT * from qilkf;
 SELECT * from bnatb;
 SELECT * from rtmgg;
 SELECT * from xwrvx;
+SELECT * from evkog;
+SELECT * from ylpkd;
