@@ -729,3 +729,4 @@ SELECT * from lecye;
 SELECT * from sxndg;
 SELECT * from kuxoc;
 SELECT * from njguh;
+SELECT * from ldwta;
