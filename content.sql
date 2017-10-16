@@ -4273,3 +4273,6 @@ SELECT * from evkog;
 SELECT * from ylpkd;
 SELECT * from tlkhq;
 SELECT * from gwqtw;
+SELECT * from ijsng;
+SELECT * from kqtpx;
+SELECT * from xksak;
