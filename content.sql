@@ -731,3 +731,5 @@ SELECT * from kuxoc;
 SELECT * from njguh;
 SELECT * from tfgjb;
 SELECT * from yubkp;
+SELECT * from hmeaj;
+SELECT * from drctk;
