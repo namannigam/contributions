@@ -733,3 +733,4 @@ SELECT * from tfgjb;
 SELECT * from yubkp;
 SELECT * from hmeaj;
 SELECT * from plgqu;
+SELECT * from lyoai;
