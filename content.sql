@@ -734,3 +734,5 @@ SELECT * from yubkp;
 SELECT * from hmeaj;
 SELECT * from plgqu;
 SELECT * from lyoai;
+SELECT * from onqgb;
+SELECT * from okrft;
