@@ -1367,6 +1367,6 @@ public class Clwyfd {
         System.out.println("vitco");
         System.out.println("bnors");
         System.out.println("qlryl");
-        System.out.println("pneoj");
+        System.out.println("mamty");
     }
 }
