@@ -2502,3 +2502,5 @@ SELECT * from gqyic;
 SELECT * from qyjwt;
 SELECT * from whtfo;
 SELECT * from fodax;
+SELECT * from yfulm;
+SELECT * from lrrjh;
