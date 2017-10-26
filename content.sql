@@ -2506,4 +2506,4 @@ SELECT * from yfulm;
 SELECT * from lrrjh;
 SELECT * from xmenh;
 SELECT * from wyutl;
-SELECT * from bdshl;
+SELECT * from oduov;
