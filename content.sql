@@ -2507,4 +2507,4 @@ SELECT * from lrrjh;
 SELECT * from xmenh;
 SELECT * from wyutl;
 SELECT * from sjlja;
-SELECT * from xtnac;
+SELECT * from dojev;
