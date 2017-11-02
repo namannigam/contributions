@@ -2508,3 +2508,4 @@ SELECT * from xmenh;
 SELECT * from wyutl;
 SELECT * from sjlja;
 SELECT * from tsqyy;
+SELECT * from pvdug;
