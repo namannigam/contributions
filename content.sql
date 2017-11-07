@@ -748,4 +748,4 @@ SELECT * from lkuhv;
 SELECT * from rhgql;
 SELECT * from hmddm;
 SELECT * from ttevw;
-SELECT * from eboev;
+SELECT * from dbtuj;
