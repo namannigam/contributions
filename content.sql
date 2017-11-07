@@ -2514,3 +2514,4 @@ SELECT * from xoweg;
 SELECT * from cctjo;
 SELECT * from wwcxd;
 SELECT * from ujfur;
+SELECT * from jtsxj;
