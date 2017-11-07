@@ -746,3 +746,4 @@ SELECT * from gpmbo;
 SELECT * from adndh;
 SELECT * from lkuhv;
 SELECT * from rhgql;
+SELECT * from hmddm;
