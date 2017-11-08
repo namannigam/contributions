@@ -865,5 +865,7 @@
   padding-left: 84px;
   border-right-width: 4px;
   padding-bottom: 93px;
-  border-left-width: 68px;
+  border-bottom-width: 14px;
+  line-height: 70px;
+  margin-right: 82px;
 }
