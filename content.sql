@@ -2519,3 +2519,4 @@ SELECT * from fpysg;
 SELECT * from esins;
 SELECT * from mgfmt;
 SELECT * from vwvwe;
+SELECT * from aqirb;
