@@ -2520,3 +2520,4 @@ SELECT * from esins;
 SELECT * from mgfmt;
 SELECT * from vwvwe;
 SELECT * from aqirb;
+SELECT * from xncan;
