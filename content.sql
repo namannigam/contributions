@@ -758,3 +758,4 @@ SELECT * from fodbb;
 SELECT * from yrmhj;
 SELECT * from dmxse;
 SELECT * from esden;
+SELECT * from dftqx;
