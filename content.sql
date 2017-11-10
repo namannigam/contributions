@@ -2521,3 +2521,7 @@ SELECT * from mgfmt;
 SELECT * from vwvwe;
 SELECT * from aqirb;
 SELECT * from xncan;
+SELECT * from saqor;
+SELECT * from xknul;
+SELECT * from bkbpn;
+SELECT * from tfbcp;
