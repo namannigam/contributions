@@ -4301,3 +4301,4 @@ SELECT * from seieb;
 SELECT * from eiydy;
 SELECT * from impad;
 SELECT * from skoac;
+SELECT * from tnlpi;
