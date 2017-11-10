@@ -4296,3 +4296,7 @@ SELECT * from gfqad;
 SELECT * from tkpxu;
 SELECT * from tkwvq;
 SELECT * from wktmx;
+SELECT * from vujak;
+SELECT * from seieb;
+SELECT * from eiydy;
+SELECT * from impad;
