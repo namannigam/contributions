@@ -2527,3 +2527,4 @@ SELECT * from bkbpn;
 SELECT * from tfbcp;
 SELECT * from mwdkb;
 SELECT * from nqqvb;
+SELECT * from khckg;
