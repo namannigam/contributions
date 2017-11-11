@@ -760,3 +760,4 @@ SELECT * from dmxse;
 SELECT * from esden;
 SELECT * from dftqx;
 SELECT * from mnywy;
+SELECT * from ajkeo;
