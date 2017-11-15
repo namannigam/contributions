@@ -1382,7 +1382,6 @@ public class Clwyfd {
         System.out.println("vldje");
         System.out.println("tstvs");
         System.out.println("ladnp");
-        System.out.println("tatrc");
-        System.out.println("rtijm");
+        System.out.println("irdys");
     }
 }
