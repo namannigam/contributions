@@ -761,3 +761,8 @@ SELECT * from esden;
 SELECT * from dftqx;
 SELECT * from mnywy;
 SELECT * from rngju;
+SELECT * from garls;
+SELECT * from xjuku;
+SELECT * from rtcfr;
+SELECT * from hobrk;
+SELECT * from nqkfu;
