@@ -2529,3 +2529,8 @@ SELECT * from mwdkb;
 SELECT * from nqqvb;
 SELECT * from khckg;
 SELECT * from qhttg;
+SELECT * from otpfo;
+SELECT * from eehok;
+SELECT * from vrwfk;
+SELECT * from nbmkt;
+SELECT * from lahkv;
