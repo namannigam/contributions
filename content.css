@@ -4034,5 +4034,8 @@
   padding-bottom: 72px;
   margin-left: 31px;
   padding-top: 14px;
-  padding-right: 29px;
+  margin-top: 14px;
+  border-right-width: 1px;
+  padding-right: 96px;
+  padding-left: 23px;
 }

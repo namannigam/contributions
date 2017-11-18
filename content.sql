@@ -4304,3 +4304,8 @@ SELECT * from skoac;
 SELECT * from tnlpi;
 SELECT * from jsscj;
 SELECT * from egxpv;
+SELECT * from jlahd;
+SELECT * from ilbpc;
+SELECT * from bprdb;
+SELECT * from kiwej;
+SELECT * from tblvi;
