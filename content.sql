@@ -2535,3 +2535,4 @@ SELECT * from vrwfk;
 SELECT * from nbmkt;
 SELECT * from lahkv;
 SELECT * from wxirc;
+SELECT * from jdqel;
