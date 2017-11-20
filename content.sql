@@ -768,3 +768,4 @@ SELECT * from hobrk;
 SELECT * from nqkfu;
 SELECT * from sutjs;
 SELECT * from dluvi;
+SELECT * from pivfq;
