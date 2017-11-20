@@ -766,3 +766,4 @@ SELECT * from xjuku;
 SELECT * from rtcfr;
 SELECT * from hobrk;
 SELECT * from nqkfu;
+SELECT * from sutjs;
