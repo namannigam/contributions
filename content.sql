@@ -2534,3 +2534,4 @@ SELECT * from eehok;
 SELECT * from vrwfk;
 SELECT * from nbmkt;
 SELECT * from lahkv;
+SELECT * from wxirc;
