@@ -4309,3 +4309,4 @@ SELECT * from ilbpc;
 SELECT * from bprdb;
 SELECT * from kiwej;
 SELECT * from tblvi;
+SELECT * from suaaf;
