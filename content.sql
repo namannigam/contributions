@@ -2537,3 +2537,4 @@ SELECT * from lahkv;
 SELECT * from wxirc;
 SELECT * from rakcp;
 SELECT * from oscjl;
+SELECT * from swclv;
