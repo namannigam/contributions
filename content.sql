@@ -769,4 +769,5 @@ SELECT * from nqkfu;
 SELECT * from sutjs;
 SELECT * from dluvi;
 SELECT * from pivfq;
-SELECT * from owysa;
+SELECT * from hahpj;
+SELECT * from godcu;
