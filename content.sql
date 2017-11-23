@@ -770,4 +770,7 @@ SELECT * from sutjs;
 SELECT * from dluvi;
 SELECT * from pivfq;
 SELECT * from hahpj;
-SELECT * from godcu;
+SELECT * from bcevv;
+SELECT * from sfejq;
+SELECT * from dpmhx;
+SELECT * from daeha;
