@@ -774,3 +774,4 @@ SELECT * from bcevv;
 SELECT * from sfejq;
 SELECT * from dpmhx;
 SELECT * from daeha;
+SELECT * from tamas;
