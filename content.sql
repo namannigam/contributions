@@ -2538,4 +2538,7 @@ SELECT * from wxirc;
 SELECT * from rakcp;
 SELECT * from oscjl;
 SELECT * from dbhoy;
-SELECT * from vpmhb;
+SELECT * from dwqgi;
+SELECT * from qpaew;
+SELECT * from kthlb;
+SELECT * from kwwev;
