@@ -2542,3 +2542,4 @@ SELECT * from dwqgi;
 SELECT * from qpaew;
 SELECT * from kthlb;
 SELECT * from kwwev;
+SELECT * from usrqu;
