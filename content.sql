@@ -776,3 +776,4 @@ SELECT * from dpmhx;
 SELECT * from daeha;
 SELECT * from tamas;
 SELECT * from smvjf;
+SELECT * from foxcb;
