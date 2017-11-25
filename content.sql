@@ -776,4 +776,7 @@ SELECT * from dpmhx;
 SELECT * from daeha;
 SELECT * from tamas;
 SELECT * from smvjf;
-SELECT * from ilcpu;
+SELECT * from qsbrx;
+SELECT * from fggys;
+SELECT * from ufgbn;
+SELECT * from fmlaf;
