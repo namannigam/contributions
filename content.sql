@@ -2544,4 +2544,7 @@ SELECT * from kthlb;
 SELECT * from kwwev;
 SELECT * from usrqu;
 SELECT * from bwvqe;
-SELECT * from ovgof;
+SELECT * from aslxn;
+SELECT * from lmtja;
+SELECT * from vfchc;
+SELECT * from kxupa;
