@@ -780,3 +780,4 @@ SELECT * from qsbrx;
 SELECT * from fggys;
 SELECT * from ufgbn;
 SELECT * from igekl;
+SELECT * from lhpli;
