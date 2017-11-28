@@ -4323,3 +4323,4 @@ SELECT * from csghg;
 SELECT * from ovkes;
 SELECT * from xmxqr;
 SELECT * from snppq;
+SELECT * from cynuv;
