@@ -896,5 +896,6 @@
   line-height: 5px;
   padding-top: 97px;
   font-size: 60px;
-  padding-right: 28px;
+  border-right-width: 75px;
+  margin-top: 27px;
 }
