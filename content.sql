@@ -4333,3 +4333,4 @@ SELECT * from wqdah;
 SELECT * from gadsq;
 SELECT * from bngbo;
 SELECT * from rxxsl;
+SELECT * from vmskg;
