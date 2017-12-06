@@ -2456,6 +2456,9 @@
   font-size: 89px;
   padding-right: 12px;
   padding-bottom: 3px;
-  padding-right: 86px;
-  margin-right: 28px;
+  line-height: 2px;
+  border-left-width: 94px;
+  line-height: 39px;
+  border-top-width: 95px;
+  margin-bottom: 1px;
 }
