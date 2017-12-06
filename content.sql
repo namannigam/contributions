@@ -791,3 +791,4 @@ SELECT * from nucks;
 SELECT * from iyhxw;
 SELECT * from bwyxm;
 SELECT * from peehs;
+SELECT * from mokmg;
