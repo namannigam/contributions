@@ -2560,4 +2560,5 @@ SELECT * from gotlh;
 SELECT * from vytpb;
 SELECT * from iqxnb;
 SELECT * from fvqxq;
-SELECT * from waopq;
+SELECT * from bapct;
+SELECT * from qsojc;
