@@ -2561,4 +2561,4 @@ SELECT * from vytpb;
 SELECT * from iqxnb;
 SELECT * from fvqxq;
 SELECT * from bapct;
-SELECT * from cnews;
+SELECT * from tennw;
