@@ -798,4 +798,4 @@ SELECT * from drpim;
 SELECT * from jcgrr;
 SELECT * from ncobn;
 SELECT * from edrgi;
-SELECT * from lkigf;
+SELECT * from ipsde;
