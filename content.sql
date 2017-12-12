@@ -4341,4 +4341,4 @@ SELECT * from yonos;
 SELECT * from hnnea;
 SELECT * from ltrit;
 SELECT * from slpmc;
-SELECT * from awnim;
+SELECT * from gfppx;
