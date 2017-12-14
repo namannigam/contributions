@@ -2570,4 +2570,7 @@ SELECT * from coroc;
 SELECT * from pdjcb;
 SELECT * from kdbug;
 SELECT * from lemxn;
-SELECT * from ghvep;
+SELECT * from jlyeu;
+SELECT * from qgjpi;
+SELECT * from ddyei;
+SELECT * from vllqs;
