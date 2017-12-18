@@ -806,3 +806,4 @@ SELECT * from jcaey;
 SELECT * from fmcxm;
 SELECT * from oxncd;
 SELECT * from qkkuj;
+SELECT * from dmpid;
