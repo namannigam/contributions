@@ -2575,3 +2575,6 @@ SELECT * from qgjpi;
 SELECT * from ddyei;
 SELECT * from gbiog;
 SELECT * from nqfxh;
+SELECT * from jaodv;
+SELECT * from utdmi;
+SELECT * from eqiej;
