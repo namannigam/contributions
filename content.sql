@@ -810,3 +810,4 @@ SELECT * from uoedw;
 SELECT * from tpaos;
 SELECT * from projr;
 SELECT * from nvvbm;
+SELECT * from luqht;
