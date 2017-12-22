@@ -813,4 +813,4 @@ SELECT * from nvvbm;
 SELECT * from luqht;
 SELECT * from tgonm;
 SELECT * from xwpji;
-SELECT * from uwkmb;
+SELECT * from iqopr;
