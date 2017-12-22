@@ -812,3 +812,4 @@ SELECT * from projr;
 SELECT * from nvvbm;
 SELECT * from luqht;
 SELECT * from tgonm;
+SELECT * from xwpji;
