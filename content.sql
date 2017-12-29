@@ -815,3 +815,4 @@ SELECT * from tgonm;
 SELECT * from xwpji;
 SELECT * from iqopr;
 SELECT * from ovsfa;
+SELECT * from ytgcb;
