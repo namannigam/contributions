@@ -6211,7 +6211,7 @@ public class Clwyfd {
         System.out.println("uyvcg");
         System.out.println("gcbkg");
         System.out.println("gqjyc");
-        System.out.println("tjgpx");
-        System.out.println("tluig");
+        System.out.println("twnew");
+        System.out.println("wopnh");
     }
 }
