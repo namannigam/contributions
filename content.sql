@@ -815,4 +815,5 @@ SELECT * from tgonm;
 SELECT * from xwpji;
 SELECT * from iqopr;
 SELECT * from ovsfa;
-SELECT * from fsohm;
+SELECT * from nibft;
+SELECT * from wewon;

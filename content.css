@@ -917,5 +917,11 @@
   border-top-width: 33px;
   border-bottom-width: 11px;
   line-height: 66px;
-  margin-top: 94px;
+  border-right-width: 62px;
+  margin-bottom: 10px;
+  line-height: 46px;
+  border-left-width: 61px;
+  padding-left: 76px;
+  padding-top: 69px;
+  padding-left: 82px;
 }
