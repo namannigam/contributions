@@ -2586,3 +2586,4 @@ SELECT * from hbhgs;
 SELECT * from jivvn;
 SELECT * from iaavp;
 SELECT * from hlxjs;
+SELECT * from egiok;
