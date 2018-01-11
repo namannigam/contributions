@@ -819,3 +819,4 @@ SELECT * from nibft;
 SELECT * from wewon;
 SELECT * from vftdh;
 SELECT * from qtvgx;
+SELECT * from okecq;
