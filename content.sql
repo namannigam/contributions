@@ -4362,3 +4362,4 @@ SELECT * from qfhol;
 SELECT * from cbsud;
 SELECT * from ugwho;
 SELECT * from amvym;
+SELECT * from lsdpr;
