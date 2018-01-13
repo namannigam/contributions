@@ -2596,3 +2596,4 @@ SELECT * from kesgs;
 SELECT * from hrtkh;
 SELECT * from lkvdl;
 SELECT * from ftobh;
+SELECT * from jdxdm;
