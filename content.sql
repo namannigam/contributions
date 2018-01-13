@@ -828,3 +828,4 @@ SELECT * from riggl;
 SELECT * from apagw;
 SELECT * from xpgjv;
 SELECT * from cagth;
+SELECT * from fkbgd;
