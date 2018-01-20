@@ -829,4 +829,6 @@ SELECT * from apagw;
 SELECT * from xpgjv;
 SELECT * from cagth;
 SELECT * from fkbgd;
-SELECT * from xlhys;
+SELECT * from nifed;
+SELECT * from irtbi;
+SELECT * from wnbka;
