@@ -832,4 +832,4 @@ SELECT * from fkbgd;
 SELECT * from nifed;
 SELECT * from irtbi;
 SELECT * from wnbka;
-SELECT * from gtvsf;
+SELECT * from xmngk;
