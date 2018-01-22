@@ -2600,4 +2600,4 @@ SELECT * from jdxdm;
 SELECT * from rwoyi;
 SELECT * from fbnak;
 SELECT * from caoeu;
-SELECT * from insgb;
+SELECT * from snmoj;
