@@ -834,4 +834,5 @@ SELECT * from irtbi;
 SELECT * from wnbka;
 SELECT * from vgdar;
 SELECT * from vqxlj;
-SELECT * from tbwea;
+SELECT * from rlxhn;
+SELECT * from skohu;
