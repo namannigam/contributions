@@ -833,3 +833,5 @@ SELECT * from nifed;
 SELECT * from irtbi;
 SELECT * from wnbka;
 SELECT * from vgdar;
+SELECT * from vqxlj;
+SELECT * from pbyfb;
