@@ -836,3 +836,4 @@ SELECT * from vgdar;
 SELECT * from vqxlj;
 SELECT * from rlxhn;
 SELECT * from gxoxm;
+SELECT * from jwdia;
