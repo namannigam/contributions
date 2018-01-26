@@ -2604,3 +2604,4 @@ SELECT * from qvfnp;
 SELECT * from dbwap;
 SELECT * from njmal;
 SELECT * from pixgr;
+SELECT * from bcqsw;
