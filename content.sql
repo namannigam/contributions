@@ -2605,4 +2605,4 @@ SELECT * from dbwap;
 SELECT * from njmal;
 SELECT * from pixgr;
 SELECT * from bcqsw;
-SELECT * from mbtet;
+SELECT * from mbbcg;
