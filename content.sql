@@ -2607,3 +2607,4 @@ SELECT * from pixgr;
 SELECT * from bcqsw;
 SELECT * from mbbcg;
 SELECT * from qxndr;
+SELECT * from hiubc;
