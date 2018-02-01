@@ -838,3 +838,4 @@ SELECT * from rlxhn;
 SELECT * from gxoxm;
 SELECT * from jwdia;
 SELECT * from fcaqp;
+SELECT * from gwuor;
