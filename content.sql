@@ -2608,3 +2608,4 @@ SELECT * from bcqsw;
 SELECT * from mbbcg;
 SELECT * from qxndr;
 SELECT * from hiubc;
+SELECT * from avcoc;
