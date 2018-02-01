@@ -2606,3 +2606,4 @@ SELECT * from njmal;
 SELECT * from pixgr;
 SELECT * from bcqsw;
 SELECT * from mbbcg;
+SELECT * from qxndr;
