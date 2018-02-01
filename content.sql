@@ -4381,3 +4381,4 @@ SELECT * from juypw;
 SELECT * from awabg;
 SELECT * from hdfix;
 SELECT * from ivvdg;
+SELECT * from ajeji;
