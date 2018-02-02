@@ -2609,3 +2609,5 @@ SELECT * from mbbcg;
 SELECT * from qxndr;
 SELECT * from hiubc;
 SELECT * from qgvsw;
+SELECT * from efoll;
+SELECT * from rihnt;
