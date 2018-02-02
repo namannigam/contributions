@@ -841,3 +841,5 @@ SELECT * from fcaqp;
 SELECT * from gwuor;
 SELECT * from ququw;
 SELECT * from clrqr;
+SELECT * from qpllx;
+SELECT * from sabgg;
