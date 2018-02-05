@@ -2619,3 +2619,4 @@ SELECT * from sxusr;
 SELECT * from pwkic;
 SELECT * from pytpe;
 SELECT * from bjjge;
+SELECT * from ctpjg;
