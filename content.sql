@@ -851,4 +851,5 @@ SELECT * from kclqd;
 SELECT * from myajn;
 SELECT * from ilqkl;
 SELECT * from rfcrp;
-SELECT * from bbotg;
+SELECT * from cehut;
+SELECT * from teypi;
