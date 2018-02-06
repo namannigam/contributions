@@ -2620,4 +2620,4 @@ SELECT * from pwkic;
 SELECT * from pytpe;
 SELECT * from bjjge;
 SELECT * from iitnx;
-SELECT * from frihc;
+SELECT * from wffcp;
