@@ -853,4 +853,4 @@ SELECT * from ilqkl;
 SELECT * from rfcrp;
 SELECT * from cehut;
 SELECT * from suriw;
-SELECT * from urmdg;
+SELECT * from rjoig;
