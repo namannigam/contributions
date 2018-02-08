@@ -4396,4 +4396,5 @@ SELECT * from ypliq;
 SELECT * from fsvob;
 SELECT * from ugewd;
 SELECT * from fjxpx;
-SELECT * from phnvw;
+SELECT * from sewxb;
+SELECT * from gload;
