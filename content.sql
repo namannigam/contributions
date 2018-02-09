@@ -4397,4 +4397,3 @@ SELECT * from fsvob;
 SELECT * from ugewd;
 SELECT * from fjxpx;
 SELECT * from sewxb;
-SELECT * from cjqby;
