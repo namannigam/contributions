@@ -2618,4 +2618,4 @@ SELECT * from lrfhx;
 SELECT * from sxusr;
 SELECT * from pwkic;
 SELECT * from pytpe;
-SELECT * from bjjge;
+SELECT * from uetec;
