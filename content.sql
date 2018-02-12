@@ -4394,3 +4394,4 @@ SELECT * from mgrxv;
 SELECT * from sbepp;
 SELECT * from ypliq;
 SELECT * from njncy;
+SELECT * from fetpi;
