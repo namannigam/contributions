@@ -2619,4 +2619,4 @@ SELECT * from sxusr;
 SELECT * from pwkic;
 SELECT * from pytpe;
 SELECT * from uetec;
-SELECT * from kbthe;
+SELECT * from mnvfe;
