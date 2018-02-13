@@ -851,4 +851,4 @@ SELECT * from kclqd;
 SELECT * from myajn;
 SELECT * from ilqkl;
 SELECT * from tiadj;
-SELECT * from xujcs;
+SELECT * from iayvi;
