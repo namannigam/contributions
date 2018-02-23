@@ -2619,4 +2619,6 @@ SELECT * from sxusr;
 SELECT * from pwkic;
 SELECT * from pytpe;
 SELECT * from uetec;
-SELECT * from uwpej;
+SELECT * from ierqq;
+SELECT * from symha;
+SELECT * from orxlk;
