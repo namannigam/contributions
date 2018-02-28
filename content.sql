@@ -856,4 +856,5 @@ SELECT * from yjaxq;
 SELECT * from jlqok;
 SELECT * from mryak;
 SELECT * from milqo;
-SELECT * from kurso;
+SELECT * from hapsa;
+SELECT * from sxpyj;
