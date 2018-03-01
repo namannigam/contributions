@@ -858,3 +858,4 @@ SELECT * from mryak;
 SELECT * from milqo;
 SELECT * from hapsa;
 SELECT * from oravi;
+SELECT * from mwbft;
