@@ -860,3 +860,4 @@ SELECT * from hapsa;
 SELECT * from oravi;
 SELECT * from mwbft;
 SELECT * from vimpw;
+SELECT * from ocgeq;
