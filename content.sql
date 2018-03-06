@@ -861,4 +861,3 @@ SELECT * from oravi;
 SELECT * from mwbft;
 SELECT * from vimpw;
 SELECT * from nooyn;
-SELECT * from byqoc;
