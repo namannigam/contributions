@@ -4406,3 +4406,4 @@ SELECT * from iymkt;
 SELECT * from owoad;
 SELECT * from ddlkr;
 SELECT * from bdbog;
+SELECT * from eoncw;
