@@ -860,4 +860,6 @@ SELECT * from hapsa;
 SELECT * from oravi;
 SELECT * from mwbft;
 SELECT * from vimpw;
-SELECT * from xnlob;
+SELECT * from otalh;
+SELECT * from gpukf;
+SELECT * from owejp;
