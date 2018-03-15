@@ -949,5 +949,6 @@
   padding-bottom: 77px;
   margin-bottom: 84px;
   padding-left: 30px;
-  padding-left: 26px;
+  border-left-width: 13px;
+  border-bottom-width: 30px;
 }
