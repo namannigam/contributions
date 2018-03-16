@@ -2631,3 +2631,5 @@ SELECT * from egvab;
 SELECT * from ukuxq;
 SELECT * from jnhik;
 SELECT * from qdkur;
+SELECT * from fsjpo;
+SELECT * from xwfhh;
