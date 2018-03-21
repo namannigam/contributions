@@ -1545,7 +1545,6 @@ public class Clwyfd {
         System.out.println("urabt");
         System.out.println("kcnlq");
         System.out.println("vluxu");
-        System.out.println("nuscb");
-        System.out.println("sfidn");
+        System.out.println("owhyl");
     }
 }
