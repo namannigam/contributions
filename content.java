@@ -6292,6 +6292,8 @@ public class Clwyfd {
         System.out.println("mimtm");
         System.out.println("rxrts");
         System.out.println("xeiva");
-        System.out.println("asmus");
+        System.out.println("qtrtc");
+        System.out.println("eeimm");
+        System.out.println("snwee");
     }
 }
