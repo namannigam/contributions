@@ -961,5 +961,7 @@
   padding-top: 37px;
   margin-top: 30px;
   margin-bottom: 80px;
-  padding-bottom: 34px;
+  margin-bottom: 1px;
+  border-left-width: 96px;
+  margin-top: 74px;
 }

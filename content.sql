@@ -864,5 +864,4 @@ SELECT * from otalh;
 SELECT * from gpukf;
 SELECT * from owejp;
 SELECT * from cergc;
-SELECT * from mpvea;
-SELECT * from jqidm;
+SELECT * from opsdm;
