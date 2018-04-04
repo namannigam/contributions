@@ -2634,3 +2634,4 @@ SELECT * from qdkur;
 SELECT * from fsjpo;
 SELECT * from urkfe;
 SELECT * from aqjym;
+SELECT * from nvatl;
