@@ -4407,4 +4407,4 @@ SELECT * from owoad;
 SELECT * from ddlkr;
 SELECT * from bdbog;
 SELECT * from eoncw;
-SELECT * from kockd;
+SELECT * from bycwp;
