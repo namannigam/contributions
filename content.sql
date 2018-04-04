@@ -865,3 +865,4 @@ SELECT * from gpukf;
 SELECT * from owejp;
 SELECT * from cergc;
 SELECT * from jxcjv;
+SELECT * from lngqa;
