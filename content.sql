@@ -4409,3 +4409,4 @@ SELECT * from bdbog;
 SELECT * from eoncw;
 SELECT * from bycwp;
 SELECT * from besty;
+SELECT * from ypnrg;
