@@ -867,3 +867,4 @@ SELECT * from cergc;
 SELECT * from jxcjv;
 SELECT * from lngqa;
 SELECT * from acygg;
+SELECT * from oqpoi;
