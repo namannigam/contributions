@@ -869,3 +869,4 @@ SELECT * from lngqa;
 SELECT * from acygg;
 SELECT * from oqpoi;
 SELECT * from ybxus;
+SELECT * from lemnt;
