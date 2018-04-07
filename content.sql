@@ -2638,3 +2638,4 @@ SELECT * from nvatl;
 SELECT * from xnugr;
 SELECT * from odyif;
 SELECT * from vjsso;
+SELECT * from wyueh;
