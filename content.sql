@@ -870,4 +870,4 @@ SELECT * from acygg;
 SELECT * from oqpoi;
 SELECT * from ybxus;
 SELECT * from dtsjo;
-SELECT * from rwobd;
+SELECT * from itemi;
