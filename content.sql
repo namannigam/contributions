@@ -871,3 +871,4 @@ SELECT * from oqpoi;
 SELECT * from ybxus;
 SELECT * from dtsjo;
 SELECT * from wxynt;
+SELECT * from salgp;
