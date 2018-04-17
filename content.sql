@@ -2640,3 +2640,4 @@ SELECT * from odyif;
 SELECT * from vjsso;
 SELECT * from pevhk;
 SELECT * from lupjk;
+SELECT * from tmhps;
