@@ -2639,4 +2639,4 @@ SELECT * from xnugr;
 SELECT * from odyif;
 SELECT * from vjsso;
 SELECT * from pevhk;
-SELECT * from prpsy;
+SELECT * from spidj;
