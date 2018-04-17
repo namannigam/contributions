@@ -1581,5 +1581,7 @@ public class Clwyfd {
         System.out.println("ptury");
         System.out.println("kqjuq");
         System.out.println("wpjtu");
+        System.out.println("fwkam");
+        System.out.println("omsan");
     }
 }
