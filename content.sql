@@ -2642,3 +2642,4 @@ SELECT * from pevhk;
 SELECT * from lupjk;
 SELECT * from tmhps;
 SELECT * from rcecu;
+SELECT * from vpiak;
