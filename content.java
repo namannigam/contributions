@@ -11135,7 +11135,6 @@ public class Clwyfd {
         System.out.println("ntlst");
         System.out.println("fxatg");
         System.out.println("ksilf");
-        System.out.println("lvgmf");
-        System.out.println("hosji");
+        System.out.println("mnscl");
     }
 }
