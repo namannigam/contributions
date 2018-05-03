@@ -2644,4 +2644,3 @@ SELECT * from tmhps;
 SELECT * from rcecu;
 SELECT * from kwghb;
 SELECT * from rqokr;
-SELECT * from xrcgh;
