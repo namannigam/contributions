@@ -4419,4 +4419,4 @@ SELECT * from gbuln;
 SELECT * from dfdgt;
 SELECT * from iscvk;
 SELECT * from mfxnn;
-SELECT * from issyl;
+SELECT * from swpjd;
