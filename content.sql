@@ -2644,3 +2644,4 @@ SELECT * from tmhps;
 SELECT * from rcecu;
 SELECT * from kwghb;
 SELECT * from rgsed;
+SELECT * from foovm;
