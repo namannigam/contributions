@@ -877,3 +877,4 @@ SELECT * from usbyi;
 SELECT * from epyrv;
 SELECT * from pfcpb;
 SELECT * from akwod;
+SELECT * from tgtdv;
