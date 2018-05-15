@@ -4422,3 +4422,4 @@ SELECT * from mfxnn;
 SELECT * from swpjd;
 SELECT * from nxmek;
 SELECT * from uiswn;
+SELECT * from hqrwj;
