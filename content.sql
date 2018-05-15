@@ -880,3 +880,4 @@ SELECT * from akwod;
 SELECT * from dxupt;
 SELECT * from qdgsl;
 SELECT * from brxht;
+SELECT * from owpar;
