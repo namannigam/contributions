@@ -879,3 +879,4 @@ SELECT * from pfcpb;
 SELECT * from akwod;
 SELECT * from dxupt;
 SELECT * from qdgsl;
+SELECT * from brxht;
