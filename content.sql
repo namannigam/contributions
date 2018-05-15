@@ -2648,3 +2648,4 @@ SELECT * from wvcjw;
 SELECT * from tuern;
 SELECT * from bjhgx;
 SELECT * from jduob;
+SELECT * from keuml;
