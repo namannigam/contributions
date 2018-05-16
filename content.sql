@@ -882,3 +882,4 @@ SELECT * from qdgsl;
 SELECT * from brxht;
 SELECT * from owpar;
 SELECT * from voexx;
+SELECT * from npnrc;
