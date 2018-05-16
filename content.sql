@@ -4423,3 +4423,4 @@ SELECT * from swpjd;
 SELECT * from nxmek;
 SELECT * from uiswn;
 SELECT * from hqrwj;
+SELECT * from parae;
