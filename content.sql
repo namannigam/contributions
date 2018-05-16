@@ -2650,3 +2650,4 @@ SELECT * from bjhgx;
 SELECT * from jduob;
 SELECT * from keuml;
 SELECT * from tyyku;
+SELECT * from bissp;
