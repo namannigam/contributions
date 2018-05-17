@@ -4426,3 +4426,4 @@ SELECT * from hqrwj;
 SELECT * from parae;
 SELECT * from iaogl;
 SELECT * from darjq;
+SELECT * from ratod;
