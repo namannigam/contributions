@@ -2652,4 +2652,4 @@ SELECT * from keuml;
 SELECT * from tyyku;
 SELECT * from bissp;
 SELECT * from algch;
-SELECT * from knrro;
+SELECT * from ugsjd;
