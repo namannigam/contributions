@@ -2655,3 +2655,4 @@ SELECT * from algch;
 SELECT * from ugsjd;
 SELECT * from fqaam;
 SELECT * from eshub;
+SELECT * from vodly;
