@@ -2653,3 +2653,5 @@ SELECT * from tyyku;
 SELECT * from bissp;
 SELECT * from algch;
 SELECT * from ugsjd;
+SELECT * from fqaam;
+SELECT * from otalf;
