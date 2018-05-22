@@ -889,3 +889,4 @@ SELECT * from svxpw;
 SELECT * from cfhvt;
 SELECT * from qyujk;
 SELECT * from liphu;
+SELECT * from inyvs;
