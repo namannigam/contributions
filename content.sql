@@ -4435,3 +4435,4 @@ SELECT * from hvjyp;
 SELECT * from fixlt;
 SELECT * from pqeys;
 SELECT * from mkjiu;
+SELECT * from kigaf;
