@@ -2660,3 +2660,4 @@ SELECT * from ifcgg;
 SELECT * from rglxa;
 SELECT * from bwmah;
 SELECT * from hxpai;
+SELECT * from wowjn;
