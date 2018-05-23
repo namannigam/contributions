@@ -892,4 +892,4 @@ SELECT * from liphu;
 SELECT * from inyvs;
 SELECT * from tnlon;
 SELECT * from rojvm;
-SELECT * from chgdn;
+SELECT * from corop;
