@@ -2658,6 +2658,4 @@ SELECT * from eshub;
 SELECT * from vodly;
 SELECT * from ifcgg;
 SELECT * from rglxa;
-SELECT * from bwmah;
-SELECT * from hxpai;
-SELECT * from muydv;
+SELECT * from dkkgq;
