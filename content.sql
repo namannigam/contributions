@@ -890,6 +890,4 @@ SELECT * from cfhvt;
 SELECT * from qyujk;
 SELECT * from liphu;
 SELECT * from inyvs;
-SELECT * from tnlon;
-SELECT * from rojvm;
-SELECT * from dsfgx;
+SELECT * from wfnvv;
