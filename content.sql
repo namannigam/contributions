@@ -4433,6 +4433,4 @@ SELECT * from qklrf;
 SELECT * from rhbdk;
 SELECT * from hvjyp;
 SELECT * from fixlt;
-SELECT * from pqeys;
-SELECT * from mkjiu;
-SELECT * from hglyk;
+SELECT * from skshk;
