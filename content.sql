@@ -892,3 +892,4 @@ SELECT * from liphu;
 SELECT * from inyvs;
 SELECT * from uepgp;
 SELECT * from kgxpn;
+SELECT * from ildll;
