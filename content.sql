@@ -4436,4 +4436,3 @@ SELECT * from fixlt;
 SELECT * from ovyek;
 SELECT * from qiske;
 SELECT * from kdjfs;
-SELECT * from lqxfy;
