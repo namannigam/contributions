@@ -2661,4 +2661,4 @@ SELECT * from rglxa;
 SELECT * from txpyb;
 SELECT * from aklgm;
 SELECT * from utxfn;
-SELECT * from skain;
+SELECT * from xnjtn;
