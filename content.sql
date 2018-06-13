@@ -893,4 +893,4 @@ SELECT * from inyvs;
 SELECT * from uepgp;
 SELECT * from kgxpn;
 SELECT * from bwaub;
-SELECT * from bsidu;
+SELECT * from iuryg;
