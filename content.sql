@@ -2662,3 +2662,5 @@ SELECT * from txpyb;
 SELECT * from aklgm;
 SELECT * from vbcsv;
 SELECT * from ivpuj;
+SELECT * from cpoej;
+SELECT * from osmhs;
