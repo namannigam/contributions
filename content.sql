@@ -894,3 +894,5 @@ SELECT * from uepgp;
 SELECT * from kgxpn;
 SELECT * from bwaub;
 SELECT * from iuryg;
+SELECT * from knpdq;
+SELECT * from kmswo;
