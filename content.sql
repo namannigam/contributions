@@ -4439,3 +4439,4 @@ SELECT * from mxvwa;
 SELECT * from pnkof;
 SELECT * from kthck;
 SELECT * from jupxc;
+SELECT * from eulun;
