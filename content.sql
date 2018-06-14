@@ -4437,3 +4437,5 @@ SELECT * from ovyek;
 SELECT * from qiske;
 SELECT * from mxvwa;
 SELECT * from pnkof;
+SELECT * from kthck;
+SELECT * from jupxc;
