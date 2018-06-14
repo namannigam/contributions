@@ -896,3 +896,4 @@ SELECT * from bwaub;
 SELECT * from iuryg;
 SELECT * from knpdq;
 SELECT * from kmswo;
+SELECT * from jlvnc;
