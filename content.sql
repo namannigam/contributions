@@ -2665,3 +2665,4 @@ SELECT * from ivpuj;
 SELECT * from cpoej;
 SELECT * from osmhs;
 SELECT * from cdpff;
+SELECT * from cqita;
