@@ -2666,3 +2666,8 @@ SELECT * from cpoej;
 SELECT * from osmhs;
 SELECT * from cdpff;
 SELECT * from jwdwr;
+SELECT * from sqgeh;
+SELECT * from lymgp;
+SELECT * from npkit;
+SELECT * from gyfgh;
+SELECT * from apehl;
