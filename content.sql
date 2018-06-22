@@ -902,4 +902,4 @@ SELECT * from ylxkj;
 SELECT * from qpyxn;
 SELECT * from rkarv;
 SELECT * from poatw;
-SELECT * from puagg;
+SELECT * from glthg;
