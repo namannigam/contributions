@@ -898,3 +898,8 @@ SELECT * from knpdq;
 SELECT * from kmswo;
 SELECT * from xfkup;
 SELECT * from julhp;
+SELECT * from ylxkj;
+SELECT * from qpyxn;
+SELECT * from rkarv;
+SELECT * from poatw;
+SELECT * from puagg;
