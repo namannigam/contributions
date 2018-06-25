@@ -2672,3 +2672,4 @@ SELECT * from npkit;
 SELECT * from gyfgh;
 SELECT * from rxdnf;
 SELECT * from xdfwg;
+SELECT * from umrwn;
