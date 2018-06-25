@@ -4447,3 +4447,4 @@ SELECT * from raltd;
 SELECT * from uvohi;
 SELECT * from ystkv;
 SELECT * from fpmmu;
+SELECT * from mowbs;
