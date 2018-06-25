@@ -2671,3 +2671,4 @@ SELECT * from lymgp;
 SELECT * from npkit;
 SELECT * from gyfgh;
 SELECT * from rxdnf;
+SELECT * from xdfwg;
