@@ -906,3 +906,5 @@ SELECT * from glthg;
 SELECT * from oriyp;
 SELECT * from xojdx;
 SELECT * from pxldt;
+SELECT * from baurg;
+SELECT * from hbyys;
