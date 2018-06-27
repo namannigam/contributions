@@ -905,3 +905,4 @@ SELECT * from poatw;
 SELECT * from glthg;
 SELECT * from oriyp;
 SELECT * from xojdx;
+SELECT * from pxldt;
