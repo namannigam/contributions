@@ -4452,3 +4452,4 @@ SELECT * from iliyc;
 SELECT * from rbpbf;
 SELECT * from jhpbr;
 SELECT * from xebet;
+SELECT * from wnotr;
