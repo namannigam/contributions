@@ -910,3 +910,4 @@ SELECT * from baurg;
 SELECT * from hbyys;
 SELECT * from xmilo;
 SELECT * from mqyls;
+SELECT * from yuyju;
