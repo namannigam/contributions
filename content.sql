@@ -911,3 +911,4 @@ SELECT * from hbyys;
 SELECT * from xmilo;
 SELECT * from mqyls;
 SELECT * from yuyju;
+SELECT * from xawjd;
