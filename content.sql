@@ -2682,3 +2682,5 @@ SELECT * from vgnib;
 SELECT * from uvikh;
 SELECT * from kpoay;
 SELECT * from stkre;
+SELECT * from tumcw;
+SELECT * from rlyms;
