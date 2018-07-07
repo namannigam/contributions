@@ -4457,3 +4457,5 @@ SELECT * from ydvct;
 SELECT * from gpyvx;
 SELECT * from dbgxa;
 SELECT * from kbhuc;
+SELECT * from ifvcd;
+SELECT * from bddun;
