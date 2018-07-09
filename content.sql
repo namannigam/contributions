@@ -916,3 +916,4 @@ SELECT * from kshpr;
 SELECT * from chexu;
 SELECT * from iawxx;
 SELECT * from cugpf;
+SELECT * from dpcnh;
