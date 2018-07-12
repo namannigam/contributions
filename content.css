@@ -2599,5 +2599,8 @@
   border-left-width: 81px;
   border-bottom-width: 84px;
   font-size: 73px;
-  margin-left: 11px;
+  padding-bottom: 0px;
+  font-size: 9px;
+  line-height: 20px;
+  border-left-width: 2px;
 }
