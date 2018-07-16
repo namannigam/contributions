@@ -918,4 +918,4 @@ SELECT * from iawxx;
 SELECT * from cugpf;
 SELECT * from dpcnh;
 SELECT * from fpygc;
-SELECT * from kgibe;
+SELECT * from ytssx;
