@@ -918,4 +918,7 @@ SELECT * from iawxx;
 SELECT * from cugpf;
 SELECT * from dpcnh;
 SELECT * from fpygc;
-SELECT * from ytssx;
+SELECT * from jpupy;
+SELECT * from mwtua;
+SELECT * from ssana;
+SELECT * from eqmhm;
