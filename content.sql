@@ -921,4 +921,4 @@ SELECT * from fpygc;
 SELECT * from jpupy;
 SELECT * from mwtua;
 SELECT * from ssana;
-SELECT * from uaras;
+SELECT * from norvp;
