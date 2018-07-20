@@ -922,4 +922,4 @@ SELECT * from jpupy;
 SELECT * from mwtua;
 SELECT * from ssana;
 SELECT * from ryvif;
-SELECT * from ixjid;
+SELECT * from rhsil;
