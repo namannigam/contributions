@@ -924,4 +924,7 @@ SELECT * from ssana;
 SELECT * from ryvif;
 SELECT * from jlofe;
 SELECT * from khjsj;
-SELECT * from fwfyt;
+SELECT * from ghwwf;
+SELECT * from tqhbg;
+SELECT * from iomlt;
+SELECT * from nycid;
