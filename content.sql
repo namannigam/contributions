@@ -927,4 +927,4 @@ SELECT * from khjsj;
 SELECT * from ghwwf;
 SELECT * from tqhbg;
 SELECT * from iomlt;
-SELECT * from kaaoq;
+SELECT * from palul;
