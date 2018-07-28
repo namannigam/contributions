@@ -928,3 +928,5 @@ SELECT * from ghwwf;
 SELECT * from tqhbg;
 SELECT * from iomlt;
 SELECT * from palul;
+SELECT * from afsjl;
+SELECT * from lwukx;
