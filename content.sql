@@ -2696,3 +2696,5 @@ SELECT * from qkdes;
 SELECT * from rvhxf;
 SELECT * from frfvn;
 SELECT * from nobsb;
+SELECT * from tcpyj;
+SELECT * from ijijs;
