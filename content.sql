@@ -2698,3 +2698,4 @@ SELECT * from frfvn;
 SELECT * from nobsb;
 SELECT * from tcpyj;
 SELECT * from ybbsu;
+SELECT * from nbbnt;
