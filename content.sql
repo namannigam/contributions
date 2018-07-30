@@ -930,3 +930,4 @@ SELECT * from iomlt;
 SELECT * from palul;
 SELECT * from afsjl;
 SELECT * from vglqg;
+SELECT * from innvr;
