@@ -2699,3 +2699,7 @@ SELECT * from nobsb;
 SELECT * from tcpyj;
 SELECT * from ybbsu;
 SELECT * from nbbnt;
+SELECT * from npflf;
+SELECT * from wdyha;
+SELECT * from dmyha;
+SELECT * from vwuvf;
