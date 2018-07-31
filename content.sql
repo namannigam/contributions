@@ -931,3 +931,7 @@ SELECT * from palul;
 SELECT * from afsjl;
 SELECT * from vglqg;
 SELECT * from innvr;
+SELECT * from esqbu;
+SELECT * from wmgxj;
+SELECT * from egsgk;
+SELECT * from evqee;
