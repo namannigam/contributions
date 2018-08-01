@@ -2706,3 +2706,4 @@ SELECT * from vwuvf;
 SELECT * from cpbjv;
 SELECT * from kcdrm;
 SELECT * from ksbrc;
+SELECT * from upmix;
