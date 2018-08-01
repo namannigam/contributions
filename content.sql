@@ -4482,3 +4482,4 @@ SELECT * from bykph;
 SELECT * from rbbly;
 SELECT * from wckxd;
 SELECT * from luwlc;
+SELECT * from ktqyy;
