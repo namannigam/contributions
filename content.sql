@@ -4480,3 +4480,4 @@ SELECT * from htnmb;
 SELECT * from uegwf;
 SELECT * from bykph;
 SELECT * from rbbly;
+SELECT * from wckxd;
