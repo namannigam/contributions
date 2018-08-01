@@ -2703,3 +2703,5 @@ SELECT * from npflf;
 SELECT * from wdyha;
 SELECT * from dmyha;
 SELECT * from vwuvf;
+SELECT * from cpbjv;
+SELECT * from kcdrm;
