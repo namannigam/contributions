@@ -935,3 +935,5 @@ SELECT * from esqbu;
 SELECT * from wmgxj;
 SELECT * from egsgk;
 SELECT * from evqee;
+SELECT * from iiixf;
+SELECT * from wiklg;
