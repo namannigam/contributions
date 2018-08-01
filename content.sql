@@ -937,3 +937,4 @@ SELECT * from egsgk;
 SELECT * from evqee;
 SELECT * from iiixf;
 SELECT * from wiklg;
+SELECT * from blkak;
