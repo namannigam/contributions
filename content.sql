@@ -938,3 +938,4 @@ SELECT * from evqee;
 SELECT * from iiixf;
 SELECT * from wiklg;
 SELECT * from blkak;
+SELECT * from namrt;
