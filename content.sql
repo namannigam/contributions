@@ -4478,3 +4478,5 @@ SELECT * from iiajc;
 SELECT * from ivolt;
 SELECT * from htnmb;
 SELECT * from uegwf;
+SELECT * from bykph;
+SELECT * from rbbly;
