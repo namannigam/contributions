@@ -1063,5 +1063,7 @@
   border-top-width: 3px;
   margin-left: 18px;
   margin-top: 97px;
-  margin-bottom: 66px;
+  border-bottom-width: 23px;
+  margin-bottom: 4px;
+  padding-top: 67px;
 }
