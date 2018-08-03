@@ -4489,4 +4489,3 @@ SELECT * from pikda;
 SELECT * from ucbik;
 SELECT * from fleeb;
 SELECT * from aquck;
-SELECT * from bwxlh;
