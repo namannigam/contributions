@@ -2712,5 +2712,4 @@ SELECT * from pbijs;
 SELECT * from ysigj;
 SELECT * from jnbvp;
 SELECT * from mouwt;
-SELECT * from jgcmo;
-SELECT * from mkipv;
+SELECT * from ripbf;
