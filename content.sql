@@ -945,3 +945,5 @@ SELECT * from vafcv;
 SELECT * from lqbxo;
 SELECT * from jaene;
 SELECT * from ovphn;
+SELECT * from unehf;
+SELECT * from fdwiu;
