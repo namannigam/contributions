@@ -11288,7 +11288,7 @@ public class Clwyfd {
         System.out.println("kldti");
         System.out.println("extgv");
         System.out.println("pudyv");
-        System.out.println("xkdgj");
-        System.out.println("gyteu");
+        System.out.println("qnevb");
+        System.out.println("qtdcr");
     }
 }
