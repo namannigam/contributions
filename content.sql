@@ -4489,4 +4489,5 @@ SELECT * from pikda;
 SELECT * from ucbik;
 SELECT * from grpot;
 SELECT * from glulp;
-SELECT * from lwuol;
+SELECT * from knivy;
+SELECT * from xvuac;
