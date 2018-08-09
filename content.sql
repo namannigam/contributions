@@ -2714,4 +2714,5 @@ SELECT * from jnbvp;
 SELECT * from mouwt;
 SELECT * from ripbf;
 SELECT * from svsvx;
-SELECT * from nlpmo;
+SELECT * from gnstr;
+SELECT * from vgiyq;
