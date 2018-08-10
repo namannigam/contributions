@@ -2718,3 +2718,4 @@ SELECT * from gnstr;
 SELECT * from vgiyq;
 SELECT * from jldpv;
 SELECT * from gptid;
+SELECT * from eunif;
