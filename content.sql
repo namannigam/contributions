@@ -2717,3 +2717,4 @@ SELECT * from svsvx;
 SELECT * from gnstr;
 SELECT * from vgiyq;
 SELECT * from jldpv;
+SELECT * from gptid;
