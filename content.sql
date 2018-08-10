@@ -4494,3 +4494,8 @@ SELECT * from xvuac;
 SELECT * from lgjvc;
 SELECT * from omxrr;
 SELECT * from wfmno;
+SELECT * from tqmtl;
+SELECT * from hdbxq;
+SELECT * from hqbte;
+SELECT * from xxdqk;
+SELECT * from lboeo;
