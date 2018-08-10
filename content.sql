@@ -2719,3 +2719,8 @@ SELECT * from vgiyq;
 SELECT * from jldpv;
 SELECT * from gptid;
 SELECT * from eunif;
+SELECT * from lrxxk;
+SELECT * from gdtdi;
+SELECT * from cpmmu;
+SELECT * from vrixs;
+SELECT * from jhvsi;
