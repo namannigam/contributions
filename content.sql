@@ -951,3 +951,8 @@ SELECT * from hingc;
 SELECT * from qvtgv;
 SELECT * from uepif;
 SELECT * from hbqlp;
+SELECT * from cvrdd;
+SELECT * from hmoqd;
+SELECT * from hbuby;
+SELECT * from mixxl;
+SELECT * from jtlqc;
