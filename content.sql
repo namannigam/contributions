@@ -955,4 +955,5 @@ SELECT * from cvrdd;
 SELECT * from hmoqd;
 SELECT * from hbuby;
 SELECT * from mixxl;
-SELECT * from jtlqc;
+SELECT * from kdqoo;
+SELECT * from bstny;
