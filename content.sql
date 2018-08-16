@@ -2725,3 +2725,7 @@ SELECT * from cpmmu;
 SELECT * from vrixs;
 SELECT * from ewrwv;
 SELECT * from ocrlv;
+SELECT * from xtboh;
+SELECT * from ytikj;
+SELECT * from jhntq;
+SELECT * from stwpi;
