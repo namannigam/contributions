@@ -957,3 +957,7 @@ SELECT * from hbuby;
 SELECT * from mixxl;
 SELECT * from kdqoo;
 SELECT * from mbeiw;
+SELECT * from lwlff;
+SELECT * from rykdj;
+SELECT * from sdvgk;
+SELECT * from rngqy;
