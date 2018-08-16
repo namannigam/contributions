@@ -4500,3 +4500,7 @@ SELECT * from hqbte;
 SELECT * from xxdqk;
 SELECT * from hlsqy;
 SELECT * from okceu;
+SELECT * from vgxoq;
+SELECT * from balab;
+SELECT * from ttyin;
+SELECT * from mgole;
