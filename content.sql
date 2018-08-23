@@ -960,4 +960,4 @@ SELECT * from mbeiw;
 SELECT * from lwlff;
 SELECT * from rykdj;
 SELECT * from sdvgk;
-SELECT * from gyssq;
+SELECT * from gymvc;
