@@ -6525,7 +6525,6 @@ public class Clwyfd {
         System.out.println("fibql");
         System.out.println("vjsgi");
         System.out.println("ntara");
-        System.out.println("githu");
-        System.out.println("uftah");
+        System.out.println("onsif");
     }
 }
