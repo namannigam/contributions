@@ -11330,7 +11330,5 @@ public class Clwyfd {
         System.out.println("chjfd");
         System.out.println("hykyx");
         System.out.println("lcacl");
-        System.out.println("mspex");
-        System.out.println("kjjgc");
     }
 }
