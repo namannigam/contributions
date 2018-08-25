@@ -961,4 +961,5 @@ SELECT * from lwlff;
 SELECT * from rykdj;
 SELECT * from sdvgk;
 SELECT * from ljauf;
-SELECT * from rsjdc;
+SELECT * from yntrj;
+SELECT * from pdfqv;
