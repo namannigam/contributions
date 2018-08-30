@@ -963,4 +963,3 @@ SELECT * from sdvgk;
 SELECT * from ljauf;
 SELECT * from yntrj;
 SELECT * from vpkhe;
-SELECT * from wybdv;
