@@ -2731,4 +2731,3 @@ SELECT * from jhntq;
 SELECT * from ahikl;
 SELECT * from vghhf;
 SELECT * from jxnmu;
-SELECT * from iphrd;
