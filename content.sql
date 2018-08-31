@@ -964,4 +964,4 @@ SELECT * from ljauf;
 SELECT * from yntrj;
 SELECT * from kdrlq;
 SELECT * from utofk;
-SELECT * from auwny;
+SELECT * from odpwe;
