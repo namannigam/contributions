@@ -2732,4 +2732,4 @@ SELECT * from ahikl;
 SELECT * from vghhf;
 SELECT * from xsobn;
 SELECT * from cpyvd;
-SELECT * from ivcph;
+SELECT * from borty;
