@@ -965,3 +965,4 @@ SELECT * from yntrj;
 SELECT * from kdrlq;
 SELECT * from utofk;
 SELECT * from xrgkx;
+SELECT * from aaagq;
