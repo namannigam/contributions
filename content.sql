@@ -966,4 +966,4 @@ SELECT * from kdrlq;
 SELECT * from utofk;
 SELECT * from xrgkx;
 SELECT * from aaagq;
-SELECT * from hbtlx;
+SELECT * from husgl;
