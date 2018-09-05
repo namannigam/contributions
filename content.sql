@@ -4511,3 +4511,6 @@ SELECT * from syyhi;
 SELECT * from dlfck;
 SELECT * from fjvpm;
 SELECT * from spjbw;
+SELECT * from nuyyu;
+SELECT * from sgyur;
+SELECT * from iqhsx;
