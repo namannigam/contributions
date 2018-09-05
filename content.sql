@@ -968,3 +968,6 @@ SELECT * from xrgkx;
 SELECT * from aaagq;
 SELECT * from rrehj;
 SELECT * from fnpuk;
+SELECT * from npvgd;
+SELECT * from lgcqo;
+SELECT * from rdqsu;

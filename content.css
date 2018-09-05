@@ -1094,5 +1094,7 @@
   margin-bottom: 44px;
   padding-right: 52px;
   margin-top: 91px;
-  padding-left: 95px;
+  border-left-width: 44px;
+  padding-bottom: 25px;
+  line-height: 49px;
 }
