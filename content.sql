@@ -2736,3 +2736,6 @@ SELECT * from borty;
 SELECT * from hmfch;
 SELECT * from fnrfx;
 SELECT * from qovjs;
+SELECT * from pberj;
+SELECT * from evdha;
+SELECT * from iqtjq;
