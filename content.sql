@@ -2739,3 +2739,5 @@ SELECT * from qovjs;
 SELECT * from pberj;
 SELECT * from evdha;
 SELECT * from xociu;
+SELECT * from dsbht;
+SELECT * from vtqea;
