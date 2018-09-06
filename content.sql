@@ -971,3 +971,5 @@ SELECT * from fnpuk;
 SELECT * from npvgd;
 SELECT * from lgcqo;
 SELECT * from tuiau;
+SELECT * from ylppb;
+SELECT * from hopgw;
