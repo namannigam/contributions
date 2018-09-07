@@ -2660,5 +2660,7 @@
   padding-bottom: 59px;
   margin-right: 62px;
   border-bottom-width: 47px;
-  padding-left: 75px;
+  border-top-width: 13px;
+  border-right-width: 13px;
+  border-left-width: 92px;
 }
