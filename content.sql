@@ -2741,3 +2741,4 @@ SELECT * from evdha;
 SELECT * from xociu;
 SELECT * from dsbht;
 SELECT * from hcbmb;
+SELECT * from slmol;
