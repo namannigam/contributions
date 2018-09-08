@@ -973,3 +973,4 @@ SELECT * from lgcqo;
 SELECT * from tuiau;
 SELECT * from ylppb;
 SELECT * from drhkh;
+SELECT * from fwqch;
