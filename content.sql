@@ -4517,3 +4517,4 @@ SELECT * from tonxo;
 SELECT * from rdaxv;
 SELECT * from ndgpi;
 SELECT * from txshx;
+SELECT * from gtrtq;
