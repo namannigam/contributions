@@ -2743,3 +2743,6 @@ SELECT * from dsbht;
 SELECT * from hcbmb;
 SELECT * from slmol;
 SELECT * from tndfn;
+SELECT * from ayskb;
+SELECT * from gscla;
+SELECT * from acpcu;
