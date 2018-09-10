@@ -975,3 +975,6 @@ SELECT * from ylppb;
 SELECT * from drhkh;
 SELECT * from fwqch;
 SELECT * from yqptw;
+SELECT * from ayace;
+SELECT * from fypnu;
+SELECT * from ibnuq;
