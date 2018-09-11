@@ -2746,3 +2746,4 @@ SELECT * from tndfn;
 SELECT * from ayskb;
 SELECT * from gscla;
 SELECT * from acpcu;
+SELECT * from cnrvp;
