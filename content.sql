@@ -978,3 +978,4 @@ SELECT * from yqptw;
 SELECT * from ayace;
 SELECT * from fypnu;
 SELECT * from ibnuq;
+SELECT * from ayfjk;
