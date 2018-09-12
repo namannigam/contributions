@@ -982,3 +982,4 @@ SELECT * from ayfjk;
 SELECT * from vdwel;
 SELECT * from qjlau;
 SELECT * from wkgri;
+SELECT * from ajsir;
