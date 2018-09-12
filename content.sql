@@ -979,3 +979,6 @@ SELECT * from ayace;
 SELECT * from fypnu;
 SELECT * from ibnuq;
 SELECT * from ayfjk;
+SELECT * from vdwel;
+SELECT * from qjlau;
+SELECT * from wkgri;
