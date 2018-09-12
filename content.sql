@@ -2750,3 +2750,4 @@ SELECT * from cnrvp;
 SELECT * from lprqt;
 SELECT * from amdgq;
 SELECT * from itwac;
+SELECT * from jpuyr;
