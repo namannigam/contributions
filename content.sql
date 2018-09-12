@@ -2747,3 +2747,6 @@ SELECT * from ayskb;
 SELECT * from gscla;
 SELECT * from acpcu;
 SELECT * from cnrvp;
+SELECT * from lprqt;
+SELECT * from amdgq;
+SELECT * from itwac;
