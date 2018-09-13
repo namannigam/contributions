@@ -985,3 +985,4 @@ SELECT * from wkgri;
 SELECT * from ajsir;
 SELECT * from nfidc;
 SELECT * from kmmmg;
+SELECT * from amvfk;
