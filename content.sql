@@ -983,3 +983,5 @@ SELECT * from vdwel;
 SELECT * from qjlau;
 SELECT * from wkgri;
 SELECT * from ajsir;
+SELECT * from nfidc;
+SELECT * from kmmmg;
