@@ -2751,3 +2751,5 @@ SELECT * from lprqt;
 SELECT * from amdgq;
 SELECT * from itwac;
 SELECT * from jpuyr;
+SELECT * from mntcr;
+SELECT * from rqskw;
