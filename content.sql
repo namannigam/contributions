@@ -2753,4 +2753,4 @@ SELECT * from itwac;
 SELECT * from jpuyr;
 SELECT * from mntcr;
 SELECT * from rqskw;
-SELECT * from nsiec;
+SELECT * from depix;
