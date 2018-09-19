@@ -986,3 +986,4 @@ SELECT * from ajsir;
 SELECT * from nfidc;
 SELECT * from kmmmg;
 SELECT * from jpqpv;
+SELECT * from wlujd;
