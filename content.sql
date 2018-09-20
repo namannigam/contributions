@@ -2755,4 +2755,6 @@ SELECT * from mntcr;
 SELECT * from rqskw;
 SELECT * from xuuae;
 SELECT * from ifkiw;
-SELECT * from meour;
+SELECT * from wvefo;
+SELECT * from dbvch;
+SELECT * from xcxft;
