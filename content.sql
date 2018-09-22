@@ -991,3 +991,4 @@ SELECT * from ustvm;
 SELECT * from wbdit;
 SELECT * from yhjdx;
 SELECT * from gvadp;
+SELECT * from sjokm;
