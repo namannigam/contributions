@@ -2759,3 +2759,4 @@ SELECT * from wvefo;
 SELECT * from dbvch;
 SELECT * from xcxft;
 SELECT * from oeasd;
+SELECT * from cnkfe;
