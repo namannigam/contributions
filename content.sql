@@ -993,4 +993,4 @@ SELECT * from yhjdx;
 SELECT * from gvadp;
 SELECT * from sjokm;
 SELECT * from boyrs;
-SELECT * from aatae;
+SELECT * from dmtjc;
