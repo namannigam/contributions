@@ -995,3 +995,4 @@ SELECT * from sjokm;
 SELECT * from boyrs;
 SELECT * from dmtjc;
 SELECT * from uppex;
+SELECT * from nxvor;
