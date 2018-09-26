@@ -4537,3 +4537,4 @@ SELECT * from numpa;
 SELECT * from fvfcg;
 SELECT * from eacyc;
 SELECT * from rpckp;
+SELECT * from oymyq;
