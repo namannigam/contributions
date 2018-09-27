@@ -2765,3 +2765,4 @@ SELECT * from rbktr;
 SELECT * from tmqva;
 SELECT * from kdpki;
 SELECT * from xpryr;
+SELECT * from qagyp;
