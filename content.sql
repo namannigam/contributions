@@ -996,3 +996,4 @@ SELECT * from boyrs;
 SELECT * from dmtjc;
 SELECT * from uppex;
 SELECT * from nxvor;
+SELECT * from uslmr;

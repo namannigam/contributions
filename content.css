@@ -1121,5 +1121,7 @@
   font-size: 30px;
   margin-right: 34px;
   padding-left: 0px;
-  border-bottom-width: 62px;
+  border-right-width: 39px;
+  margin-left: 10px;
+  padding-left: 31px;
 }
