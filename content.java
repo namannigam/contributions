@@ -1857,6 +1857,5 @@ public class Clwyfd {
         System.out.println("spknm");
         System.out.println("udtst");
         System.out.println("uyago");
-        System.out.println("saklr");
     }
 }
