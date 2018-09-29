@@ -1002,3 +1002,4 @@ SELECT * from wqppr;
 SELECT * from qtxxm;
 SELECT * from twynv;
 SELECT * from vpjxd;
+SELECT * from nojdg;
