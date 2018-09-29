@@ -998,4 +998,7 @@ SELECT * from uppex;
 SELECT * from nxvor;
 SELECT * from uslmr;
 SELECT * from ovexc;
-SELECT * from njqxg;
+SELECT * from wqppr;
+SELECT * from qtxxm;
+SELECT * from twynv;
+SELECT * from vpjxd;
