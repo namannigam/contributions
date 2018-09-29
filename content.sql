@@ -2766,4 +2766,7 @@ SELECT * from tmqva;
 SELECT * from kdpki;
 SELECT * from xpryr;
 SELECT * from qagyp;
-SELECT * from wqlpa;
+SELECT * from fhlgf;
+SELECT * from mnkgk;
+SELECT * from kvqrw;
+SELECT * from hgaon;
