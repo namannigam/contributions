@@ -1003,3 +1003,4 @@ SELECT * from qtxxm;
 SELECT * from twynv;
 SELECT * from vpjxd;
 SELECT * from nojdg;
+SELECT * from avnum;
