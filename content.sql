@@ -1004,3 +1004,4 @@ SELECT * from twynv;
 SELECT * from vpjxd;
 SELECT * from nojdg;
 SELECT * from avnum;
+SELECT * from jenyv;
