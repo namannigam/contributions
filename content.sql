@@ -1005,3 +1005,4 @@ SELECT * from vpjxd;
 SELECT * from nojdg;
 SELECT * from avnum;
 SELECT * from jenyv;
+SELECT * from hoehm;
