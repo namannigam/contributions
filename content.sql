@@ -2774,3 +2774,5 @@ SELECT * from ttgyy;
 SELECT * from hvqst;
 SELECT * from euqjl;
 SELECT * from mggfs;
+SELECT * from hwxmq;
+SELECT * from legdn;
