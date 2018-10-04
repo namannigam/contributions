@@ -2776,3 +2776,4 @@ SELECT * from euqjl;
 SELECT * from mggfs;
 SELECT * from hwxmq;
 SELECT * from legdn;
+SELECT * from nqutr;
