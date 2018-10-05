@@ -1009,4 +1009,4 @@ SELECT * from hoehm;
 SELECT * from uqkxs;
 SELECT * from pmodj;
 SELECT * from aljxb;
-SELECT * from nofnl;
+SELECT * from puyoo;
