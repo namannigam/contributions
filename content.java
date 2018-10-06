@@ -6627,6 +6627,5 @@ public class Clwyfd {
         System.out.println("gymxn");
         System.out.println("hfxju");
         System.out.println("hliqa");
-        System.out.println("lugij");
     }
 }
