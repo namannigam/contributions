@@ -2692,5 +2692,7 @@
   margin-right: 4px;
   border-right-width: 55px;
   margin-right: 45px;
-  margin-left: 23px;
+  padding-top: 5px;
+  font-size: 80px;
+  border-right-width: 1px;
 }
