@@ -1884,6 +1884,5 @@ public class Clwyfd {
         System.out.println("kerny");
         System.out.println("yrexd");
         System.out.println("hlgie");
-        System.out.println("frtim");
     }
 }
