@@ -1012,3 +1012,5 @@ SELECT * from aljxb;
 SELECT * from puyoo;
 SELECT * from prhra;
 SELECT * from prphc;
+SELECT * from rabae;
+SELECT * from vcjvp;
