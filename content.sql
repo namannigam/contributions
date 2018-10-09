@@ -4555,3 +4555,5 @@ SELECT * from amlhv;
 SELECT * from rmhwi;
 SELECT * from jjhrw;
 SELECT * from cpcjm;
+SELECT * from onrei;
+SELECT * from vpcdp;
