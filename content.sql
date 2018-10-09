@@ -2780,3 +2780,5 @@ SELECT * from nqutr;
 SELECT * from asplq;
 SELECT * from fcpfv;
 SELECT * from ylckj;
+SELECT * from opcky;
+SELECT * from uhetq;
