@@ -1149,5 +1149,8 @@
   margin-top: 86px;
   border-right-width: 84px;
   padding-right: 30px;
-  margin-bottom: 89px;
+  border-top-width: 3px;
+  border-left-width: 32px;
+  font-size: 96px;
+  margin-top: 34px;
 }
