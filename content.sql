@@ -1020,3 +1020,4 @@ SELECT * from mxwui;
 SELECT * from bijxk;
 SELECT * from gnpqv;
 SELECT * from ctxht;
+SELECT * from nvfql;
