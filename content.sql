@@ -2788,3 +2788,4 @@ SELECT * from avnch;
 SELECT * from mvnbn;
 SELECT * from eccrw;
 SELECT * from akgxm;
+SELECT * from gmabj;
