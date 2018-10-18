@@ -1021,3 +1021,4 @@ SELECT * from bijxk;
 SELECT * from gnpqv;
 SELECT * from ctxht;
 SELECT * from qiuvq;
+SELECT * from mrqot;
