@@ -1023,4 +1023,7 @@ SELECT * from ctxht;
 SELECT * from qiuvq;
 SELECT * from vciwn;
 SELECT * from otjml;
-SELECT * from ggdyf;
+SELECT * from efsnh;
+SELECT * from tdncw;
+SELECT * from psudm;
+SELECT * from gtiqr;
