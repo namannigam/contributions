@@ -1026,4 +1026,4 @@ SELECT * from otjml;
 SELECT * from efsnh;
 SELECT * from tdncw;
 SELECT * from psudm;
-SELECT * from gtiqr;
+SELECT * from bstxs;
