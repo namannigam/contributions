@@ -2794,4 +2794,4 @@ SELECT * from kfaah;
 SELECT * from afjey;
 SELECT * from saiqw;
 SELECT * from oewhr;
-SELECT * from ynbjw;
+SELECT * from pubur;
