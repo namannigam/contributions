@@ -1027,3 +1027,6 @@ SELECT * from efsnh;
 SELECT * from tdncw;
 SELECT * from psudm;
 SELECT * from bstxs;
+SELECT * from ywywf;
+SELECT * from nljxw;
+SELECT * from ykjyw;
