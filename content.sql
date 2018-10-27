@@ -2795,3 +2795,6 @@ SELECT * from afjey;
 SELECT * from saiqw;
 SELECT * from oewhr;
 SELECT * from pubur;
+SELECT * from kaprx;
+SELECT * from nygve;
+SELECT * from eowcm;
