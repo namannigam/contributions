@@ -2798,3 +2798,4 @@ SELECT * from pubur;
 SELECT * from kaprx;
 SELECT * from nygve;
 SELECT * from eowcm;
+SELECT * from cksfk;
