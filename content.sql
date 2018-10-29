@@ -1030,3 +1030,4 @@ SELECT * from bstxs;
 SELECT * from ywywf;
 SELECT * from nljxw;
 SELECT * from ykjyw;
+SELECT * from sfauy;
