@@ -2798,4 +2798,5 @@ SELECT * from pubur;
 SELECT * from kaprx;
 SELECT * from nygve;
 SELECT * from eowcm;
-SELECT * from njvvr;
+SELECT * from dciml;
+SELECT * from tohip;
