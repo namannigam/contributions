@@ -2800,3 +2800,4 @@ SELECT * from nygve;
 SELECT * from eowcm;
 SELECT * from dciml;
 SELECT * from tohip;
+SELECT * from hwrif;
