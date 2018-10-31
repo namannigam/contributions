@@ -1032,3 +1032,4 @@ SELECT * from nljxw;
 SELECT * from ykjyw;
 SELECT * from vfjrk;
 SELECT * from rhrrr;
+SELECT * from adhis;
