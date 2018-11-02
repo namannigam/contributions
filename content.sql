@@ -2801,4 +2801,4 @@ SELECT * from eowcm;
 SELECT * from dciml;
 SELECT * from tohip;
 SELECT * from hwrif;
-SELECT * from bsvxe;
+SELECT * from xenyc;
