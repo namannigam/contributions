@@ -2803,3 +2803,4 @@ SELECT * from tohip;
 SELECT * from hwrif;
 SELECT * from nxpib;
 SELECT * from rtpkr;
+SELECT * from mhbbq;
