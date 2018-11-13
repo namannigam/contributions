@@ -1952,5 +1952,7 @@ public class Clwyfd {
         System.out.println("iivuu");
         System.out.println("yxmcv");
         System.out.println("pcnet");
+        System.out.println("smdam");
+        System.out.println("bnagf");
     }
 }
