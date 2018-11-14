@@ -1036,3 +1036,4 @@ SELECT * from adhis;
 SELECT * from getdw;
 SELECT * from bojjy;
 SELECT * from meetp;
+SELECT * from hyedg;
