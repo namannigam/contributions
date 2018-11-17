@@ -1039,4 +1039,5 @@ SELECT * from meetp;
 SELECT * from hyedg;
 SELECT * from bbtvs;
 SELECT * from hatyp;
-SELECT * from rwcow;
+SELECT * from conxg;
+SELECT * from ticne;
