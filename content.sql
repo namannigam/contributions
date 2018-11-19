@@ -1042,4 +1042,4 @@ SELECT * from hatyp;
 SELECT * from conxg;
 SELECT * from ticne;
 SELECT * from unbnr;
-SELECT * from brcur;
+SELECT * from laktc;
