@@ -1041,3 +1041,4 @@ SELECT * from bbtvs;
 SELECT * from hatyp;
 SELECT * from conxg;
 SELECT * from ticne;
+SELECT * from unbnr;
