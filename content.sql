@@ -1043,3 +1043,4 @@ SELECT * from conxg;
 SELECT * from ticne;
 SELECT * from unbnr;
 SELECT * from laktc;
+SELECT * from yehgn;
