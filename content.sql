@@ -1047,3 +1047,4 @@ SELECT * from lpuei;
 SELECT * from rleyx;
 SELECT * from vscva;
 SELECT * from gxdew;
+SELECT * from wtowu;
