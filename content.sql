@@ -1045,4 +1045,5 @@ SELECT * from unbnr;
 SELECT * from laktc;
 SELECT * from lpuei;
 SELECT * from rleyx;
-SELECT * from lbnem;
+SELECT * from vscva;
+SELECT * from gxdew;
