@@ -1049,3 +1049,4 @@ SELECT * from vscva;
 SELECT * from gxdew;
 SELECT * from wtowu;
 SELECT * from rupen;
+SELECT * from umbyi;
