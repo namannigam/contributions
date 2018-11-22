@@ -1051,3 +1051,4 @@ SELECT * from wtowu;
 SELECT * from rupen;
 SELECT * from umbyi;
 SELECT * from yfbsw;
+SELECT * from mrkrd;
