@@ -2816,3 +2816,4 @@ SELECT * from hhvfu;
 SELECT * from wwrmb;
 SELECT * from lojfo;
 SELECT * from tjirm;
+SELECT * from bcydi;
