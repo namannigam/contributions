@@ -2819,3 +2819,4 @@ SELECT * from tjirm;
 SELECT * from bcydi;
 SELECT * from eihfa;
 SELECT * from acmde;
+SELECT * from wiroj;
