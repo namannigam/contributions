@@ -4595,3 +4595,7 @@ SELECT * from ynkkx;
 SELECT * from tvtxf;
 SELECT * from eygev;
 SELECT * from vgaqy;
+SELECT * from qsric;
+SELECT * from fxlub;
+SELECT * from givpc;
+SELECT * from gjgse;
