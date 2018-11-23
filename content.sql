@@ -1052,3 +1052,7 @@ SELECT * from rupen;
 SELECT * from umbyi;
 SELECT * from yfbsw;
 SELECT * from mrkrd;
+SELECT * from hvhne;
+SELECT * from awyxi;
+SELECT * from fjgiv;
+SELECT * from bkcgc;
