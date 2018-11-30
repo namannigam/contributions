@@ -4600,4 +4600,4 @@ SELECT * from fxlub;
 SELECT * from givpc;
 SELECT * from pmjxh;
 SELECT * from ieeki;
-SELECT * from dnkmv;
+SELECT * from cmnpa;
