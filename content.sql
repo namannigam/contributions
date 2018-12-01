@@ -1058,3 +1058,5 @@ SELECT * from fjgiv;
 SELECT * from cptmm;
 SELECT * from altdo;
 SELECT * from kyala;
+SELECT * from kahvc;
+SELECT * from qynyp;
