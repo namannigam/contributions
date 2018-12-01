@@ -4601,3 +4601,5 @@ SELECT * from givpc;
 SELECT * from pmjxh;
 SELECT * from ieeki;
 SELECT * from cmnpa;
+SELECT * from bulsq;
+SELECT * from yvaim;
