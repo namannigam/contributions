@@ -2826,3 +2826,5 @@ SELECT * from pxqtv;
 SELECT * from rofqn;
 SELECT * from fcnpo;
 SELECT * from gnkwn;
+SELECT * from dmddp;
+SELECT * from ebmai;
