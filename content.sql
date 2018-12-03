@@ -1061,3 +1061,4 @@ SELECT * from kyala;
 SELECT * from kahvc;
 SELECT * from qynyp;
 SELECT * from yfubt;
+SELECT * from fpwxh;
