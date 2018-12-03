@@ -4603,3 +4603,4 @@ SELECT * from ieeki;
 SELECT * from cmnpa;
 SELECT * from bulsq;
 SELECT * from yvaim;
+SELECT * from apgoq;
