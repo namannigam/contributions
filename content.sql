@@ -2828,3 +2828,4 @@ SELECT * from fcnpo;
 SELECT * from gnkwn;
 SELECT * from dmddp;
 SELECT * from ebmai;
+SELECT * from xispg;
