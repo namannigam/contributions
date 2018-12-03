@@ -2829,3 +2829,4 @@ SELECT * from gnkwn;
 SELECT * from dmddp;
 SELECT * from ebmai;
 SELECT * from xispg;
+SELECT * from chxrf;
