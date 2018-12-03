@@ -1060,3 +1060,4 @@ SELECT * from altdo;
 SELECT * from kyala;
 SELECT * from kahvc;
 SELECT * from qynyp;
+SELECT * from yfubt;
