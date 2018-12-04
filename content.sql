@@ -1064,3 +1064,4 @@ SELECT * from yfubt;
 SELECT * from vqonc;
 SELECT * from mjhwg;
 SELECT * from qutca;
+SELECT * from rssgy;
