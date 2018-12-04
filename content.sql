@@ -2829,4 +2829,5 @@ SELECT * from gnkwn;
 SELECT * from dmddp;
 SELECT * from ebmai;
 SELECT * from xispg;
-SELECT * from chxrf;
+SELECT * from wievn;
+SELECT * from rvpsg;
