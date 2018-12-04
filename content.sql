@@ -2832,3 +2832,4 @@ SELECT * from xispg;
 SELECT * from wievn;
 SELECT * from rvpsg;
 SELECT * from dmetx;
+SELECT * from uethw;
