@@ -2831,3 +2831,4 @@ SELECT * from ebmai;
 SELECT * from xispg;
 SELECT * from wievn;
 SELECT * from rvpsg;
+SELECT * from rmmie;
