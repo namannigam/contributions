@@ -1065,3 +1065,4 @@ SELECT * from vqonc;
 SELECT * from mjhwg;
 SELECT * from qutca;
 SELECT * from fqbsm;
+SELECT * from isbjk;
