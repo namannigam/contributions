@@ -2833,4 +2833,6 @@ SELECT * from wievn;
 SELECT * from rvpsg;
 SELECT * from dmetx;
 SELECT * from hmcix;
-SELECT * from qgcnc;
+SELECT * from sqsel;
+SELECT * from oapjf;
+SELECT * from mmsmp;
