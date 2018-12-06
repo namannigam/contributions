@@ -2835,4 +2835,6 @@ SELECT * from dmetx;
 SELECT * from hmcix;
 SELECT * from sqsel;
 SELECT * from oapjf;
-SELECT * from mmsmp;
+SELECT * from whuex;
+SELECT * from ephlo;
+SELECT * from qvudj;
