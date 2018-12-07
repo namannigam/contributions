@@ -2841,4 +2841,3 @@ SELECT * from jqrgs;
 SELECT * from nqifi;
 SELECT * from mthdb;
 SELECT * from smesc;
-SELECT * from rskta;
