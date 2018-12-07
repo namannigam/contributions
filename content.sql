@@ -2837,4 +2837,6 @@ SELECT * from sqsel;
 SELECT * from oapjf;
 SELECT * from whuex;
 SELECT * from ephlo;
-SELECT * from sivod;
+SELECT * from jqrgs;
+SELECT * from nqifi;
+SELECT * from jekve;
