@@ -4615,5 +4615,4 @@ SELECT * from btmfw;
 SELECT * from bkblf;
 SELECT * from wqjkp;
 SELECT * from pexav;
-SELECT * from enybk;
-SELECT * from ngesr;
+SELECT * from fgepb;
