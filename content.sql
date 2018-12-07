@@ -1073,3 +1073,4 @@ SELECT * from wvioy;
 SELECT * from oogdo;
 SELECT * from fnnrv;
 SELECT * from nroib;
+SELECT * from gommk;
