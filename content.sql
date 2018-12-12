@@ -2838,4 +2838,4 @@ SELECT * from oapjf;
 SELECT * from whuex;
 SELECT * from pfvpx;
 SELECT * from jcnuc;
-SELECT * from kbudg;
+SELECT * from gwmgb;
