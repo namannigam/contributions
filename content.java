@@ -2022,6 +2022,5 @@ public class Clwyfd {
         System.out.println("yyatg");
         System.out.println("ufulp");
         System.out.println("oqklo");
-        System.out.println("yxlte");
     }
 }
