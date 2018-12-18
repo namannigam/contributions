@@ -1070,4 +1070,5 @@ SELECT * from ryeqh;
 SELECT * from hqjqo;
 SELECT * from gowpy;
 SELECT * from jdifr;
-SELECT * from njjro;
+SELECT * from gskpo;
+SELECT * from rpjjm;
