@@ -1071,4 +1071,5 @@ SELECT * from hqjqo;
 SELECT * from gowpy;
 SELECT * from jdifr;
 SELECT * from gskpo;
-SELECT * from rpjjm;
+SELECT * from vdraj;
+SELECT * from qqoom;
