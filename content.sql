@@ -4614,4 +4614,5 @@ SELECT * from tpftg;
 SELECT * from mpith;
 SELECT * from idnyu;
 SELECT * from atlvp;
-SELECT * from hvxdk;
+SELECT * from obecl;
+SELECT * from yhwoa;
