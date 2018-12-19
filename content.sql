@@ -1072,4 +1072,4 @@ SELECT * from gowpy;
 SELECT * from jdifr;
 SELECT * from gskpo;
 SELECT * from vdraj;
-SELECT * from xuruj;
+SELECT * from kmtkp;
