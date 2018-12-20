@@ -1076,3 +1076,4 @@ SELECT * from maigh;
 SELECT * from ktjjd;
 SELECT * from ogisa;
 SELECT * from xcduk;
+SELECT * from mdrvu;
