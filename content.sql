@@ -2844,3 +2844,4 @@ SELECT * from dnmgx;
 SELECT * from cuidb;
 SELECT * from tyogr;
 SELECT * from dkxsl;
+SELECT * from wjupc;
