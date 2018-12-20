@@ -4362,5 +4362,6 @@
   padding-right: 61px;
   border-right-width: 28px;
   font-size: 36px;
-  margin-top: 20px;
+  border-top-width: 20px;
+  border-left-width: 69px;
 }

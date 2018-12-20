@@ -4615,4 +4615,7 @@ SELECT * from mpith;
 SELECT * from idnyu;
 SELECT * from atlvp;
 SELECT * from obecl;
-SELECT * from uronp;
+SELECT * from ngifq;
+SELECT * from jctvt;
+SELECT * from snehg;
+SELECT * from sqtrx;
