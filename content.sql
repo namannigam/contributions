@@ -2840,4 +2840,7 @@ SELECT * from pfvpx;
 SELECT * from jcnuc;
 SELECT * from isigu;
 SELECT * from yuxmn;
-SELECT * from oiumx;
+SELECT * from dnmgx;
+SELECT * from cuidb;
+SELECT * from tyogr;
+SELECT * from dkxsl;
