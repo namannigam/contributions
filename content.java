@@ -6775,6 +6775,6 @@ public class Clwyfd {
         System.out.println("qyslt");
         System.out.println("mfetf");
         System.out.println("mqura");
-        System.out.println("qcnot");
+        System.out.println("gmkax");
     }
 }
