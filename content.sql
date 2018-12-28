@@ -4619,4 +4619,5 @@ SELECT * from ngifq;
 SELECT * from jctvt;
 SELECT * from snehg;
 SELECT * from sqtrx;
-SELECT * from ngymi;
+SELECT * from asrhi;
+SELECT * from sihlg;
