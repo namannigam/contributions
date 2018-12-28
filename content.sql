@@ -1076,4 +1076,5 @@ SELECT * from maigh;
 SELECT * from ktjjd;
 SELECT * from ogisa;
 SELECT * from xcduk;
-SELECT * from nwult;
+SELECT * from wywbf;
+SELECT * from jkgkm;
