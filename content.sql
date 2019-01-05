@@ -1077,4 +1077,4 @@ SELECT * from ktjjd;
 SELECT * from ogisa;
 SELECT * from xcduk;
 SELECT * from wywbf;
-SELECT * from jgali;
+SELECT * from bdcva;
