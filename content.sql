@@ -4627,3 +4627,4 @@ SELECT * from tqult;
 SELECT * from tlnuc;
 SELECT * from dupio;
 SELECT * from vasoc;
+SELECT * from rtkep;
