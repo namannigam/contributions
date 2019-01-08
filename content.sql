@@ -1086,3 +1086,4 @@ SELECT * from ctnup;
 SELECT * from klekk;
 SELECT * from owqhq;
 SELECT * from yysgv;
+SELECT * from mkktx;
