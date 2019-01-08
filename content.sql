@@ -4630,3 +4630,4 @@ SELECT * from vasoc;
 SELECT * from rtkep;
 SELECT * from rejdk;
 SELECT * from agwnw;
+SELECT * from hqwns;
