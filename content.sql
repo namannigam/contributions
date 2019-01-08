@@ -4629,3 +4629,4 @@ SELECT * from dupio;
 SELECT * from vasoc;
 SELECT * from rtkep;
 SELECT * from rejdk;
+SELECT * from agwnw;
