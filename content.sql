@@ -4628,4 +4628,4 @@ SELECT * from tlnuc;
 SELECT * from dupio;
 SELECT * from vasoc;
 SELECT * from rtkep;
-SELECT * from ttwfi;
+SELECT * from rejdk;
