@@ -2852,3 +2852,4 @@ SELECT * from xgjyx;
 SELECT * from thlfg;
 SELECT * from rxmku;
 SELECT * from qntew;
+SELECT * from lkaem;
