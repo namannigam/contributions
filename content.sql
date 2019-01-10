@@ -4633,3 +4633,5 @@ SELECT * from agwnw;
 SELECT * from qjerg;
 SELECT * from fxfmg;
 SELECT * from vwcsv;
+SELECT * from vmudu;
+SELECT * from xjjfm;
