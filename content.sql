@@ -2858,4 +2858,5 @@ SELECT * from wlevh;
 SELECT * from emahq;
 SELECT * from xnddh;
 SELECT * from evqfu;
-SELECT * from hqgch;
+SELECT * from gcgvp;
+SELECT * from ososy;
