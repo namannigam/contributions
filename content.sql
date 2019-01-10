@@ -1090,4 +1090,5 @@ SELECT * from mkktx;
 SELECT * from byrvj;
 SELECT * from gxllb;
 SELECT * from xsldp;
-SELECT * from tdknc;
+SELECT * from nanvn;
+SELECT * from dkpma;
