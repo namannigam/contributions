@@ -1091,4 +1091,4 @@ SELECT * from byrvj;
 SELECT * from gxllb;
 SELECT * from xsldp;
 SELECT * from nanvn;
-SELECT * from uxnjt;
+SELECT * from negol;
