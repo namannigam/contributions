@@ -2860,3 +2860,6 @@ SELECT * from xnddh;
 SELECT * from evqfu;
 SELECT * from gcgvp;
 SELECT * from ptakr;
+SELECT * from pgule;
+SELECT * from veupn;
+SELECT * from dwmsv;
