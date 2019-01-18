@@ -4635,3 +4635,6 @@ SELECT * from fxfmg;
 SELECT * from vwcsv;
 SELECT * from vmudu;
 SELECT * from qbupr;
+SELECT * from wmlfn;
+SELECT * from nbjjy;
+SELECT * from roebj;
