@@ -1092,3 +1092,6 @@ SELECT * from gxllb;
 SELECT * from xsldp;
 SELECT * from nanvn;
 SELECT * from negol;
+SELECT * from rbmmw;
+SELECT * from fcysl;
+SELECT * from kpxaw;
