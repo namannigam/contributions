@@ -2863,4 +2863,5 @@ SELECT * from ptakr;
 SELECT * from pgule;
 SELECT * from veupn;
 SELECT * from qlplp;
-SELECT * from dertg;
+SELECT * from ttfmv;
+SELECT * from vojvv;
