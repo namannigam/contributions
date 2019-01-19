@@ -1095,4 +1095,5 @@ SELECT * from negol;
 SELECT * from rbmmw;
 SELECT * from fcysl;
 SELECT * from qehjm;
-SELECT * from xpmjh;
+SELECT * from gjynj;
+SELECT * from aqplb;
