@@ -1097,3 +1097,4 @@ SELECT * from fcysl;
 SELECT * from qehjm;
 SELECT * from gjynj;
 SELECT * from mqhls;
+SELECT * from dkixj;
