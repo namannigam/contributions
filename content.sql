@@ -2864,4 +2864,4 @@ SELECT * from pgule;
 SELECT * from veupn;
 SELECT * from qlplp;
 SELECT * from ttfmv;
-SELECT * from nitou;
+SELECT * from kuqws;
