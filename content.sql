@@ -4640,4 +4640,5 @@ SELECT * from nbjjy;
 SELECT * from lctmq;
 SELECT * from ddlgs;
 SELECT * from autxy;
-SELECT * from vvwvn;
+SELECT * from wablo;
+SELECT * from qbius;
