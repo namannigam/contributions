@@ -1098,4 +1098,4 @@ SELECT * from qehjm;
 SELECT * from gjynj;
 SELECT * from mqhls;
 SELECT * from htbhw;
-SELECT * from kmuik;
+SELECT * from cnpvi;
