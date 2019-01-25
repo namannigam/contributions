@@ -1100,3 +1100,4 @@ SELECT * from mqhls;
 SELECT * from htbhw;
 SELECT * from cnpvi;
 SELECT * from xjpwr;
+SELECT * from wauuy;
