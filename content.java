@@ -2090,7 +2090,6 @@ public class Clwyfd {
         System.out.println("ievae");
         System.out.println("xjpsc");
         System.out.println("sknda");
-        System.out.println("rukog");
-        System.out.println("djtto");
+        System.out.println("yidhs");
     }
 }

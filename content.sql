@@ -1099,3 +1099,4 @@ SELECT * from gjynj;
 SELECT * from mqhls;
 SELECT * from htbhw;
 SELECT * from cnpvi;
+SELECT * from xjpwr;
