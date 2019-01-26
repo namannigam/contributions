@@ -4644,3 +4644,7 @@ SELECT * from wablo;
 SELECT * from ivwby;
 SELECT * from mwwfd;
 SELECT * from jwbub;
+SELECT * from fdxvu;
+SELECT * from hpxpf;
+SELECT * from lxfpn;
+SELECT * from lvove;
