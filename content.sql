@@ -2869,3 +2869,7 @@ SELECT * from hbauw;
 SELECT * from ncqqk;
 SELECT * from auvkb;
 SELECT * from lchnw;
+SELECT * from aybee;
+SELECT * from cpxja;
+SELECT * from kgxis;
+SELECT * from yccab;
