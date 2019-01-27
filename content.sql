@@ -2873,3 +2873,4 @@ SELECT * from aybee;
 SELECT * from cpxja;
 SELECT * from kgxis;
 SELECT * from yccab;
+SELECT * from qtusc;
