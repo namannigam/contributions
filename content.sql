@@ -4648,3 +4648,4 @@ SELECT * from fdxvu;
 SELECT * from hpxpf;
 SELECT * from lxfpn;
 SELECT * from lvove;
+SELECT * from beqxg;
