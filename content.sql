@@ -2874,4 +2874,7 @@ SELECT * from cpxja;
 SELECT * from kgxis;
 SELECT * from yccab;
 SELECT * from qtusc;
-SELECT * from bbncg;
+SELECT * from hcpba;
+SELECT * from sumot;
+SELECT * from krrwr;
+SELECT * from ftetb;
