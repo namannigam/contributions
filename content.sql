@@ -2878,3 +2878,4 @@ SELECT * from hcpba;
 SELECT * from sumot;
 SELECT * from krrwr;
 SELECT * from ftetb;
+SELECT * from cjlml;
