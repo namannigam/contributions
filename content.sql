@@ -2884,3 +2884,5 @@ SELECT * from xlexm;
 SELECT * from rrgkk;
 SELECT * from roefd;
 SELECT * from abdtq;
+SELECT * from cmecb;
+SELECT * from kptwk;
