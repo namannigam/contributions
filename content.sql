@@ -2886,3 +2886,5 @@ SELECT * from roefd;
 SELECT * from abdtq;
 SELECT * from cmecb;
 SELECT * from kptwk;
+SELECT * from hvysv;
+SELECT * from gyhic;

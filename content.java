@@ -6836,7 +6836,6 @@ public class Clwyfd {
         System.out.println("vcuuw");
         System.out.println("gsckd");
         System.out.println("nbfan");
-        System.out.println("bxglb");
-        System.out.println("iphbm");
+        System.out.println("jumaa");
     }
 }
