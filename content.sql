@@ -2888,3 +2888,4 @@ SELECT * from cmecb;
 SELECT * from kptwk;
 SELECT * from hvysv;
 SELECT * from gyhic;
+SELECT * from xeiox;
