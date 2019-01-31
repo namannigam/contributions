@@ -1118,3 +1118,5 @@ SELECT * from ijpvp;
 SELECT * from bqhlb;
 SELECT * from rairn;
 SELECT * from vmelk;
+SELECT * from tpjqa;
+SELECT * from meaac;
