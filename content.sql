@@ -4660,3 +4660,6 @@ SELECT * from afkcm;
 SELECT * from awpkh;
 SELECT * from ecjhx;
 SELECT * from nymyd;
+SELECT * from yelai;
+SELECT * from parqm;
+SELECT * from rkaqk;
