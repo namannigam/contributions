@@ -4663,3 +4663,4 @@ SELECT * from nymyd;
 SELECT * from yelai;
 SELECT * from parqm;
 SELECT * from rkaqk;
+SELECT * from cibrw;
