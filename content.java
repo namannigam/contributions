@@ -2101,6 +2101,11 @@ public class Clwyfd {
         System.out.println("wcrtm");
         System.out.println("jlavh");
         System.out.println("jmjxc");
-        System.out.println("lbigl");
+        System.out.println("lmklr");
+        System.out.println("timdr");
+        System.out.println("xpkrt");
+        System.out.println("fccwu");
+        System.out.println("xnoxg");
+        System.out.println("rpjun");
     }
 }
