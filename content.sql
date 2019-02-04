@@ -1135,3 +1135,4 @@ SELECT * from enfri;
 SELECT * from lmqpq;
 SELECT * from thvvp;
 SELECT * from mcidg;
+SELECT * from knand;
