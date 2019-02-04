@@ -4677,3 +4677,4 @@ SELECT * from xgijo;
 SELECT * from mugqi;
 SELECT * from rsbgk;
 SELECT * from dormd;
+SELECT * from djhna;
