@@ -4676,3 +4676,4 @@ SELECT * from uwfas;
 SELECT * from xgijo;
 SELECT * from mugqi;
 SELECT * from rsbgk;
+SELECT * from dormd;
