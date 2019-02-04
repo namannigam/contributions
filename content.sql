@@ -4678,3 +4678,4 @@ SELECT * from mugqi;
 SELECT * from rsbgk;
 SELECT * from dormd;
 SELECT * from djhna;
+SELECT * from mramr;
