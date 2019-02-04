@@ -2901,3 +2901,4 @@ SELECT * from lemdf;
 SELECT * from cgace;
 SELECT * from hldnm;
 SELECT * from mwolq;
+SELECT * from qpgxx;
