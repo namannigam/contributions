@@ -4675,3 +4675,4 @@ SELECT * from vavgf;
 SELECT * from uwfas;
 SELECT * from xgijo;
 SELECT * from mugqi;
+SELECT * from rsbgk;
