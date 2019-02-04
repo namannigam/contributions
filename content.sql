@@ -4674,3 +4674,4 @@ SELECT * from wwyyw;
 SELECT * from vavgf;
 SELECT * from uwfas;
 SELECT * from xgijo;
+SELECT * from mugqi;
