@@ -2905,4 +2905,5 @@ SELECT * from qpgxx;
 SELECT * from fclxn;
 SELECT * from eamtk;
 SELECT * from qclei;
-SELECT * from ncypf;
+SELECT * from kaort;
+SELECT * from ddwte;
