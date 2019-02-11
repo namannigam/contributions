@@ -1138,4 +1138,7 @@ SELECT * from mcidg;
 SELECT * from exnhh;
 SELECT * from wcsha;
 SELECT * from yrbgh;
-SELECT * from kxbhi;
+SELECT * from tatgi;
+SELECT * from ikgff;
+SELECT * from mjojm;
+SELECT * from vbldp;
