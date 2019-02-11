@@ -2909,4 +2909,4 @@ SELECT * from kaort;
 SELECT * from vwfmv;
 SELECT * from blady;
 SELECT * from sgdsx;
-SELECT * from jyxoe;
+SELECT * from mjord;
