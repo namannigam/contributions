@@ -1143,3 +1143,4 @@ SELECT * from ikgff;
 SELECT * from mjojm;
 SELECT * from dtgwn;
 SELECT * from bfuxc;
+SELECT * from jiuta;
