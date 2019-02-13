@@ -2912,3 +2912,4 @@ SELECT * from sgdsx;
 SELECT * from mjord;
 SELECT * from vlhlm;
 SELECT * from kmphf;
+SELECT * from eucus;
