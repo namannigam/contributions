@@ -4687,3 +4687,4 @@ SELECT * from uibdo;
 SELECT * from qjubf;
 SELECT * from mikmh;
 SELECT * from vnneg;
+SELECT * from eogdi;
