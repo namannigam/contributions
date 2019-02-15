@@ -1148,3 +1148,4 @@ SELECT * from tllhu;
 SELECT * from gbkyp;
 SELECT * from gfkom;
 SELECT * from pagjs;
+SELECT * from vbkaf;
