@@ -1145,4 +1145,6 @@ SELECT * from dtgwn;
 SELECT * from bfuxc;
 SELECT * from bgmuo;
 SELECT * from tllhu;
-SELECT * from yidyt;
+SELECT * from gbkyp;
+SELECT * from gfkom;
+SELECT * from pagjs;
