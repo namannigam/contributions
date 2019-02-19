@@ -4691,4 +4691,4 @@ SELECT * from blqly;
 SELECT * from evdji;
 SELECT * from fxbmq;
 SELECT * from lxncq;
-SELECT * from xrkah;
+SELECT * from kursq;
