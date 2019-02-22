@@ -1150,4 +1150,4 @@ SELECT * from gfkom;
 SELECT * from pagjs;
 SELECT * from lbhly;
 SELECT * from rdxhn;
-SELECT * from nqpua;
+SELECT * from lcoql;
