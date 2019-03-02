@@ -1152,4 +1152,5 @@ SELECT * from lbhly;
 SELECT * from rdxhn;
 SELECT * from jjohi;
 SELECT * from gxggn;
-SELECT * from hocvw;
+SELECT * from dbyag;
+SELECT * from jpnye;
