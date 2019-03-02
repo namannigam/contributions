@@ -2920,4 +2920,5 @@ SELECT * from xefdg;
 SELECT * from iljtc;
 SELECT * from oanmb;
 SELECT * from vtkeu;
-SELECT * from nebly;
+SELECT * from bbudp;
+SELECT * from scccp;
