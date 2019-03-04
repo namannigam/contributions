@@ -2923,3 +2923,4 @@ SELECT * from vtkeu;
 SELECT * from bbudp;
 SELECT * from scccp;
 SELECT * from ccuha;
+SELECT * from wsvow;
