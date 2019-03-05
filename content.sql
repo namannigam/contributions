@@ -2925,3 +2925,6 @@ SELECT * from scccp;
 SELECT * from ccuha;
 SELECT * from wsvow;
 SELECT * from tbydv;
+SELECT * from yrclc;
+SELECT * from fwyoy;
+SELECT * from xaqrc;
