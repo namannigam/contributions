@@ -1156,3 +1156,7 @@ SELECT * from dbyag;
 SELECT * from jpnye;
 SELECT * from iwdtm;
 SELECT * from eptwc;
+SELECT * from ddwto;
+SELECT * from qnnta;
+SELECT * from eurll;
+SELECT * from vedtu;
