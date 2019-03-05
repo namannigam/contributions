@@ -1159,4 +1159,4 @@ SELECT * from eptwc;
 SELECT * from ddwto;
 SELECT * from qnnta;
 SELECT * from eurll;
-SELECT * from vedtu;
+SELECT * from cmgya;
