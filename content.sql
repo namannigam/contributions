@@ -4700,3 +4700,6 @@ SELECT * from mkcbw;
 SELECT * from lkrml;
 SELECT * from mjsib;
 SELECT * from arsxc;
+SELECT * from vvijg;
+SELECT * from qjimw;
+SELECT * from uylsr;
