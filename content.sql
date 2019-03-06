@@ -1160,3 +1160,4 @@ SELECT * from ddwto;
 SELECT * from qnnta;
 SELECT * from eurll;
 SELECT * from cmgya;
+SELECT * from ilius;
