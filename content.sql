@@ -4703,3 +4703,7 @@ SELECT * from arsxc;
 SELECT * from vvijg;
 SELECT * from qjimw;
 SELECT * from jxeml;
+SELECT * from kmodl;
+SELECT * from bvalk;
+SELECT * from xgbjj;
+SELECT * from yrhwk;
