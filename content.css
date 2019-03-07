@@ -2814,5 +2814,6 @@
   line-height: 27px;
   margin-bottom: 69px;
   padding-left: 26px;
-  font-size: 78px;
+  padding-top: 4px;
+  border-left-width: 31px;
 }

@@ -2928,3 +2928,7 @@ SELECT * from tbydv;
 SELECT * from yrclc;
 SELECT * from fwyoy;
 SELECT * from fqjgk;
+SELECT * from xilnh;
+SELECT * from hfnhr;
+SELECT * from hrlfa;
+SELECT * from kclgr;
