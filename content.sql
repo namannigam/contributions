@@ -2931,4 +2931,5 @@ SELECT * from fqjgk;
 SELECT * from xilnh;
 SELECT * from hfnhr;
 SELECT * from hrlfa;
-SELECT * from sksos;
+SELECT * from lwlal;
+SELECT * from wjcyk;
