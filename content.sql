@@ -1164,4 +1164,4 @@ SELECT * from ilius;
 SELECT * from rqbiu;
 SELECT * from gpbsw;
 SELECT * from iahtc;
-SELECT * from octpn;
+SELECT * from fwego;
