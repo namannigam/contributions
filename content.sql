@@ -2938,3 +2938,4 @@ SELECT * from ckcts;
 SELECT * from xufic;
 SELECT * from wmyvm;
 SELECT * from rpnre;
+SELECT * from dnmwl;
