@@ -1169,3 +1169,4 @@ SELECT * from jauae;
 SELECT * from opajw;
 SELECT * from lanca;
 SELECT * from qxvfy;
+SELECT * from spbdx;
