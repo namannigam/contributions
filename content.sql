@@ -4713,3 +4713,4 @@ SELECT * from cdfkm;
 SELECT * from fgacb;
 SELECT * from kemgt;
 SELECT * from njjdm;
+SELECT * from lpync;
