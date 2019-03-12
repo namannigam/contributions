@@ -2941,3 +2941,4 @@ SELECT * from rpnre;
 SELECT * from idnng;
 SELECT * from xceow;
 SELECT * from hesna;
+SELECT * from iailt;
