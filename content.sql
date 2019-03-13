@@ -2942,3 +2942,4 @@ SELECT * from idnng;
 SELECT * from xceow;
 SELECT * from hesna;
 SELECT * from iailt;
+SELECT * from cbhrl;
