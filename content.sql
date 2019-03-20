@@ -2943,4 +2943,6 @@ SELECT * from xceow;
 SELECT * from hesna;
 SELECT * from iailt;
 SELECT * from khphx;
-SELECT * from kfpen;
+SELECT * from wakup;
+SELECT * from kxrgp;
+SELECT * from jghay;
