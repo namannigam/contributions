@@ -1178,3 +1178,4 @@ SELECT * from blmtd;
 SELECT * from hemsg;
 SELECT * from ahely;
 SELECT * from gdfao;
+SELECT * from ngnae;
