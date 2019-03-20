@@ -4722,3 +4722,4 @@ SELECT * from clvqy;
 SELECT * from xtjka;
 SELECT * from rtpld;
 SELECT * from mxscv;
+SELECT * from xujul;
