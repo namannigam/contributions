@@ -1273,5 +1273,6 @@
   margin-top: 5px;
   padding-top: 65px;
   padding-right: 50px;
-  margin-bottom: 73px;
+  border-bottom-width: 6px;
+  font-size: 28px;
 }
