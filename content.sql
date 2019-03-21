@@ -2947,4 +2947,4 @@ SELECT * from wakup;
 SELECT * from kxrgp;
 SELECT * from jghay;
 SELECT * from akycr;
-SELECT * from fjjkb;
+SELECT * from uscol;
