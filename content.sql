@@ -2948,3 +2948,4 @@ SELECT * from kxrgp;
 SELECT * from jghay;
 SELECT * from akycr;
 SELECT * from sqhox;
+SELECT * from ejxyd;
