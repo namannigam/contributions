@@ -2949,3 +2949,5 @@ SELECT * from jghay;
 SELECT * from akycr;
 SELECT * from sqhox;
 SELECT * from ejxyd;
+SELECT * from lhkgm;
+SELECT * from xmjlv;
