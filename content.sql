@@ -4724,3 +4724,5 @@ SELECT * from rtpld;
 SELECT * from mxscv;
 SELECT * from xhtfs;
 SELECT * from kwhec;
+SELECT * from cjatu;
+SELECT * from misyi;
