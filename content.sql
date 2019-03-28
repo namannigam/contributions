@@ -2955,3 +2955,5 @@ SELECT * from oofwo;
 SELECT * from advvq;
 SELECT * from uvidh;
 SELECT * from hbqvq;
+SELECT * from dnhsq;
+SELECT * from efold;
