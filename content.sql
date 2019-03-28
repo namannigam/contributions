@@ -1188,3 +1188,4 @@ SELECT * from krjuv;
 SELECT * from wgupb;
 SELECT * from hbrhe;
 SELECT * from oedoj;
+SELECT * from skedh;
