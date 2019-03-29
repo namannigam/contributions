@@ -1193,3 +1193,4 @@ SELECT * from pohrt;
 SELECT * from brdyp;
 SELECT * from oefqa;
 SELECT * from bqxxe;
+SELECT * from itixk;
