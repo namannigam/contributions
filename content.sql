@@ -4732,4 +4732,6 @@ SELECT * from ehmgo;
 SELECT * from eiufc;
 SELECT * from mjnjk;
 SELECT * from sedlq;
-SELECT * from rcdow;
+SELECT * from tyobt;
+SELECT * from ogmte;
+SELECT * from tsknr;
