@@ -2957,3 +2957,6 @@ SELECT * from uvidh;
 SELECT * from hbqvq;
 SELECT * from dnhsq;
 SELECT * from efold;
+SELECT * from rntho;
+SELECT * from cuvcx;
+SELECT * from kejcp;
