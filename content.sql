@@ -4735,3 +4735,4 @@ SELECT * from sedlq;
 SELECT * from tyobt;
 SELECT * from ogmte;
 SELECT * from tsknr;
+SELECT * from gaqam;
