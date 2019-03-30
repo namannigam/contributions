@@ -4736,3 +4736,7 @@ SELECT * from tyobt;
 SELECT * from ogmte;
 SELECT * from tsknr;
 SELECT * from gaqam;
+SELECT * from wfvak;
+SELECT * from hhwsp;
+SELECT * from egggy;
+SELECT * from wwbbf;
