@@ -2965,3 +2965,4 @@ SELECT * from mdtao;
 SELECT * from depkq;
 SELECT * from gyexm;
 SELECT * from ouyxa;
+SELECT * from puyds;
