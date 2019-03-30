@@ -2961,3 +2961,7 @@ SELECT * from rntho;
 SELECT * from cuvcx;
 SELECT * from kejcp;
 SELECT * from cactd;
+SELECT * from mdtao;
+SELECT * from depkq;
+SELECT * from gyexm;
+SELECT * from ouyxa;
