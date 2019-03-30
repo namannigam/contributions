@@ -1194,3 +1194,6 @@ SELECT * from brdyp;
 SELECT * from oefqa;
 SELECT * from bqxxe;
 SELECT * from itixk;
+SELECT * from idauh;
+SELECT * from gnuvd;
+SELECT * from dikrj;
