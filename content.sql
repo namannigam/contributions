@@ -1198,4 +1198,4 @@ SELECT * from idauh;
 SELECT * from gnuvd;
 SELECT * from dikrj;
 SELECT * from oefqe;
-SELECT * from xsdeg;
+SELECT * from qxphh;
