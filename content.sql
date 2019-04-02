@@ -2966,3 +2966,4 @@ SELECT * from depkq;
 SELECT * from gyexm;
 SELECT * from ouyxa;
 SELECT * from puyds;
+SELECT * from sdaar;
