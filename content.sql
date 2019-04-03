@@ -1199,4 +1199,6 @@ SELECT * from gnuvd;
 SELECT * from dikrj;
 SELECT * from oefqe;
 SELECT * from wjfbq;
-SELECT * from hrpmu;
+SELECT * from kygva;
+SELECT * from hhgqw;
+SELECT * from khvut;
