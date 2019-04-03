@@ -2967,4 +2967,6 @@ SELECT * from gyexm;
 SELECT * from ouyxa;
 SELECT * from puyds;
 SELECT * from sdaar;
-SELECT * from satjg;
+SELECT * from abwlg;
+SELECT * from natox;
+SELECT * from laitd;
