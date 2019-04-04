@@ -2974,3 +2974,4 @@ SELECT * from wopbd;
 SELECT * from qussl;
 SELECT * from ypxqu;
 SELECT * from byakr;
+SELECT * from lgubh;
