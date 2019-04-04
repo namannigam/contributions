@@ -1206,3 +1206,4 @@ SELECT * from taxoc;
 SELECT * from vrwtl;
 SELECT * from fcqan;
 SELECT * from vcaen;
+SELECT * from qsigo;
