@@ -2970,3 +2970,7 @@ SELECT * from sdaar;
 SELECT * from abwlg;
 SELECT * from natox;
 SELECT * from laitd;
+SELECT * from wopbd;
+SELECT * from qussl;
+SELECT * from ypxqu;
+SELECT * from byakr;
