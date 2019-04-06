@@ -1212,4 +1212,5 @@ SELECT * from damuh;
 SELECT * from nuprg;
 SELECT * from pxrkx;
 SELECT * from sulwb;
-SELECT * from fluip;
+SELECT * from istdn;
+SELECT * from ctxhe;
