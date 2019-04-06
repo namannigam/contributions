@@ -2980,4 +2980,5 @@ SELECT * from uxcdg;
 SELECT * from fqcnh;
 SELECT * from itiic;
 SELECT * from fjxke;
-SELECT * from qnbry;
+SELECT * from qwtga;
+SELECT * from khntt;
