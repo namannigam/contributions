@@ -4756,4 +4756,4 @@ SELECT * from vcqin;
 SELECT * from tyysa;
 SELECT * from ghets;
 SELECT * from sedcb;
-SELECT * from mcsmo;
+SELECT * from ciwin;
