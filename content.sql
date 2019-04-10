@@ -1213,4 +1213,4 @@ SELECT * from nuprg;
 SELECT * from pxrkx;
 SELECT * from sulwb;
 SELECT * from istdn;
-SELECT * from xvmrw;
+SELECT * from nhtvi;
