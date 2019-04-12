@@ -2987,3 +2987,4 @@ SELECT * from bckbx;
 SELECT * from bjjov;
 SELECT * from ekdkp;
 SELECT * from ndbmo;
+SELECT * from bpnua;
