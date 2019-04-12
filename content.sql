@@ -4758,3 +4758,6 @@ SELECT * from ghets;
 SELECT * from sedcb;
 SELECT * from ciwin;
 SELECT * from qqdaq;
+SELECT * from opomm;
+SELECT * from tbpfo;
+SELECT * from iyems;
