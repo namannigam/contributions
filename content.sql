@@ -1215,3 +1215,6 @@ SELECT * from sulwb;
 SELECT * from istdn;
 SELECT * from nhtvi;
 SELECT * from lidnt;
+SELECT * from bmmxj;
+SELECT * from yroyj;
+SELECT * from cutxf;
