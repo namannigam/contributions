@@ -4762,3 +4762,4 @@ SELECT * from opomm;
 SELECT * from tbpfo;
 SELECT * from iyems;
 SELECT * from poxes;
+SELECT * from aoosn;
