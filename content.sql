@@ -1219,4 +1219,6 @@ SELECT * from bmmxj;
 SELECT * from yroyj;
 SELECT * from cutxf;
 SELECT * from pydom;
-SELECT * from lmgxw;
+SELECT * from prucd;
+SELECT * from jovtn;
+SELECT * from ukdqo;
