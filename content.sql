@@ -1222,3 +1222,6 @@ SELECT * from pydom;
 SELECT * from prucd;
 SELECT * from jovtn;
 SELECT * from otblj;
+SELECT * from pgsmv;
+SELECT * from flujb;
+SELECT * from efmcq;
