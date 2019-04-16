@@ -2990,3 +2990,6 @@ SELECT * from ndbmo;
 SELECT * from gvujf;
 SELECT * from hvtoh;
 SELECT * from pciet;
+SELECT * from yqyyh;
+SELECT * from ncqwk;
+SELECT * from okugu;
