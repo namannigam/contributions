@@ -4765,3 +4765,6 @@ SELECT * from poxes;
 SELECT * from gwhqn;
 SELECT * from pefqd;
 SELECT * from lrwmt;
+SELECT * from shnjr;
+SELECT * from ahhpx;
+SELECT * from awill;
