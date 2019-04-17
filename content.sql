@@ -1226,3 +1226,4 @@ SELECT * from pgsmv;
 SELECT * from flujb;
 SELECT * from efmcq;
 SELECT * from bgixi;
+SELECT * from agjmm;
