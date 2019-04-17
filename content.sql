@@ -2996,3 +2996,4 @@ SELECT * from okugu;
 SELECT * from vevhv;
 SELECT * from sugef;
 SELECT * from megiw;
+SELECT * from gwuls;
