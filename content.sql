@@ -4774,3 +4774,8 @@ SELECT * from yywbm;
 SELECT * from jmjmj;
 SELECT * from eumxx;
 SELECT * from ufvam;
+SELECT * from tkqjw;
+SELECT * from cpvnm;
+SELECT * from qtswc;
+SELECT * from sqcex;
+SELECT * from grwas;
