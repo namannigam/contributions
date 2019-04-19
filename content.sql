@@ -1231,3 +1231,8 @@ SELECT * from xvtay;
 SELECT * from ybnvj;
 SELECT * from iyefv;
 SELECT * from ywcml;
+SELECT * from kxqsp;
+SELECT * from ffjrc;
+SELECT * from fstxh;
+SELECT * from isvdd;
+SELECT * from goglj;
