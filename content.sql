@@ -2999,3 +2999,8 @@ SELECT * from megiw;
 SELECT * from ixqvw;
 SELECT * from eehju;
 SELECT * from jpmwd;
+SELECT * from hagna;
+SELECT * from ucwyu;
+SELECT * from yvkyw;
+SELECT * from eqgiw;
+SELECT * from nxlav;
