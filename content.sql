@@ -4779,3 +4779,4 @@ SELECT * from cpvnm;
 SELECT * from qtswc;
 SELECT * from sqcex;
 SELECT * from xqtyi;
+SELECT * from xerog;
