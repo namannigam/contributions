@@ -3005,3 +3005,4 @@ SELECT * from yvkyw;
 SELECT * from eqgiw;
 SELECT * from qcmua;
 SELECT * from pcdyn;
+SELECT * from kbfqi;
