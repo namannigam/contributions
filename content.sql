@@ -1237,3 +1237,4 @@ SELECT * from fstxh;
 SELECT * from isvdd;
 SELECT * from iurno;
 SELECT * from vbgcb;
+SELECT * from pkmri;
