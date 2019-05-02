@@ -1238,3 +1238,4 @@ SELECT * from isvdd;
 SELECT * from iurno;
 SELECT * from vbgcb;
 SELECT * from pkmri;
+SELECT * from tisdl;
