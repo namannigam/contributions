@@ -4782,3 +4782,5 @@ SELECT * from xqtyi;
 SELECT * from xerog;
 SELECT * from owvii;
 SELECT * from bbjey;
+SELECT * from fuxqd;
+SELECT * from scqjk;
