@@ -3007,3 +3007,5 @@ SELECT * from qcmua;
 SELECT * from pcdyn;
 SELECT * from kbfqi;
 SELECT * from xcihh;
+SELECT * from khnei;
+SELECT * from qgpux;
