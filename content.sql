@@ -1240,4 +1240,6 @@ SELECT * from vbgcb;
 SELECT * from pkmri;
 SELECT * from tisdl;
 SELECT * from gpkjl;
-SELECT * from ywnol;
+SELECT * from ucbvx;
+SELECT * from sktjd;
+SELECT * from vognk;
