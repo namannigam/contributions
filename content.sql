@@ -1242,4 +1242,5 @@ SELECT * from tisdl;
 SELECT * from gpkjl;
 SELECT * from ucbvx;
 SELECT * from sktjd;
-SELECT * from lcviv;
+SELECT * from rpxxr;
+SELECT * from mnaxy;
