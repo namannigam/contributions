@@ -3010,4 +3010,5 @@ SELECT * from xcihh;
 SELECT * from khnei;
 SELECT * from jmfpy;
 SELECT * from mkyln;
-SELECT * from skmum;
+SELECT * from emdki;
+SELECT * from ybjxi;
