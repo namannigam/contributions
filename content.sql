@@ -4787,4 +4787,3 @@ SELECT * from avnpu;
 SELECT * from wkfdi;
 SELECT * from iofha;
 SELECT * from jxgkl;
-SELECT * from ksyah;
