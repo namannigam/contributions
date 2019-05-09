@@ -3012,4 +3012,3 @@ SELECT * from jmfpy;
 SELECT * from mkyln;
 SELECT * from emdki;
 SELECT * from ybjxi;
-SELECT * from wjonu;
