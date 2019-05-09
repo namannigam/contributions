@@ -1244,4 +1244,3 @@ SELECT * from ucbvx;
 SELECT * from sktjd;
 SELECT * from rpxxr;
 SELECT * from mnaxy;
-SELECT * from dklfq;
