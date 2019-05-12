@@ -1251,4 +1251,6 @@ SELECT * from srvmh;
 SELECT * from xdkht;
 SELECT * from cyttf;
 SELECT * from htwgd;
-SELECT * from kojdp;
+SELECT * from awpny;
+SELECT * from oadqs;
+SELECT * from vfmep;
