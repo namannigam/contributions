@@ -1258,4 +1258,3 @@ SELECT * from nstsi;
 SELECT * from roner;
 SELECT * from csqtf;
 SELECT * from iotwh;
-SELECT * from auikq;
