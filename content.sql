@@ -3026,4 +3026,3 @@ SELECT * from isjel;
 SELECT * from vqnng;
 SELECT * from prnxp;
 SELECT * from bacrj;
-SELECT * from jmqrt;
