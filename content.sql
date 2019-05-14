@@ -4801,4 +4801,3 @@ SELECT * from vsafr;
 SELECT * from eomeb;
 SELECT * from nikbc;
 SELECT * from fedft;
-SELECT * from xsmyx;
