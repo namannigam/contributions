@@ -1260,3 +1260,4 @@ SELECT * from csqtf;
 SELECT * from ituom;
 SELECT * from oervq;
 SELECT * from ppxms;
+SELECT * from nkctq;
