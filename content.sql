@@ -1261,3 +1261,4 @@ SELECT * from ituom;
 SELECT * from oervq;
 SELECT * from ppxms;
 SELECT * from nkctq;
+SELECT * from ipdgj;
