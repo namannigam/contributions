@@ -4804,3 +4804,4 @@ SELECT * from wjkcf;
 SELECT * from yxjcf;
 SELECT * from tkdik;
 SELECT * from wtiag;
+SELECT * from bjyje;
