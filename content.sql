@@ -4801,3 +4801,5 @@ SELECT * from vsafr;
 SELECT * from eomeb;
 SELECT * from nikbc;
 SELECT * from wjkcf;
+SELECT * from yxjcf;
+SELECT * from tkdik;
