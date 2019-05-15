@@ -3028,3 +3028,4 @@ SELECT * from prnxp;
 SELECT * from omeak;
 SELECT * from ghwyl;
 SELECT * from pspwe;
+SELECT * from krirs;
