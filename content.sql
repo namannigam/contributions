@@ -1263,3 +1263,4 @@ SELECT * from ppxms;
 SELECT * from nkctq;
 SELECT * from ipdgj;
 SELECT * from nsrry;
+SELECT * from jjtpj;
