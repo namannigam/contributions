@@ -4806,3 +4806,4 @@ SELECT * from tkdik;
 SELECT * from wtiag;
 SELECT * from bjyje;
 SELECT * from osewa;
+SELECT * from frfej;
