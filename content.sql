@@ -3032,3 +3032,4 @@ SELECT * from krirs;
 SELECT * from wfcfk;
 SELECT * from prtkc;
 SELECT * from fpffn;
+SELECT * from aaceq;
