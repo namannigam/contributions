@@ -3033,3 +3033,6 @@ SELECT * from wfcfk;
 SELECT * from prtkc;
 SELECT * from fpffn;
 SELECT * from idjjw;
+SELECT * from lsqng;
+SELECT * from rvbml;
+SELECT * from pnwli;
