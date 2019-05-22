@@ -1268,3 +1268,4 @@ SELECT * from oeqrc;
 SELECT * from qjccl;
 SELECT * from kkodk;
 SELECT * from snfqf;
+SELECT * from pplwb;
