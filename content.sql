@@ -1269,3 +1269,6 @@ SELECT * from qjccl;
 SELECT * from kkodk;
 SELECT * from snfqf;
 SELECT * from pplwb;
+SELECT * from bggli;
+SELECT * from wihlq;
+SELECT * from djyhj;
