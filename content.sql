@@ -1271,4 +1271,4 @@ SELECT * from snfqf;
 SELECT * from pplwb;
 SELECT * from bggli;
 SELECT * from wihlq;
-SELECT * from svkoj;
+SELECT * from rprte;
