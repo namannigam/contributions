@@ -4814,4 +4814,5 @@ SELECT * from susgo;
 SELECT * from wswgi;
 SELECT * from yytuv;
 SELECT * from mbnrl;
-SELECT * from kalvb;
+SELECT * from lynod;
+SELECT * from xiass;
