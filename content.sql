@@ -4815,4 +4815,4 @@ SELECT * from wswgi;
 SELECT * from yytuv;
 SELECT * from mbnrl;
 SELECT * from lynod;
-SELECT * from ljabn;
+SELECT * from telbv;
