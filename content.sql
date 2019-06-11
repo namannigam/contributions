@@ -4816,3 +4816,4 @@ SELECT * from yytuv;
 SELECT * from mbnrl;
 SELECT * from lynod;
 SELECT * from aiuhl;
+SELECT * from wptol;
