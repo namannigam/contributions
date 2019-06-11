@@ -1274,3 +1274,4 @@ SELECT * from wihlq;
 SELECT * from jrmob;
 SELECT * from exibp;
 SELECT * from vxbpr;
+SELECT * from qltik;
