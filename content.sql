@@ -1273,3 +1273,4 @@ SELECT * from bggli;
 SELECT * from wihlq;
 SELECT * from jrmob;
 SELECT * from exibp;
+SELECT * from vxbpr;
