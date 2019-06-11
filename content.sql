@@ -3042,3 +3042,4 @@ SELECT * from ggduf;
 SELECT * from grnfl;
 SELECT * from msqcs;
 SELECT * from tiged;
+SELECT * from kaupl;
