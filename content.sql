@@ -4818,3 +4818,6 @@ SELECT * from lynod;
 SELECT * from aiuhl;
 SELECT * from wptol;
 SELECT * from boegb;
+SELECT * from odksq;
+SELECT * from kvofg;
+SELECT * from txbmv;
