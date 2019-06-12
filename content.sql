@@ -1275,3 +1275,6 @@ SELECT * from jrmob;
 SELECT * from exibp;
 SELECT * from vxbpr;
 SELECT * from ncchp;
+SELECT * from upvfk;
+SELECT * from epkwt;
+SELECT * from dfjgy;
