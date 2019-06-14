@@ -3048,3 +3048,4 @@ SELECT * from ournr;
 SELECT * from wibnd;
 SELECT * from jobho;
 SELECT * from uoanq;
+SELECT * from jypca;
