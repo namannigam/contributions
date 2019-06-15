@@ -3049,3 +3049,5 @@ SELECT * from wibnd;
 SELECT * from jobho;
 SELECT * from uoanq;
 SELECT * from jypca;
+SELECT * from csvwv;
+SELECT * from qkgfe;
