@@ -4824,3 +4824,5 @@ SELECT * from txbmv;
 SELECT * from axjbw;
 SELECT * from ktbqp;
 SELECT * from nkfsa;
+SELECT * from pjmkl;
+SELECT * from cjqga;
