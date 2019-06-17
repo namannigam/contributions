@@ -3051,3 +3051,4 @@ SELECT * from uoanq;
 SELECT * from jypca;
 SELECT * from csvwv;
 SELECT * from utico;
+SELECT * from heemu;
