@@ -1283,3 +1283,4 @@ SELECT * from qhegd;
 SELECT * from iuwnl;
 SELECT * from oxyty;
 SELECT * from ecprg;
+SELECT * from yamrm;
