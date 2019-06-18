@@ -1286,4 +1286,4 @@ SELECT * from ecprg;
 SELECT * from yamrm;
 SELECT * from wtxdt;
 SELECT * from jedoc;
-SELECT * from ajwnm;
+SELECT * from pqocs;
