@@ -1292,3 +1292,8 @@ SELECT * from dpvhv;
 SELECT * from vfcpd;
 SELECT * from mnpwk;
 SELECT * from wiysj;
+SELECT * from fspty;
+SELECT * from ecpro;
+SELECT * from kfoya;
+SELECT * from pjdjc;
+SELECT * from lqsld;
