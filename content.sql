@@ -3066,3 +3066,4 @@ SELECT * from yghtv;
 SELECT * from glsvp;
 SELECT * from bhaom;
 SELECT * from pkmnh;
+SELECT * from vqbet;
