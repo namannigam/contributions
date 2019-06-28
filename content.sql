@@ -1297,3 +1297,4 @@ SELECT * from ecpro;
 SELECT * from kfoya;
 SELECT * from pjdjc;
 SELECT * from lqsld;
+SELECT * from ljhmu;
