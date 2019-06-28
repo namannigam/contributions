@@ -4835,3 +4835,8 @@ SELECT * from jiohd;
 SELECT * from emjlp;
 SELECT * from mujia;
 SELECT * from hidup;
+SELECT * from wqxli;
+SELECT * from fufuf;
+SELECT * from cleat;
+SELECT * from kxqyu;
+SELECT * from bjjqx;
