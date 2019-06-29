@@ -3068,4 +3068,4 @@ SELECT * from bhaom;
 SELECT * from pkmnh;
 SELECT * from vqbet;
 SELECT * from peyhj;
-SELECT * from pursu;
+SELECT * from tjpvs;
