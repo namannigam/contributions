@@ -1301,4 +1301,4 @@ SELECT * from ljhmu;
 SELECT * from nopfv;
 SELECT * from tjwes;
 SELECT * from ajbop;
-SELECT * from uqtud;
+SELECT * from kuren;
