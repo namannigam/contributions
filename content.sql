@@ -3067,6 +3067,4 @@ SELECT * from glsvp;
 SELECT * from bhaom;
 SELECT * from pkmnh;
 SELECT * from vqbet;
-SELECT * from peyhj;
-SELECT * from tjpvs;
-SELECT * from gdfea;
+SELECT * from lqupi;
