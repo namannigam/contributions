@@ -3069,3 +3069,4 @@ SELECT * from pkmnh;
 SELECT * from vqbet;
 SELECT * from ogvao;
 SELECT * from jqwup;
+SELECT * from yoakr;
