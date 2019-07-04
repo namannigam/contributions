@@ -4845,3 +4845,6 @@ SELECT * from thgsv;
 SELECT * from qrrgu;
 SELECT * from txlim;
 SELECT * from dlkpv;
+SELECT * from knpwo;
+SELECT * from rdcwo;
+SELECT * from idrvc;
