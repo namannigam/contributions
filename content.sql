@@ -3070,3 +3070,6 @@ SELECT * from vqbet;
 SELECT * from ogvao;
 SELECT * from jqwup;
 SELECT * from yoakr;
+SELECT * from sqqko;
+SELECT * from gtjph;
+SELECT * from bpkss;
