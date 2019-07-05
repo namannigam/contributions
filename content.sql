@@ -4847,4 +4847,5 @@ SELECT * from txlim;
 SELECT * from dlkpv;
 SELECT * from knpwo;
 SELECT * from rdcwo;
-SELECT * from uirgy;
+SELECT * from etvib;
+SELECT * from rimlw;
