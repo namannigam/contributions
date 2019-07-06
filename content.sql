@@ -1306,3 +1306,4 @@ SELECT * from geysi;
 SELECT * from dlktb;
 SELECT * from khpum;
 SELECT * from sayin;
+SELECT * from lunnw;
