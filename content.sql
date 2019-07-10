@@ -4849,4 +4849,4 @@ SELECT * from knpwo;
 SELECT * from rdcwo;
 SELECT * from etvib;
 SELECT * from ojimv;
-SELECT * from jwbbs;
+SELECT * from diebf;
