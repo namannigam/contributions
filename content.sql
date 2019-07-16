@@ -3079,3 +3079,4 @@ SELECT * from sliwc;
 SELECT * from atqhg;
 SELECT * from jkpuh;
 SELECT * from nshmw;
+SELECT * from rqssj;
