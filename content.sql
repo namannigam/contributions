@@ -1307,4 +1307,7 @@ SELECT * from dlktb;
 SELECT * from khpum;
 SELECT * from sayin;
 SELECT * from qmole;
-SELECT * from nmgpt;
+SELECT * from vxohw;
+SELECT * from kspgu;
+SELECT * from dkfdi;
+SELECT * from aneqx;
