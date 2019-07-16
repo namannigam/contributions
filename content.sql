@@ -3075,4 +3075,7 @@ SELECT * from gtjph;
 SELECT * from ubkqu;
 SELECT * from vpnfa;
 SELECT * from kqcfj;
-SELECT * from nerrk;
+SELECT * from sliwc;
+SELECT * from atqhg;
+SELECT * from jkpuh;
+SELECT * from nshmw;
