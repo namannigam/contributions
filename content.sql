@@ -1312,4 +1312,5 @@ SELECT * from kspgu;
 SELECT * from dkfdi;
 SELECT * from aneqx;
 SELECT * from cktfq;
-SELECT * from drcmv;
+SELECT * from mkeqw;
+SELECT * from ovfni;
