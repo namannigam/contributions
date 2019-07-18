@@ -1313,4 +1313,4 @@ SELECT * from dkfdi;
 SELECT * from aneqx;
 SELECT * from cktfq;
 SELECT * from mkeqw;
-SELECT * from wympy;
+SELECT * from hxhwk;
