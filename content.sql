@@ -3083,4 +3083,4 @@ SELECT * from rwswj;
 SELECT * from gpckv;
 SELECT * from fkrfg;
 SELECT * from pydri;
-SELECT * from taram;
+SELECT * from pmkel;
