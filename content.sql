@@ -3084,3 +3084,4 @@ SELECT * from gpckv;
 SELECT * from fkrfg;
 SELECT * from pydri;
 SELECT * from avkfl;
+SELECT * from thate;
