@@ -7230,6 +7230,5 @@ public class Clwyfd {
         System.out.println("tfdnh");
         System.out.println("vamnm");
         System.out.println("xnxlv");
-        System.out.println("kirbe");
     }
 }
