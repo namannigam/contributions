@@ -1316,4 +1316,5 @@ SELECT * from mkeqw;
 SELECT * from suayk;
 SELECT * from coiij;
 SELECT * from rwand;
-SELECT * from bmqje;
+SELECT * from fkxsm;
+SELECT * from idrqf;
