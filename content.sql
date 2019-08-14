@@ -3084,4 +3084,5 @@ SELECT * from gpckv;
 SELECT * from fkrfg;
 SELECT * from pydri;
 SELECT * from avkfl;
-SELECT * from weoii;
+SELECT * from hkncp;
+SELECT * from fabse;
