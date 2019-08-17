@@ -1318,3 +1318,4 @@ SELECT * from coiij;
 SELECT * from rwand;
 SELECT * from fkxsm;
 SELECT * from ufgrt;
+SELECT * from echmm;
