@@ -3086,3 +3086,4 @@ SELECT * from pydri;
 SELECT * from avkfl;
 SELECT * from hkncp;
 SELECT * from bxgsq;
+SELECT * from nsbaw;
