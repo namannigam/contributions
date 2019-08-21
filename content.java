@@ -12050,5 +12050,7 @@ public class Clwyfd {
         System.out.println("opevh");
         System.out.println("hdiwb");
         System.out.println("pkday");
+        System.out.println("livin");
+        System.out.println("liqwh");
     }
 }
