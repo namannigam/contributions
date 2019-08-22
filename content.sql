@@ -1319,4 +1319,5 @@ SELECT * from rwand;
 SELECT * from fkxsm;
 SELECT * from ufgrt;
 SELECT * from echmm;
-SELECT * from oaiwk;
+SELECT * from byfxq;
+SELECT * from vtade;
