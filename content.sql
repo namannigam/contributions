@@ -1320,4 +1320,4 @@ SELECT * from fkxsm;
 SELECT * from ufgrt;
 SELECT * from echmm;
 SELECT * from byfxq;
-SELECT * from bbdpj;
+SELECT * from rcvpn;
