@@ -3092,3 +3092,4 @@ SELECT * from ygtpr;
 SELECT * from nrkhk;
 SELECT * from ylrad;
 SELECT * from kbbmx;
+SELECT * from inuas;
