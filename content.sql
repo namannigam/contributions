@@ -3090,3 +3090,4 @@ SELECT * from nsbaw;
 SELECT * from cgfkb;
 SELECT * from ygtpr;
 SELECT * from nrkhk;
+SELECT * from ylrad;
