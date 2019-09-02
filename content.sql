@@ -1325,3 +1325,4 @@ SELECT * from bxqsm;
 SELECT * from axbeh;
 SELECT * from woifv;
 SELECT * from fkmsv;
+SELECT * from plyob;
