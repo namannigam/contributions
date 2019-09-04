@@ -3095,3 +3095,4 @@ SELECT * from kbbmx;
 SELECT * from inuas;
 SELECT * from gbddg;
 SELECT * from wnyev;
+SELECT * from vyatq;
