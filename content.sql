@@ -1327,3 +1327,4 @@ SELECT * from woifv;
 SELECT * from fkmsv;
 SELECT * from plyob;
 SELECT * from uvode;
+SELECT * from vnvoo;
