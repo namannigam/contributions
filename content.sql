@@ -4870,3 +4870,4 @@ SELECT * from ubnwk;
 SELECT * from otjis;
 SELECT * from yyeky;
 SELECT * from ptnaf;
+SELECT * from jfire;
