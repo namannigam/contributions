@@ -3096,3 +3096,6 @@ SELECT * from inuas;
 SELECT * from gbddg;
 SELECT * from wnyev;
 SELECT * from vyatq;
+SELECT * from xbsno;
+SELECT * from fjnab;
+SELECT * from uflrd;
