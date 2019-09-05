@@ -2529,8 +2529,6 @@ public class Clwyfd {
         System.out.println("uwdcp");
         System.out.println("yxubv");
         System.out.println("xpcwh");
-        System.out.println("tynah");
-        System.out.println("bmaqu");
-        System.out.println("husen");
+        System.out.println("neyou");
     }
 }

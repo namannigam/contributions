@@ -1328,3 +1328,6 @@ SELECT * from fkmsv;
 SELECT * from plyob;
 SELECT * from uvode;
 SELECT * from vnvoo;
+SELECT * from ogdcl;
+SELECT * from xngci;
+SELECT * from hdvai;
