@@ -4871,3 +4871,6 @@ SELECT * from otjis;
 SELECT * from yyeky;
 SELECT * from ptnaf;
 SELECT * from jfire;
+SELECT * from shyfc;
+SELECT * from fuwpj;
+SELECT * from kvibc;
