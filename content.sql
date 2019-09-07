@@ -1332,3 +1332,4 @@ SELECT * from ogdcl;
 SELECT * from xngci;
 SELECT * from hdvai;
 SELECT * from ljelp;
+SELECT * from aoioj;
