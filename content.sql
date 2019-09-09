@@ -1333,4 +1333,4 @@ SELECT * from xngci;
 SELECT * from hdvai;
 SELECT * from ljelp;
 SELECT * from aoioj;
-SELECT * from bngsq;
+SELECT * from gqxew;
