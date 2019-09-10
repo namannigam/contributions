@@ -3104,3 +3104,4 @@ SELECT * from erkls;
 SELECT * from rgrgg;
 SELECT * from pqojr;
 SELECT * from uwvoi;
+SELECT * from myckt;
