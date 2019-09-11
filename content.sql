@@ -3105,3 +3105,6 @@ SELECT * from rgrgg;
 SELECT * from pqojr;
 SELECT * from uwvoi;
 SELECT * from myckt;
+SELECT * from dvubi;
+SELECT * from alltr;
+SELECT * from ycqsb;
