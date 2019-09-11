@@ -1340,3 +1340,4 @@ SELECT * from qmqwt;
 SELECT * from issaj;
 SELECT * from pjnts;
 SELECT * from vtbpn;
+SELECT * from ebhjx;
