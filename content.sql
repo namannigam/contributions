@@ -4880,3 +4880,6 @@ SELECT * from behug;
 SELECT * from exvvp;
 SELECT * from pysla;
 SELECT * from mepph;
+SELECT * from cftfo;
+SELECT * from oxoae;
+SELECT * from iwkty;
