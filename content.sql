@@ -1343,3 +1343,4 @@ SELECT * from vtbpn;
 SELECT * from ebhjx;
 SELECT * from aqaal;
 SELECT * from mscmr;
+SELECT * from uahef;
