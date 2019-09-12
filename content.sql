@@ -3109,3 +3109,5 @@ SELECT * from dvubi;
 SELECT * from alltr;
 SELECT * from ycqsb;
 SELECT * from hiqak;
+SELECT * from kbknd;
+SELECT * from einnw;
