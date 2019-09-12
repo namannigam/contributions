@@ -1341,3 +1341,5 @@ SELECT * from issaj;
 SELECT * from pjnts;
 SELECT * from vtbpn;
 SELECT * from ebhjx;
+SELECT * from aqaal;
+SELECT * from mscmr;
