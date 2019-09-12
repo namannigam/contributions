@@ -1345,3 +1345,4 @@ SELECT * from aqaal;
 SELECT * from mscmr;
 SELECT * from uahef;
 SELECT * from uawch;
+SELECT * from eflgi;
