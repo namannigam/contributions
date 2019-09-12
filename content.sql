@@ -4888,3 +4888,4 @@ SELECT * from ipacr;
 SELECT * from vfhly;
 SELECT * from elbhe;
 SELECT * from fnehn;
+SELECT * from mdink;
