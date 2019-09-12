@@ -4884,3 +4884,5 @@ SELECT * from cftfo;
 SELECT * from oxoae;
 SELECT * from iwkty;
 SELECT * from tfuwf;
+SELECT * from ipacr;
+SELECT * from vfhly;
