@@ -3113,3 +3113,7 @@ SELECT * from kbknd;
 SELECT * from einnw;
 SELECT * from vvvqg;
 SELECT * from detes;
+SELECT * from jnmad;
+SELECT * from bbegp;
+SELECT * from ofclo;
+SELECT * from stpga;
