@@ -1348,4 +1348,4 @@ SELECT * from uawch;
 SELECT * from eflgi;
 SELECT * from raqbg;
 SELECT * from srifb;
-SELECT * from viyck;
+SELECT * from rthxt;
