@@ -1349,3 +1349,4 @@ SELECT * from eflgi;
 SELECT * from raqbg;
 SELECT * from srifb;
 SELECT * from myhbv;
+SELECT * from xmlyg;
