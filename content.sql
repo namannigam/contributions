@@ -4892,3 +4892,4 @@ SELECT * from mdink;
 SELECT * from qebfu;
 SELECT * from xiwnd;
 SELECT * from tonnc;
+SELECT * from dnlaq;
