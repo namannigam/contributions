@@ -4893,4 +4893,4 @@ SELECT * from qebfu;
 SELECT * from xiwnd;
 SELECT * from tonnc;
 SELECT * from dnlaq;
-SELECT * from nyoaw;
+SELECT * from kdote;
