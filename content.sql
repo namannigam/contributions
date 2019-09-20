@@ -1357,3 +1357,4 @@ SELECT * from xttsb;
 SELECT * from euqlt;
 SELECT * from feyst;
 SELECT * from bcntm;
+SELECT * from xyfxr;
