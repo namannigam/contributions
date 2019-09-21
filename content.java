@@ -2566,6 +2566,7 @@ public class Clwyfd {
         System.out.println("wwvrg");
         System.out.println("bucsr");
         System.out.println("ckcsm");
-        System.out.println("pwmhd");
+        System.out.println("lgxef");
+        System.out.println("twwtl");
     }
 }
