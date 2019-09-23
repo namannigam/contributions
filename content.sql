@@ -1358,3 +1358,4 @@ SELECT * from euqlt;
 SELECT * from feyst;
 SELECT * from bcntm;
 SELECT * from xpspm;
+SELECT * from aufro;
