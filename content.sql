@@ -3126,3 +3126,4 @@ SELECT * from wrcbn;
 SELECT * from bwyqd;
 SELECT * from pmcwq;
 SELECT * from iaqms;
+SELECT * from djaxo;
