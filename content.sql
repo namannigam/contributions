@@ -1361,3 +1361,4 @@ SELECT * from xpspm;
 SELECT * from aufro;
 SELECT * from lijle;
 SELECT * from diniy;
+SELECT * from didhp;
