@@ -1359,4 +1359,4 @@ SELECT * from feyst;
 SELECT * from bcntm;
 SELECT * from xpspm;
 SELECT * from aufro;
-SELECT * from inmji;
+SELECT * from lijle;
