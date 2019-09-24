@@ -4904,3 +4904,4 @@ SELECT * from chuaw;
 SELECT * from wpssp;
 SELECT * from lexhq;
 SELECT * from kijer;
+SELECT * from psqdq;
