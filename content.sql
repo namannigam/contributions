@@ -1360,3 +1360,4 @@ SELECT * from bcntm;
 SELECT * from xpspm;
 SELECT * from aufro;
 SELECT * from lijle;
+SELECT * from diniy;
