@@ -1362,3 +1362,6 @@ SELECT * from aufro;
 SELECT * from lijle;
 SELECT * from diniy;
 SELECT * from didhp;
+SELECT * from oexmn;
+SELECT * from yxcqs;
+SELECT * from xhlds;
