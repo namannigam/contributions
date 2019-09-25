@@ -4905,3 +4905,6 @@ SELECT * from wpssp;
 SELECT * from lexhq;
 SELECT * from kijer;
 SELECT * from psqdq;
+SELECT * from ugyyt;
+SELECT * from kcjtg;
+SELECT * from qxvpg;
