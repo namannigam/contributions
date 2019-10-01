@@ -1364,4 +1364,5 @@ SELECT * from diniy;
 SELECT * from didhp;
 SELECT * from oexmn;
 SELECT * from yxcqs;
-SELECT * from ifhyp;
+SELECT * from ghrow;
+SELECT * from amsgw;
