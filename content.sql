@@ -4907,4 +4907,5 @@ SELECT * from kijer;
 SELECT * from psqdq;
 SELECT * from ugyyt;
 SELECT * from kcjtg;
-SELECT * from gsbvd;
+SELECT * from jpoyh;
+SELECT * from pwqta;
