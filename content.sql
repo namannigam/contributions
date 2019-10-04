@@ -1367,4 +1367,4 @@ SELECT * from yxcqs;
 SELECT * from ghrow;
 SELECT * from amsgw;
 SELECT * from psgcq;
-SELECT * from xghqr;
+SELECT * from mdijp;
