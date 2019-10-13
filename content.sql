@@ -1366,4 +1366,4 @@ SELECT * from oexmn;
 SELECT * from yxcqs;
 SELECT * from ghrow;
 SELECT * from amsgw;
-SELECT * from psgcq;
+SELECT * from tabwl;
