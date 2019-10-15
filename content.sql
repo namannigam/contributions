@@ -1369,4 +1369,4 @@ SELECT * from amsgw;
 SELECT * from kpfiq;
 SELECT * from clfqm;
 SELECT * from ngkvg;
-SELECT * from bhuvr;
+SELECT * from licwa;
