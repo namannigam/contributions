@@ -3138,3 +3138,4 @@ SELECT * from wywic;
 SELECT * from gjqra;
 SELECT * from tvudq;
 SELECT * from gaweq;
+SELECT * from splej;
