@@ -1371,3 +1371,4 @@ SELECT * from clfqm;
 SELECT * from ngkvg;
 SELECT * from licwa;
 SELECT * from bunit;
+SELECT * from hrgsx;
