@@ -1367,3 +1367,6 @@ SELECT * from yxcqs;
 SELECT * from ghrow;
 SELECT * from amsgw;
 SELECT * from kpfiq;
+SELECT * from clfqm;
+SELECT * from ngkvg;
+SELECT * from cpgaj;
