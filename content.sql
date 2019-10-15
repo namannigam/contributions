@@ -4915,3 +4915,4 @@ SELECT * from agobs;
 SELECT * from yqofs;
 SELECT * from gkjix;
 SELECT * from dtmsv;
+SELECT * from xfwte;
