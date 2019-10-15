@@ -4910,3 +4910,6 @@ SELECT * from kcjtg;
 SELECT * from jpoyh;
 SELECT * from pwqta;
 SELECT * from gdlww;
+SELECT * from tjghs;
+SELECT * from agobs;
+SELECT * from jctob;
