@@ -1373,3 +1373,4 @@ SELECT * from licwa;
 SELECT * from bunit;
 SELECT * from hrgsx;
 SELECT * from htqul;
+SELECT * from cxtyc;
