@@ -1374,3 +1374,4 @@ SELECT * from bunit;
 SELECT * from hrgsx;
 SELECT * from htqul;
 SELECT * from cxtyc;
+SELECT * from rxsjt;
