@@ -2612,6 +2612,5 @@ public class Clwyfd {
         System.out.println("fksus");
         System.out.println("lrnfi");
         System.out.println("cgmns");
-        System.out.println("tanca");
     }
 }
