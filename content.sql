@@ -3147,4 +3147,4 @@ SELECT * from mwpdh;
 SELECT * from ubgwm;
 SELECT * from hgtmw;
 SELECT * from byckm;
-SELECT * from kivun;
+SELECT * from ibaja;
