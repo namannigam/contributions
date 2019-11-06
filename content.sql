@@ -1380,3 +1380,4 @@ SELECT * from hkbfl;
 SELECT * from bychs;
 SELECT * from coosj;
 SELECT * from rbxup;
+SELECT * from kqbii;
