@@ -4923,3 +4923,4 @@ SELECT * from clidq;
 SELECT * from rpshr;
 SELECT * from iprkc;
 SELECT * from bjvwi;
+SELECT * from rmwnh;
