@@ -3148,3 +3148,4 @@ SELECT * from ubgwm;
 SELECT * from hgtmw;
 SELECT * from byckm;
 SELECT * from ibaja;
+SELECT * from wwneu;
