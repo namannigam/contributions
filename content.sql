@@ -3149,3 +3149,7 @@ SELECT * from hgtmw;
 SELECT * from byckm;
 SELECT * from ibaja;
 SELECT * from wwneu;
+SELECT * from xeksi;
+SELECT * from sibpt;
+SELECT * from eoxhb;
+SELECT * from qjegu;
