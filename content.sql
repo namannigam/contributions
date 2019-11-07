@@ -1384,4 +1384,5 @@ SELECT * from kqbii;
 SELECT * from bwmwc;
 SELECT * from xflbq;
 SELECT * from byuvp;
-SELECT * from lbuyk;
+SELECT * from isiuh;
+SELECT * from ljvof;
