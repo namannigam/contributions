@@ -3152,4 +3152,5 @@ SELECT * from wwneu;
 SELECT * from xeksi;
 SELECT * from sibpt;
 SELECT * from eoxhb;
-SELECT * from qjegu;
+SELECT * from xgumy;
+SELECT * from tovgn;

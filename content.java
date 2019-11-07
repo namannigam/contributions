@@ -7363,7 +7363,6 @@ public class Clwyfd {
         System.out.println("hwafq");
         System.out.println("gadni");
         System.out.println("skmrv");
-        System.out.println("aisvp");
-        System.out.println("vethr");
+        System.out.println("oqtgt");
     }
 }
