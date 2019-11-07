@@ -1381,3 +1381,7 @@ SELECT * from bychs;
 SELECT * from coosj;
 SELECT * from rbxup;
 SELECT * from kqbii;
+SELECT * from bwmwc;
+SELECT * from xflbq;
+SELECT * from byuvp;
+SELECT * from lbuyk;
