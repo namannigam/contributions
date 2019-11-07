@@ -4924,3 +4924,7 @@ SELECT * from rpshr;
 SELECT * from iprkc;
 SELECT * from bjvwi;
 SELECT * from rmwnh;
+SELECT * from slmoi;
+SELECT * from molml;
+SELECT * from ynpwm;
+SELECT * from qnqpc;
