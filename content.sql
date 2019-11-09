@@ -1386,4 +1386,5 @@ SELECT * from xflbq;
 SELECT * from byuvp;
 SELECT * from isiuh;
 SELECT * from ljvof;
-SELECT * from maabv;
+SELECT * from tytmy;
+SELECT * from gerti;
