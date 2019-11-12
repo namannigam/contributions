@@ -4930,3 +4930,4 @@ SELECT * from ynpwm;
 SELECT * from fdtsk;
 SELECT * from iddcn;
 SELECT * from rqghy;
+SELECT * from iknas;
