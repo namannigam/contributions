@@ -3156,3 +3156,5 @@ SELECT * from xgumy;
 SELECT * from tovgn;
 SELECT * from gisss;
 SELECT * from wgdas;
+SELECT * from khyhu;
+SELECT * from batvo;
