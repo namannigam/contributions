@@ -1388,3 +1388,5 @@ SELECT * from isiuh;
 SELECT * from ljvof;
 SELECT * from tytmy;
 SELECT * from eatrd;
+SELECT * from qpwyp;
+SELECT * from dvicq;
