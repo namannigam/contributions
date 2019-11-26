@@ -3161,3 +3161,4 @@ SELECT * from batvo;
 SELECT * from dljbl;
 SELECT * from evmnd;
 SELECT * from mskbi;
+SELECT * from uxuxm;
