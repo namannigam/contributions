@@ -3158,4 +3158,5 @@ SELECT * from gisss;
 SELECT * from wgdas;
 SELECT * from khyhu;
 SELECT * from batvo;
-SELECT * from wpgtv;
+SELECT * from dljbl;
+SELECT * from evmnd;
