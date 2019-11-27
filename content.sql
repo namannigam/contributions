@@ -1394,3 +1394,6 @@ SELECT * from snxic;
 SELECT * from qflvr;
 SELECT * from ourgf;
 SELECT * from fgpoq;
+SELECT * from idpqk;
+SELECT * from usgcc;
+SELECT * from dxymi;
