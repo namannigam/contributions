@@ -3162,3 +3162,6 @@ SELECT * from dljbl;
 SELECT * from evmnd;
 SELECT * from mskbi;
 SELECT * from uxuxm;
+SELECT * from dqvii;
+SELECT * from hkuhk;
+SELECT * from pyjky;
