@@ -3165,4 +3165,4 @@ SELECT * from uxuxm;
 SELECT * from dqvii;
 SELECT * from hkuhk;
 SELECT * from pyjky;
-SELECT * from bmqjr;
+SELECT * from choxr;
