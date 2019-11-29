@@ -1398,3 +1398,4 @@ SELECT * from idpqk;
 SELECT * from usgcc;
 SELECT * from dxymi;
 SELECT * from wdepo;
+SELECT * from oiedh;
