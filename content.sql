@@ -1399,3 +1399,4 @@ SELECT * from usgcc;
 SELECT * from dxymi;
 SELECT * from wdepo;
 SELECT * from oiedh;
+SELECT * from lrtnc;
