@@ -1400,3 +1400,4 @@ SELECT * from dxymi;
 SELECT * from wdepo;
 SELECT * from oiedh;
 SELECT * from lrtnc;
+SELECT * from fnvkx;
