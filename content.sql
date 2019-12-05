@@ -1401,4 +1401,4 @@ SELECT * from wdepo;
 SELECT * from oiedh;
 SELECT * from lrtnc;
 SELECT * from snitp;
-SELECT * from nikal;
+SELECT * from bktye;
