@@ -1402,3 +1402,4 @@ SELECT * from oiedh;
 SELECT * from lrtnc;
 SELECT * from snitp;
 SELECT * from bktye;
+SELECT * from egemv;
