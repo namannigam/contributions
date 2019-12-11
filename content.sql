@@ -1404,3 +1404,4 @@ SELECT * from snitp;
 SELECT * from bktye;
 SELECT * from egemv;
 SELECT * from pibqy;
+SELECT * from fdrjw;
