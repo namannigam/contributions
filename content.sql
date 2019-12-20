@@ -3173,4 +3173,4 @@ SELECT * from ikeqc;
 SELECT * from ccamb;
 SELECT * from ptfle;
 SELECT * from sdrqo;
-SELECT * from fukow;
+SELECT * from magyj;
