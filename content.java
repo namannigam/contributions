@@ -2704,7 +2704,5 @@ public class Clwyfd {
         System.out.println("iddth");
         System.out.println("ajeqc");
         System.out.println("ecvee");
-        System.out.println("oioyn");
-        System.out.println("wjttf");
     }
 }
