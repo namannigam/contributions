@@ -1405,4 +1405,5 @@ SELECT * from bktye;
 SELECT * from egemv;
 SELECT * from pibqy;
 SELECT * from fdrjw;
-SELECT * from ljkmn;
+SELECT * from givcv;
+SELECT * from hruma;
