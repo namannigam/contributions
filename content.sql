@@ -4949,4 +4949,6 @@ SELECT * from xyvni;
 SELECT * from vkgsv;
 SELECT * from yyaoo;
 SELECT * from ndasr;
-SELECT * from hkafc;
+SELECT * from mvgft;
+SELECT * from fnwfd;
+SELECT * from cvpxn;
