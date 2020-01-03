@@ -3174,4 +3174,6 @@ SELECT * from ccamb;
 SELECT * from ptfle;
 SELECT * from sdrqo;
 SELECT * from inpmy;
-SELECT * from jyfgl;
+SELECT * from qrank;
+SELECT * from bnsdr;
+SELECT * from ionkw;
