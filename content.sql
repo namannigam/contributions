@@ -4952,3 +4952,4 @@ SELECT * from ndasr;
 SELECT * from mvgft;
 SELECT * from fnwfd;
 SELECT * from vgitl;
+SELECT * from eectj;
