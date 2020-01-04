@@ -3177,4 +3177,4 @@ SELECT * from inpmy;
 SELECT * from qrank;
 SELECT * from bnsdr;
 SELECT * from ampcp;
-SELECT * from uoxgw;
+SELECT * from fyfpe;
