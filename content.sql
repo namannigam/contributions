@@ -1409,3 +1409,4 @@ SELECT * from givcv;
 SELECT * from whldx;
 SELECT * from mnrgh;
 SELECT * from rgpmy;
+SELECT * from qdqgm;
