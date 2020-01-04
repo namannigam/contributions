@@ -3176,4 +3176,4 @@ SELECT * from sdrqo;
 SELECT * from inpmy;
 SELECT * from qrank;
 SELECT * from bnsdr;
-SELECT * from ionkw;
+SELECT * from ampcp;
