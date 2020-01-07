@@ -3180,4 +3180,6 @@ SELECT * from ampcp;
 SELECT * from fyfpe;
 SELECT * from dcpei;
 SELECT * from whwqy;
-SELECT * from onmwt;
+SELECT * from spicr;
+SELECT * from bmbxe;
+SELECT * from hmues;
