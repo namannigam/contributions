@@ -3179,3 +3179,5 @@ SELECT * from bnsdr;
 SELECT * from ampcp;
 SELECT * from fyfpe;
 SELECT * from dcpei;
+SELECT * from whwqy;
+SELECT * from rovmp;
