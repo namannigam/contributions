@@ -1411,3 +1411,5 @@ SELECT * from mnrgh;
 SELECT * from rgpmy;
 SELECT * from ntdnw;
 SELECT * from qadhb;
+SELECT * from wasqt;
+SELECT * from ihmti;
