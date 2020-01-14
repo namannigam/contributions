@@ -3182,4 +3182,4 @@ SELECT * from dcpei;
 SELECT * from whwqy;
 SELECT * from spicr;
 SELECT * from bmbxe;
-SELECT * from igdup;
+SELECT * from afpui;
