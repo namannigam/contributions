@@ -1415,3 +1415,4 @@ SELECT * from wasqt;
 SELECT * from bpsfo;
 SELECT * from odgah;
 SELECT * from jgllc;
+SELECT * from osdjw;
