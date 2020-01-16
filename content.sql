@@ -3184,3 +3184,4 @@ SELECT * from spicr;
 SELECT * from bmbxe;
 SELECT * from afpui;
 SELECT * from tklvk;
+SELECT * from hhrti;
