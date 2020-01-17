@@ -4961,3 +4961,6 @@ SELECT * from vqmqf;
 SELECT * from eumfy;
 SELECT * from endxp;
 SELECT * from xbrvi;
+SELECT * from ktgqc;
+SELECT * from ytajy;
+SELECT * from bqljb;
