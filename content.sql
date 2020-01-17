@@ -3190,3 +3190,4 @@ SELECT * from bjbjo;
 SELECT * from wiril;
 SELECT * from miixx;
 SELECT * from atrwk;
+SELECT * from gewld;
