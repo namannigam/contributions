@@ -3186,3 +3186,6 @@ SELECT * from afpui;
 SELECT * from tklvk;
 SELECT * from hhrti;
 SELECT * from mtxbm;
+SELECT * from bjbjo;
+SELECT * from wiril;
+SELECT * from miixx;
