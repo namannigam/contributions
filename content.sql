@@ -1422,3 +1422,5 @@ SELECT * from rithd;
 SELECT * from jqbxa;
 SELECT * from rxjpp;
 SELECT * from rakwj;
+SELECT * from iniui;
+SELECT * from bedbo;
