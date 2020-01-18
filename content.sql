@@ -4965,3 +4965,5 @@ SELECT * from ktgqc;
 SELECT * from ytajy;
 SELECT * from bqljb;
 SELECT * from qcyes;
+SELECT * from rmdbg;
+SELECT * from cnkya;
