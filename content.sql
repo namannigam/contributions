@@ -1428,3 +1428,4 @@ SELECT * from dhuix;
 SELECT * from hpuit;
 SELECT * from lwuyr;
 SELECT * from xgxfq;
+SELECT * from hcvtc;
