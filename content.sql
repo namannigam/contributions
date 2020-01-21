@@ -3196,3 +3196,4 @@ SELECT * from vfdis;
 SELECT * from fajob;
 SELECT * from ifamt;
 SELECT * from mapqp;
+SELECT * from mglmh;
