@@ -3206,3 +3206,4 @@ SELECT * from knxtl;
 SELECT * from wslog;
 SELECT * from xonpf;
 SELECT * from iqkya;
+SELECT * from vmcmf;
