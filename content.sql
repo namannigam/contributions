@@ -4980,4 +4980,4 @@ SELECT * from gpuqw;
 SELECT * from ikaaa;
 SELECT * from hpkxt;
 SELECT * from ugfds;
-SELECT * from deoql;
+SELECT * from carti;
