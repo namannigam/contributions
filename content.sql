@@ -3206,4 +3206,4 @@ SELECT * from knxtl;
 SELECT * from wslog;
 SELECT * from xonpf;
 SELECT * from iqkya;
-SELECT * from svwna;
+SELECT * from cwnrf;
