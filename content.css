@@ -1450,5 +1450,11 @@
   font-size: 32px;
   margin-left: 53px;
   margin-right: 22px;
-  padding-right: 43px;
+  padding-top: 2px;
+  font-size: 10px;
+  line-height: 92px;
+  border-bottom-width: 15px;
+  padding-bottom: 59px;
+  padding-left: 22px;
+  margin-left: 69px;
 }
