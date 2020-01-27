@@ -7512,6 +7512,7 @@ public class Clwyfd {
         System.out.println("cnqkr");
         System.out.println("utvjm");
         System.out.println("tuiju");
-        System.out.println("aeioi");
+        System.out.println("amrpg");
+        System.out.println("ldgyw");
     }
 }
