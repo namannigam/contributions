@@ -4987,3 +4987,4 @@ SELECT * from urlko;
 SELECT * from gdtxd;
 SELECT * from ccidt;
 SELECT * from kubtu;
+SELECT * from qtyhe;
