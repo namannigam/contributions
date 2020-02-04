@@ -1444,3 +1444,4 @@ SELECT * from rrwuy;
 SELECT * from huvvt;
 SELECT * from ilipo;
 SELECT * from mbqco;
+SELECT * from jtjua;
