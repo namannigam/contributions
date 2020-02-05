@@ -4988,3 +4988,7 @@ SELECT * from gdtxd;
 SELECT * from ccidt;
 SELECT * from kubtu;
 SELECT * from qtyhe;
+SELECT * from bdelf;
+SELECT * from bspxq;
+SELECT * from owspq;
+SELECT * from epvqe;
