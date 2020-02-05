@@ -1445,3 +1445,7 @@ SELECT * from huvvt;
 SELECT * from ilipo;
 SELECT * from mbqco;
 SELECT * from jtjua;
+SELECT * from nbsdr;
+SELECT * from dcvfl;
+SELECT * from ghker;
+SELECT * from dukrp;
