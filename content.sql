@@ -4993,4 +4993,4 @@ SELECT * from bspxq;
 SELECT * from owspq;
 SELECT * from epvqe;
 SELECT * from ranan;
-SELECT * from gtmgq;
+SELECT * from ppale;
