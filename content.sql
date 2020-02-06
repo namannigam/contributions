@@ -3217,3 +3217,5 @@ SELECT * from poojd;
 SELECT * from jbrmg;
 SELECT * from lukes;
 SELECT * from pntju;
+SELECT * from dmths;
+SELECT * from hhwib;
