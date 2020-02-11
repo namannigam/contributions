@@ -1467,5 +1467,8 @@
   margin-bottom: 37px;
   margin-top: 24px;
   border-top-width: 32px;
-  border-left-width: 42px;
+  margin-right: 4px;
+  padding-top: 42px;
+  border-bottom-width: 22px;
+  line-height: 78px;
 }
