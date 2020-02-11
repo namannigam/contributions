@@ -4996,3 +4996,4 @@ SELECT * from ranan;
 SELECT * from tmlyg;
 SELECT * from tkwua;
 SELECT * from jgwbl;
+SELECT * from udbkk;
