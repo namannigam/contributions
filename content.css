@@ -4639,5 +4639,6 @@
   padding-left: 56px;
   border-left-width: 66px;
   font-size: 76px;
-  margin-bottom: 31px;
+  font-size: 0px;
+  border-top-width: 41px;
 }
