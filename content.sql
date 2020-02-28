@@ -1455,3 +1455,4 @@ SELECT * from fxubd;
 SELECT * from nmgeq;
 SELECT * from rbcmn;
 SELECT * from ovaxf;
+SELECT * from yjbcp;
