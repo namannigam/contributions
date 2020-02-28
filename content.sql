@@ -3223,3 +3223,4 @@ SELECT * from olpvg;
 SELECT * from hbadh;
 SELECT * from hxrpf;
 SELECT * from vgnct;
+SELECT * from mwvvw;
