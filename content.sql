@@ -1456,3 +1456,4 @@ SELECT * from nmgeq;
 SELECT * from rbcmn;
 SELECT * from ovaxf;
 SELECT * from yjbcp;
+SELECT * from djian;
