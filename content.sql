@@ -1457,3 +1457,5 @@ SELECT * from rbcmn;
 SELECT * from ovaxf;
 SELECT * from yjbcp;
 SELECT * from gduwp;
+SELECT * from xgngl;
+SELECT * from dmiip;

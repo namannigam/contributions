@@ -1506,7 +1506,7 @@
   margin-bottom: 2px;
   padding-bottom: 2px;
   line-height: 48px;
-  margin-top: 45px;
-  margin-bottom: 82px;
-  border-left-width: 57px;
+  padding-bottom: 96px;
+  margin-top: 42px;
+  line-height: 96px;
 }
