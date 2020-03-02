@@ -5000,3 +5000,5 @@ SELECT * from fkmpx;
 SELECT * from sgigs;
 SELECT * from llntx;
 SELECT * from cjkss;
+SELECT * from rrvxj;
+SELECT * from svrpa;
