@@ -3228,3 +3228,4 @@ SELECT * from gtmst;
 SELECT * from pljhs;
 SELECT * from yyuba;
 SELECT * from mhrjk;
+SELECT * from gpcms;
