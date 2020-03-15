@@ -1460,3 +1460,4 @@ SELECT * from gduwp;
 SELECT * from xgngl;
 SELECT * from rsvyd;
 SELECT * from hfrew;
+SELECT * from dqeds;
