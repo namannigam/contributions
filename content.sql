@@ -3227,3 +3227,4 @@ SELECT * from mwvvw;
 SELECT * from gtmst;
 SELECT * from pljhs;
 SELECT * from yyuba;
+SELECT * from mhrjk;
