@@ -3230,4 +3230,4 @@ SELECT * from yyuba;
 SELECT * from mhrjk;
 SELECT * from gpcms;
 SELECT * from vjrcb;
-SELECT * from lwjcx;
+SELECT * from sfxmo;
