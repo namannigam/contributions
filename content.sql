@@ -5009,4 +5009,6 @@ SELECT * from acplo;
 SELECT * from xmwgu;
 SELECT * from udlln;
 SELECT * from daajo;
-SELECT * from wfexd;
+SELECT * from pcavt;
+SELECT * from thwyb;
+SELECT * from lglog;
