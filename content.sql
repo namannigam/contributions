@@ -3232,4 +3232,6 @@ SELECT * from gpcms;
 SELECT * from vjrcb;
 SELECT * from jbatw;
 SELECT * from judxe;
-SELECT * from bsdrh;
+SELECT * from twwea;
+SELECT * from exlab;
+SELECT * from xxhtj;

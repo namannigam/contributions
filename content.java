@@ -7640,8 +7640,12 @@ public class Clwyfd {
         System.out.println("skacy");
         System.out.println("hssen");
         System.out.println("jopsp");
-        System.out.println("beqwd");
-        System.out.println("ikpdr");
-        System.out.println("wdjev");
+        System.out.println("smakb");
+        System.out.println("tjoul");
+        System.out.println("sqldw");
+        System.out.println("jskij");
+        System.out.println("brpfq");
+        System.out.println("vldwq");
+        System.out.println("auriq");
     }
 }
