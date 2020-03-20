@@ -3236,4 +3236,4 @@ SELECT * from twwea;
 SELECT * from exlab;
 SELECT * from fhehv;
 SELECT * from rdbxt;
-SELECT * from snemi;
+SELECT * from ewmcc;
