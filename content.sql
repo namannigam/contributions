@@ -3237,3 +3237,4 @@ SELECT * from exlab;
 SELECT * from fhehv;
 SELECT * from rdbxt;
 SELECT * from ewmcc;
+SELECT * from mgbmc;
