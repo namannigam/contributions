@@ -1499,3 +1499,5 @@ SELECT * from vpqet;
 SELECT * from wxlcy;
 SELECT * from vdjbb;
 SELECT * from dvdgp;
+SELECT * from wauev;
+SELECT * from jbemo;
