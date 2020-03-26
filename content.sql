@@ -5040,3 +5040,4 @@ SELECT * from mivrr;
 SELECT * from debhd;
 SELECT * from sbsdc;
 SELECT * from youmq;
+SELECT * from ctvgc;
