@@ -1498,3 +1498,4 @@ SELECT * from nugfr;
 SELECT * from vpqet;
 SELECT * from wxlcy;
 SELECT * from vdjbb;
+SELECT * from dvdgp;
