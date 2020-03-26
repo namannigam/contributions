@@ -3266,3 +3266,4 @@ SELECT * from usrio;
 SELECT * from tlard;
 SELECT * from adsks;
 SELECT * from welgy;
+SELECT * from xyqgs;
