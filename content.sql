@@ -5042,3 +5042,5 @@ SELECT * from sbsdc;
 SELECT * from youmq;
 SELECT * from ctvgc;
 SELECT * from nwdym;
+SELECT * from aygqv;
+SELECT * from ohbdb;
