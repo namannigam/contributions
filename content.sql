@@ -3265,3 +3265,4 @@ SELECT * from bcrbg;
 SELECT * from usrio;
 SELECT * from tlard;
 SELECT * from adsks;
+SELECT * from welgy;
