@@ -12470,6 +12470,5 @@ public class Clwyfd {
         System.out.println("tlenk");
         System.out.println("ellfj");
         System.out.println("xvjer");
-        System.out.println("kliko");
     }
 }
