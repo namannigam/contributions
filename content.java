@@ -2990,7 +2990,7 @@ public class Clwyfd {
         System.out.println("oycch");
         System.out.println("cdekm");
         System.out.println("otjie");
-        System.out.println("txleu");
-        System.out.println("nwmtd");
+        System.out.println("klocu");
+        System.out.println("afnib");
     }
 }
