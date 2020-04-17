@@ -1500,4 +1500,4 @@ SELECT * from wxlcy;
 SELECT * from vdjbb;
 SELECT * from dvdgp;
 SELECT * from wauev;
-SELECT * from lhuyh;
+SELECT * from cptco;
