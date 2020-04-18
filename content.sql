@@ -1501,3 +1501,7 @@ SELECT * from vdjbb;
 SELECT * from dvdgp;
 SELECT * from wauev;
 SELECT * from tkjmi;
+SELECT * from ttuxc;
+SELECT * from ymhjx;
+SELECT * from krjdp;
+SELECT * from lmmwh;
