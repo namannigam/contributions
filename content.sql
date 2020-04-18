@@ -5044,3 +5044,7 @@ SELECT * from ctvgc;
 SELECT * from nwdym;
 SELECT * from aygqv;
 SELECT * from urwqg;
+SELECT * from mupcj;
+SELECT * from gkthk;
+SELECT * from uxbrk;
+SELECT * from pmdjy;
