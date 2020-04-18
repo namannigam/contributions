@@ -3269,3 +3269,7 @@ SELECT * from welgy;
 SELECT * from xyqgs;
 SELECT * from obevc;
 SELECT * from xvewk;
+SELECT * from drmmt;
+SELECT * from deomx;
+SELECT * from fikpf;
+SELECT * from daaeh;
