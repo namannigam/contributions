@@ -3274,3 +3274,4 @@ SELECT * from deomx;
 SELECT * from fikpf;
 SELECT * from rjtjl;
 SELECT * from cbakj;
+SELECT * from sjplc;
