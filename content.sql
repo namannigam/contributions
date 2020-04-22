@@ -1508,3 +1508,8 @@ SELECT * from mhhew;
 SELECT * from qrbqk;
 SELECT * from nupkm;
 SELECT * from aeptn;
+SELECT * from vbtpy;
+SELECT * from gcity;
+SELECT * from pknqf;
+SELECT * from bvtdv;
+SELECT * from yafbp;
