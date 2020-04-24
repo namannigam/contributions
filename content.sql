@@ -3284,4 +3284,4 @@ SELECT * from jogaf;
 SELECT * from waann;
 SELECT * from dmkpl;
 SELECT * from oaxhm;
-SELECT * from enloa;
+SELECT * from adtyc;
