@@ -5060,3 +5060,4 @@ SELECT * from kiics;
 SELECT * from vkyff;
 SELECT * from wryck;
 SELECT * from mxisd;
+SELECT * from mncwy;
