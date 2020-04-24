@@ -1513,3 +1513,7 @@ SELECT * from gcity;
 SELECT * from pknqf;
 SELECT * from bvtdv;
 SELECT * from lgfiq;
+SELECT * from twdwx;
+SELECT * from mkykd;
+SELECT * from cxxfw;
+SELECT * from jbhrx;
