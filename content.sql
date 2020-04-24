@@ -5061,3 +5061,4 @@ SELECT * from vkyff;
 SELECT * from wryck;
 SELECT * from mxisd;
 SELECT * from mncwy;
+SELECT * from jufog;
