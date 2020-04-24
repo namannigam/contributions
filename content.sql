@@ -1518,3 +1518,4 @@ SELECT * from mkykd;
 SELECT * from cxxfw;
 SELECT * from yeeji;
 SELECT * from ugfio;
+SELECT * from vumkf;
