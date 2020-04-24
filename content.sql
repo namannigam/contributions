@@ -5056,3 +5056,7 @@ SELECT * from hfvyc;
 SELECT * from abkmf;
 SELECT * from esjcg;
 SELECT * from psxsp;
+SELECT * from kiics;
+SELECT * from vkyff;
+SELECT * from wryck;
+SELECT * from pfkbq;
