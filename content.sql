@@ -5066,3 +5066,4 @@ SELECT * from pcexl;
 SELECT * from vfthv;
 SELECT * from usltr;
 SELECT * from htken;
+SELECT * from iwsic;
