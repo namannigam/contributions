@@ -1523,3 +1523,4 @@ SELECT * from wbyht;
 SELECT * from vnrjk;
 SELECT * from hnthy;
 SELECT * from pmdvk;
+SELECT * from qfrwc;
