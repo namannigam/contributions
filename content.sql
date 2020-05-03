@@ -5068,3 +5068,4 @@ SELECT * from usltr;
 SELECT * from htken;
 SELECT * from iwsic;
 SELECT * from xwxoy;
+SELECT * from xfqit;
