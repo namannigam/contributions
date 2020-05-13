@@ -3294,4 +3294,4 @@ SELECT * from msdsk;
 SELECT * from rfpbs;
 SELECT * from cblnx;
 SELECT * from cgmkm;
-SELECT * from lwnep;
+SELECT * from xwvsv;
