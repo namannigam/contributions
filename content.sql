@@ -5074,3 +5074,4 @@ SELECT * from txvmq;
 SELECT * from tsglg;
 SELECT * from lcxfc;
 SELECT * from lmdvg;
+SELECT * from nbcbk;
