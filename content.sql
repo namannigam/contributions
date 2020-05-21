@@ -1526,4 +1526,7 @@ SELECT * from pmdvk;
 SELECT * from qfrwc;
 SELECT * from ditgw;
 SELECT * from ovtey;
-SELECT * from goiwd;
+SELECT * from pplgn;
+SELECT * from dkqkl;
+SELECT * from gbahm;
+SELECT * from euhyt;
