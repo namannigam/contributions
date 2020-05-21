@@ -5069,4 +5069,7 @@ SELECT * from htken;
 SELECT * from iwsic;
 SELECT * from xwxoy;
 SELECT * from xfqit;
-SELECT * from yqvws;
+SELECT * from goska;
+SELECT * from txvmq;
+SELECT * from tsglg;
+SELECT * from lcxfc;
