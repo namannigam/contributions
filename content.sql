@@ -5079,4 +5079,3 @@ SELECT * from kycrc;
 SELECT * from iwwyl;
 SELECT * from tldkk;
 SELECT * from xwlbk;
-SELECT * from knvou;
