@@ -1536,4 +1536,3 @@ SELECT * from ppwym;
 SELECT * from uisbv;
 SELECT * from isliu;
 SELECT * from csgpc;
-SELECT * from khujw;
