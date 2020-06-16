@@ -1534,3 +1534,4 @@ SELECT * from iwprj;
 SELECT * from gpkps;
 SELECT * from ppwym;
 SELECT * from uisbv;
+SELECT * from nqrxi;
