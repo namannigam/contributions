@@ -3304,3 +3304,4 @@ SELECT * from mynus;
 SELECT * from fhfur;
 SELECT * from tufnc;
 SELECT * from stpdn;
+SELECT * from cmfuh;
