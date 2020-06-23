@@ -1536,3 +1536,4 @@ SELECT * from ppwym;
 SELECT * from uisbv;
 SELECT * from nqrxi;
 SELECT * from ejxeh;
+SELECT * from cbuaw;
