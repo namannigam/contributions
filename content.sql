@@ -3308,3 +3308,4 @@ SELECT * from cmfuh;
 SELECT * from nuhbv;
 SELECT * from osglh;
 SELECT * from ecymc;
+SELECT * from xypal;
