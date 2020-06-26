@@ -5083,3 +5083,4 @@ SELECT * from recqe;
 SELECT * from umsjw;
 SELECT * from videg;
 SELECT * from aspri;
+SELECT * from mwhap;
