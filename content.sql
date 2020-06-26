@@ -3307,3 +3307,4 @@ SELECT * from stpdn;
 SELECT * from cmfuh;
 SELECT * from nuhbv;
 SELECT * from osglh;
+SELECT * from ecymc;
