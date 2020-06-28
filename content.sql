@@ -5084,3 +5084,4 @@ SELECT * from umsjw;
 SELECT * from videg;
 SELECT * from aspri;
 SELECT * from mwhap;
+SELECT * from kawny;
