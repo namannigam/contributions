@@ -5085,3 +5085,4 @@ SELECT * from videg;
 SELECT * from aspri;
 SELECT * from mwhap;
 SELECT * from gchwl;
+SELECT * from usvec;
