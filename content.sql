@@ -1542,3 +1542,4 @@ SELECT * from abspw;
 SELECT * from meihl;
 SELECT * from htlxi;
 SELECT * from rlsue;
+SELECT * from gyhjn;
