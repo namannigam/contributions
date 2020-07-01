@@ -5087,3 +5087,4 @@ SELECT * from mwhap;
 SELECT * from gchwl;
 SELECT * from usvec;
 SELECT * from sxrwt;
+SELECT * from gddrs;
