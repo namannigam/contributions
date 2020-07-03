@@ -3314,3 +3314,4 @@ SELECT * from kcpea;
 SELECT * from ykchh;
 SELECT * from xsnyj;
 SELECT * from frrit;
+SELECT * from ripwe;
