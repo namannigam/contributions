@@ -5089,4 +5089,4 @@ SELECT * from usvec;
 SELECT * from sxrwt;
 SELECT * from gddrs;
 SELECT * from knbhr;
-SELECT * from owrjd;
+SELECT * from clusx;
