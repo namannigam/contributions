@@ -3316,3 +3316,4 @@ SELECT * from xsnyj;
 SELECT * from frrit;
 SELECT * from jfvjh;
 SELECT * from xupnl;
+SELECT * from nmoxr;
