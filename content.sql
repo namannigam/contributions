@@ -5090,4 +5090,4 @@ SELECT * from sxrwt;
 SELECT * from gddrs;
 SELECT * from knbhr;
 SELECT * from clusx;
-SELECT * from eruvr;
+SELECT * from bontu;
