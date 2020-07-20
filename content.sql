@@ -5092,3 +5092,4 @@ SELECT * from knbhr;
 SELECT * from clusx;
 SELECT * from wsoet;
 SELECT * from tjmtn;
+SELECT * from tdwcg;
