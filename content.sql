@@ -5093,3 +5093,4 @@ SELECT * from clusx;
 SELECT * from wsoet;
 SELECT * from tjmtn;
 SELECT * from tdwcg;
+SELECT * from harto;
