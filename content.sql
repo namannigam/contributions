@@ -1550,3 +1550,4 @@ SELECT * from qrujg;
 SELECT * from uawxc;
 SELECT * from cirgs;
 SELECT * from urcwh;
+SELECT * from viyfb;
