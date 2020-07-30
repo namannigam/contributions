@@ -3319,3 +3319,4 @@ SELECT * from xupnl;
 SELECT * from nmoxr;
 SELECT * from mnnfa;
 SELECT * from lbomu;
+SELECT * from yukwl;
