@@ -1551,3 +1551,4 @@ SELECT * from uawxc;
 SELECT * from cirgs;
 SELECT * from urcwh;
 SELECT * from viyfb;
+SELECT * from bmsks;
