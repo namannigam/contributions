@@ -1552,4 +1552,4 @@ SELECT * from cirgs;
 SELECT * from urcwh;
 SELECT * from viyfb;
 SELECT * from oipko;
-SELECT * from vulaq;
+SELECT * from xickb;
