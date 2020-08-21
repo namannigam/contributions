@@ -1553,3 +1553,4 @@ SELECT * from urcwh;
 SELECT * from viyfb;
 SELECT * from oipko;
 SELECT * from albkd;
+SELECT * from hkkgo;
