@@ -3322,3 +3322,4 @@ SELECT * from lbomu;
 SELECT * from loqkv;
 SELECT * from qdngd;
 SELECT * from eqllr;
+SELECT * from ntejm;
