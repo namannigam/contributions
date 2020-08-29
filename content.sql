@@ -1555,3 +1555,4 @@ SELECT * from oipko;
 SELECT * from albkd;
 SELECT * from hkkgo;
 SELECT * from yogdd;
+SELECT * from gixdx;
