@@ -1556,3 +1556,4 @@ SELECT * from albkd;
 SELECT * from hkkgo;
 SELECT * from yogdd;
 SELECT * from gixdx;
+SELECT * from rniid;
