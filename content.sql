@@ -5099,3 +5099,4 @@ SELECT * from vmxkw;
 SELECT * from fsxwl;
 SELECT * from mtrso;
 SELECT * from fkset;
+SELECT * from eigey;
