@@ -1558,3 +1558,4 @@ SELECT * from yogdd;
 SELECT * from gixdx;
 SELECT * from rniid;
 SELECT * from sggpg;
+SELECT * from kumix;
