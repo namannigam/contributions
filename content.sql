@@ -5101,3 +5101,4 @@ SELECT * from mtrso;
 SELECT * from fkset;
 SELECT * from eigey;
 SELECT * from lbicd;
+SELECT * from pphju;
