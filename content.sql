@@ -5100,3 +5100,4 @@ SELECT * from fsxwl;
 SELECT * from mtrso;
 SELECT * from fkset;
 SELECT * from eigey;
+SELECT * from lbicd;
