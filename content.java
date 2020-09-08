@@ -12700,6 +12700,5 @@ public class Clwyfd {
         System.out.println("jiwje");
         System.out.println("rjsmi");
         System.out.println("gqbme");
-        System.out.println("xetho");
     }
 }
