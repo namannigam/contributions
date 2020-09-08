@@ -5103,3 +5103,4 @@ SELECT * from eigey;
 SELECT * from lbicd;
 SELECT * from pphju;
 SELECT * from dkhti;
+SELECT * from clngd;
