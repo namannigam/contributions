@@ -1560,3 +1560,4 @@ SELECT * from rniid;
 SELECT * from sggpg;
 SELECT * from kumix;
 SELECT * from kqajy;
+SELECT * from pywtd;
