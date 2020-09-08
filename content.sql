@@ -5102,3 +5102,4 @@ SELECT * from fkset;
 SELECT * from eigey;
 SELECT * from lbicd;
 SELECT * from pphju;
+SELECT * from geuqe;
