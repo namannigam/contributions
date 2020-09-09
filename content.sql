@@ -5104,3 +5104,6 @@ SELECT * from lbicd;
 SELECT * from pphju;
 SELECT * from dkhti;
 SELECT * from clngd;
+SELECT * from dijlp;
+SELECT * from jrwph;
+SELECT * from fgiuj;
