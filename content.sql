@@ -1561,3 +1561,6 @@ SELECT * from sggpg;
 SELECT * from kumix;
 SELECT * from kqajy;
 SELECT * from pywtd;
+SELECT * from rqplc;
+SELECT * from sjjsk;
+SELECT * from nkxpc;
