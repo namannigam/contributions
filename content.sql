@@ -3329,3 +3329,6 @@ SELECT * from qfhko;
 SELECT * from knmma;
 SELECT * from hyhun;
 SELECT * from xkjwy;
+SELECT * from ynfht;
+SELECT * from icsle;
+SELECT * from cjuel;
