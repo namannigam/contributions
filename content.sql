@@ -5107,3 +5107,5 @@ SELECT * from clngd;
 SELECT * from dijlp;
 SELECT * from jrwph;
 SELECT * from fgiuj;
+SELECT * from tsegw;
+SELECT * from uclrv;
