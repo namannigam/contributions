@@ -3332,3 +3332,5 @@ SELECT * from xkjwy;
 SELECT * from ynfht;
 SELECT * from icsle;
 SELECT * from cjuel;
+SELECT * from ubedl;
+SELECT * from imyhh;
