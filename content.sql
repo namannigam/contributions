@@ -1564,3 +1564,5 @@ SELECT * from pywtd;
 SELECT * from rqplc;
 SELECT * from sjjsk;
 SELECT * from nkxpc;
+SELECT * from jovap;
+SELECT * from qvswp;
