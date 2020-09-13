@@ -3335,3 +3335,4 @@ SELECT * from cjuel;
 SELECT * from ubedl;
 SELECT * from imyhh;
 SELECT * from dqexc;
+SELECT * from cykfd;
