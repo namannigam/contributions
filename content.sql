@@ -1567,3 +1567,4 @@ SELECT * from nkxpc;
 SELECT * from jovap;
 SELECT * from qvswp;
 SELECT * from gbbll;
+SELECT * from iamul;
