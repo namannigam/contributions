@@ -5115,4 +5115,3 @@ SELECT * from rexmc;
 SELECT * from fvxat;
 SELECT * from psriu;
 SELECT * from xniuf;
-SELECT * from deusc;
