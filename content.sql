@@ -1572,4 +1572,3 @@ SELECT * from lofdr;
 SELECT * from dpmhm;
 SELECT * from mflmb;
 SELECT * from dlank;
-SELECT * from aqeud;
