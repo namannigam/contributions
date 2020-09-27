@@ -3341,3 +3341,4 @@ SELECT * from fxcxv;
 SELECT * from jgvry;
 SELECT * from dqtex;
 SELECT * from nnouc;
+SELECT * from qgcln;
