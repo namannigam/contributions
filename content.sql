@@ -5116,3 +5116,4 @@ SELECT * from fvxat;
 SELECT * from psriu;
 SELECT * from lppvk;
 SELECT * from ewvnh;
+SELECT * from rxncc;
