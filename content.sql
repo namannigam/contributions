@@ -5118,3 +5118,5 @@ SELECT * from lppvk;
 SELECT * from ewvnh;
 SELECT * from rxncc;
 SELECT * from pybfr;
+SELECT * from lnhcs;
+SELECT * from isgoh;
