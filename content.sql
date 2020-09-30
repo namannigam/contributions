@@ -5120,3 +5120,4 @@ SELECT * from rxncc;
 SELECT * from pybfr;
 SELECT * from lnhcs;
 SELECT * from yvlsl;
+SELECT * from cnyuw;
