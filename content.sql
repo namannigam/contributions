@@ -3345,3 +3345,4 @@ SELECT * from qgcln;
 SELECT * from molkc;
 SELECT * from qjccn;
 SELECT * from fgjqn;
+SELECT * from xijam;
