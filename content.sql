@@ -5121,3 +5121,5 @@ SELECT * from pybfr;
 SELECT * from lnhcs;
 SELECT * from yvlsl;
 SELECT * from cnyuw;
+SELECT * from nyilh;
+SELECT * from tqync;
