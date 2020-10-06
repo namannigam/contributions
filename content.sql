@@ -3347,4 +3347,5 @@ SELECT * from qjccn;
 SELECT * from fgjqn;
 SELECT * from xijam;
 SELECT * from timfq;
-SELECT * from ehbky;
+SELECT * from uqbss;
+SELECT * from ykknv;
