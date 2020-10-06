@@ -3178,7 +3178,6 @@ public class Clwyfd {
         System.out.println("phvmf");
         System.out.println("cxpcl");
         System.out.println("vgsak");
-        System.out.println("wiqti");
-        System.out.println("wpdit");
+        System.out.println("nkwbx");
     }
 }
