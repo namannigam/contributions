@@ -5125,3 +5125,4 @@ SELECT * from nyilh;
 SELECT * from fxiwb;
 SELECT * from skydt;
 SELECT * from vttyx;
+SELECT * from baajd;
