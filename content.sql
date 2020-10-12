@@ -1583,3 +1583,4 @@ SELECT * from dcivp;
 SELECT * from ggknf;
 SELECT * from sbkvv;
 SELECT * from vqiju;
+SELECT * from dtdte;
