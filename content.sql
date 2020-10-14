@@ -1585,3 +1585,4 @@ SELECT * from sbkvv;
 SELECT * from vqiju;
 SELECT * from wgtrn;
 SELECT * from srxgl;
+SELECT * from iukfw;
