@@ -3354,3 +3354,4 @@ SELECT * from ydsyn;
 SELECT * from uawfj;
 SELECT * from gwwlq;
 SELECT * from nsuon;
+SELECT * from micro;
