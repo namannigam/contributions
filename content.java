@@ -3192,6 +3192,8 @@ public class Clwyfd {
         System.out.println("lmbst");
         System.out.println("gkoor");
         System.out.println("jrngm");
-        System.out.println("sqcxx");
+        System.out.println("lgvga");
+        System.out.println("nrraf");
+        System.out.println("hvoew");
     }
 }
