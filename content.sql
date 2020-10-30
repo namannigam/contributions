@@ -3357,3 +3357,4 @@ SELECT * from nsuon;
 SELECT * from micro;
 SELECT * from cbrfs;
 SELECT * from ygxow;
+SELECT * from hcfwi;
