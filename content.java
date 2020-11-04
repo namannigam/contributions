@@ -3214,6 +3214,7 @@ public class Clwyfd {
         System.out.println("rnlat");
         System.out.println("wcbpp");
         System.out.println("ntsew");
-        System.out.println("twaew");
+        System.out.println("lwihs");
+        System.out.println("pjqta");
     }
 }

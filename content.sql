@@ -1591,3 +1591,4 @@ SELECT * from exhsf;
 SELECT * from bxakp;
 SELECT * from vydta;
 SELECT * from eagae;
+SELECT * from hfjtp;
