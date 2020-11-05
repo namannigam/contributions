@@ -5135,3 +5135,4 @@ SELECT * from kwqwd;
 SELECT * from rbvsr;
 SELECT * from tpssc;
 SELECT * from isini;
+SELECT * from qfimf;
