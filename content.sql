@@ -3360,3 +3360,4 @@ SELECT * from ygxow;
 SELECT * from hcfwi;
 SELECT * from gxseu;
 SELECT * from pyqch;
+SELECT * from awaxe;
