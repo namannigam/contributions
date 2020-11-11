@@ -5137,4 +5137,3 @@ SELECT * from tpssc;
 SELECT * from isini;
 SELECT * from qfimf;
 SELECT * from nfolb;
-SELECT * from kfnsm;
