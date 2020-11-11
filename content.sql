@@ -1594,4 +1594,3 @@ SELECT * from eagae;
 SELECT * from hfjtp;
 SELECT * from hwgtr;
 SELECT * from pynkc;
-SELECT * from nqxmq;
