@@ -1593,3 +1593,4 @@ SELECT * from vydta;
 SELECT * from eagae;
 SELECT * from hfjtp;
 SELECT * from hwgtr;
+SELECT * from ytets;
