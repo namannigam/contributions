@@ -5137,3 +5137,4 @@ SELECT * from tpssc;
 SELECT * from isini;
 SELECT * from qfimf;
 SELECT * from pcqmd;
+SELECT * from rnpcb;
