@@ -5138,3 +5138,4 @@ SELECT * from isini;
 SELECT * from qfimf;
 SELECT * from pcqmd;
 SELECT * from rnpcb;
+SELECT * from denuk;
