@@ -5141,4 +5141,4 @@ SELECT * from rnpcb;
 SELECT * from denuk;
 SELECT * from efond;
 SELECT * from blnia;
-SELECT * from dwrvk;
+SELECT * from dyrpm;
