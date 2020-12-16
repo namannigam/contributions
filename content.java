@@ -8005,8 +8005,6 @@ public class Clwyfd {
         System.out.println("ttnmt");
         System.out.println("patxt");
         System.out.println("roftr");
-        System.out.println("mobvl");
-        System.out.println("qwstt");
-        System.out.println("xeuhf");
+        System.out.println("detcr");
     }
 }
