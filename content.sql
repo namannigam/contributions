@@ -5143,4 +5143,4 @@ SELECT * from efond;
 SELECT * from blnia;
 SELECT * from enisq;
 SELECT * from koqkq;
-SELECT * from dyysu;
+SELECT * from kkimc;
