@@ -5144,3 +5144,4 @@ SELECT * from blnia;
 SELECT * from enisq;
 SELECT * from koqkq;
 SELECT * from kkimc;
+SELECT * from soemf;
