@@ -1602,3 +1602,4 @@ SELECT * from qndyq;
 SELECT * from orrbp;
 SELECT * from qtmev;
 SELECT * from qekfc;
+SELECT * from kojgq;
