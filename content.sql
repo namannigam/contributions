@@ -5146,3 +5146,4 @@ SELECT * from koqkq;
 SELECT * from kkimc;
 SELECT * from soemf;
 SELECT * from eoxtn;
+SELECT * from lijlj;
