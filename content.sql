@@ -1604,3 +1604,4 @@ SELECT * from qtmev;
 SELECT * from qekfc;
 SELECT * from kojgq;
 SELECT * from npemk;
+SELECT * from actrp;
