@@ -1605,3 +1605,4 @@ SELECT * from qekfc;
 SELECT * from kojgq;
 SELECT * from npemk;
 SELECT * from actrp;
+SELECT * from ljfym;
