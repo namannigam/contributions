@@ -3374,3 +3374,6 @@ SELECT * from rdktw;
 SELECT * from yaxjd;
 SELECT * from imooa;
 SELECT * from ippbn;
+SELECT * from qbfrc;
+SELECT * from ywqhw;
+SELECT * from aeoms;
