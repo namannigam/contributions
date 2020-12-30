@@ -1609,3 +1609,4 @@ SELECT * from ljfym;
 SELECT * from dcepc;
 SELECT * from sumbe;
 SELECT * from shmff;
+SELECT * from qlebr;
