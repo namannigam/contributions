@@ -1610,3 +1610,4 @@ SELECT * from dcepc;
 SELECT * from sumbe;
 SELECT * from shmff;
 SELECT * from qlebr;
+SELECT * from tllpj;
