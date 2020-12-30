@@ -5149,3 +5149,6 @@ SELECT * from eoxtn;
 SELECT * from lijlj;
 SELECT * from iukiu;
 SELECT * from fsdud;
+SELECT * from bppud;
+SELECT * from fbleu;
+SELECT * from gkstc;
