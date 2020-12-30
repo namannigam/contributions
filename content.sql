@@ -1606,3 +1606,6 @@ SELECT * from kojgq;
 SELECT * from npemk;
 SELECT * from actrp;
 SELECT * from ljfym;
+SELECT * from dcepc;
+SELECT * from sumbe;
+SELECT * from shmff;
