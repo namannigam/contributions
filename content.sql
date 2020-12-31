@@ -3379,3 +3379,5 @@ SELECT * from ywqhw;
 SELECT * from aeoms;
 SELECT * from erfje;
 SELECT * from jybxi;
+SELECT * from jaxuf;
+SELECT * from teikt;
