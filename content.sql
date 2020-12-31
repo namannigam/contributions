@@ -1611,3 +1611,5 @@ SELECT * from sumbe;
 SELECT * from shmff;
 SELECT * from qlebr;
 SELECT * from tllpj;
+SELECT * from byfbc;
+SELECT * from eoujw;
