@@ -5154,3 +5154,5 @@ SELECT * from fbleu;
 SELECT * from gkstc;
 SELECT * from jbash;
 SELECT * from rylcl;
+SELECT * from hnvui;
+SELECT * from psoul;
