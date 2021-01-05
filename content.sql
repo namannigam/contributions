@@ -1614,3 +1614,4 @@ SELECT * from tllpj;
 SELECT * from byfbc;
 SELECT * from eoujw;
 SELECT * from eipmb;
+SELECT * from qrmnr;
