@@ -1617,3 +1617,4 @@ SELECT * from eipmb;
 SELECT * from qrmnr;
 SELECT * from pdcgd;
 SELECT * from hwmto;
+SELECT * from fqyrq;
