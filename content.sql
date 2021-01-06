@@ -1618,4 +1618,4 @@ SELECT * from qrmnr;
 SELECT * from pdcgd;
 SELECT * from hwmto;
 SELECT * from fqyrq;
-SELECT * from sortk;
+SELECT * from cxidr;
