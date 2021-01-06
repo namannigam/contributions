@@ -3386,3 +3386,4 @@ SELECT * from gvqlr;
 SELECT * from suwna;
 SELECT * from iumub;
 SELECT * from bkvdf;
+SELECT * from njlak;
