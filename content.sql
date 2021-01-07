@@ -1619,3 +1619,4 @@ SELECT * from pdcgd;
 SELECT * from hwmto;
 SELECT * from fqyrq;
 SELECT * from cxidr;
+SELECT * from xebbq;
