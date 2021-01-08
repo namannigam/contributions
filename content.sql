@@ -5163,3 +5163,4 @@ SELECT * from xhplk;
 SELECT * from imaow;
 SELECT * from krpub;
 SELECT * from hvpta;
+SELECT * from wmvak;
