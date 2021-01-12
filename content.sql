@@ -1621,3 +1621,4 @@ SELECT * from fqyrq;
 SELECT * from cxidr;
 SELECT * from xebbq;
 SELECT * from xopih;
+SELECT * from wnbtt;
