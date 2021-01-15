@@ -3390,3 +3390,5 @@ SELECT * from lewan;
 SELECT * from otqfy;
 SELECT * from xvlvw;
 SELECT * from pvhhm;
+SELECT * from haqhw;
+SELECT * from bedqt;
