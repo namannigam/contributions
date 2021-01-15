@@ -5165,3 +5165,5 @@ SELECT * from krpub;
 SELECT * from hvpta;
 SELECT * from wmvak;
 SELECT * from adugf;
+SELECT * from pqaks;
+SELECT * from gmmkt;
