@@ -5167,3 +5167,4 @@ SELECT * from wmvak;
 SELECT * from adugf;
 SELECT * from pqaks;
 SELECT * from gmmkt;
+SELECT * from hccyn;
