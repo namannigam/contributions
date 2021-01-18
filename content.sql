@@ -3393,3 +3393,4 @@ SELECT * from pvhhm;
 SELECT * from haqhw;
 SELECT * from bedqt;
 SELECT * from uxyia;
+SELECT * from vepal;
