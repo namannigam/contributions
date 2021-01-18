@@ -1625,3 +1625,4 @@ SELECT * from wnbtt;
 SELECT * from jisco;
 SELECT * from hckqq;
 SELECT * from gtndm;
+SELECT * from bufyr;
