@@ -5170,3 +5170,4 @@ SELECT * from gmmkt;
 SELECT * from hccyn;
 SELECT * from eopll;
 SELECT * from katqf;
+SELECT * from ufuoy;
