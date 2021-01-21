@@ -3395,3 +3395,4 @@ SELECT * from bedqt;
 SELECT * from uxyia;
 SELECT * from vepal;
 SELECT * from rvkoq;
+SELECT * from yambq;
