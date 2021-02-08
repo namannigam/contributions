@@ -5171,3 +5171,4 @@ SELECT * from hccyn;
 SELECT * from eopll;
 SELECT * from katqf;
 SELECT * from ufuoy;
+SELECT * from selia;
