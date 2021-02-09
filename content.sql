@@ -3397,3 +3397,4 @@ SELECT * from vepal;
 SELECT * from rvkoq;
 SELECT * from yambq;
 SELECT * from cfptp;
+SELECT * from krqsk;
