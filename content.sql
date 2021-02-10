@@ -5173,3 +5173,4 @@ SELECT * from katqf;
 SELECT * from ufuoy;
 SELECT * from selia;
 SELECT * from vicko;
+SELECT * from tgbeb;
