@@ -5174,3 +5174,4 @@ SELECT * from ufuoy;
 SELECT * from selia;
 SELECT * from vicko;
 SELECT * from tgbeb;
+SELECT * from eympd;
