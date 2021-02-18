@@ -3402,3 +3402,5 @@ SELECT * from flvnd;
 SELECT * from fyqjh;
 SELECT * from bgbqu;
 SELECT * from kerpp;
+SELECT * from jfifb;
+SELECT * from rnckr;
