@@ -5177,3 +5177,5 @@ SELECT * from tgbeb;
 SELECT * from eympd;
 SELECT * from sdgkm;
 SELECT * from htwjj;
+SELECT * from difxy;
+SELECT * from npwka;
