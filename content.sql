@@ -1634,3 +1634,5 @@ SELECT * from txgmx;
 SELECT * from gynjb;
 SELECT * from ibgqo;
 SELECT * from vrryv;
+SELECT * from bhdfc;
+SELECT * from mdahi;
