@@ -5181,3 +5181,4 @@ SELECT * from difxy;
 SELECT * from npwka;
 SELECT * from rrmuw;
 SELECT * from ycoia;
+SELECT * from nkyqs;
