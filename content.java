@@ -3346,6 +3346,6 @@ public class Clwyfd {
         System.out.println("semka");
         System.out.println("mvxex");
         System.out.println("opfis");
-        System.out.println("shekt");
+        System.out.println("psvci");
     }
 }
