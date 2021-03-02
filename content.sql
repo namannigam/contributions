@@ -3407,3 +3407,4 @@ SELECT * from rnckr;
 SELECT * from jjnlf;
 SELECT * from hhpav;
 SELECT * from mvkby;
+SELECT * from viagi;
