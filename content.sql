@@ -1639,3 +1639,4 @@ SELECT * from mdahi;
 SELECT * from abmkn;
 SELECT * from tbhvs;
 SELECT * from tqbkd;
+SELECT * from sxlgg;
