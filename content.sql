@@ -1642,3 +1642,5 @@ SELECT * from tqbkd;
 SELECT * from sxlgg;
 SELECT * from uonjb;
 SELECT * from swojj;
+SELECT * from pmjli;
+SELECT * from cpung;
