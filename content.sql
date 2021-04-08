@@ -3410,3 +3410,5 @@ SELECT * from mvkby;
 SELECT * from viagi;
 SELECT * from muodr;
 SELECT * from xlurl;
+SELECT * from njhrm;
+SELECT * from xwjsw;
