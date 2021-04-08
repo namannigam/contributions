@@ -5185,3 +5185,5 @@ SELECT * from btapj;
 SELECT * from oihom;
 SELECT * from ascoo;
 SELECT * from vfkjv;
+SELECT * from neysj;
+SELECT * from pfswo;
