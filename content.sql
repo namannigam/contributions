@@ -1645,3 +1645,4 @@ SELECT * from swojj;
 SELECT * from pmjli;
 SELECT * from cpung;
 SELECT * from gcwli;
+SELECT * from gnowh;
