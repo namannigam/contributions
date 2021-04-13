@@ -5189,3 +5189,4 @@ SELECT * from neysj;
 SELECT * from pfswo;
 SELECT * from xryji;
 SELECT * from jtati;
+SELECT * from dywwd;
