@@ -3415,3 +3415,4 @@ SELECT * from xwjsw;
 SELECT * from oktik;
 SELECT * from llbqu;
 SELECT * from gfsbt;
+SELECT * from ntxik;
