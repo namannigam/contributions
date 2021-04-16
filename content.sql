@@ -1647,3 +1647,4 @@ SELECT * from cpung;
 SELECT * from gcwli;
 SELECT * from gnowh;
 SELECT * from xqbgq;
+SELECT * from ipqsw;
