@@ -3416,4 +3416,4 @@ SELECT * from oktik;
 SELECT * from llbqu;
 SELECT * from gfsbt;
 SELECT * from ntxik;
-SELECT * from kmypy;
+SELECT * from ppewt;
