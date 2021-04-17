@@ -5191,3 +5191,4 @@ SELECT * from xryji;
 SELECT * from jtati;
 SELECT * from dywwd;
 SELECT * from pkxwf;
+SELECT * from gagmg;
