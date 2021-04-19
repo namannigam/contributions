@@ -3417,3 +3417,4 @@ SELECT * from llbqu;
 SELECT * from gfsbt;
 SELECT * from ntxik;
 SELECT * from ppewt;
+SELECT * from nmcmr;
