@@ -1649,3 +1649,4 @@ SELECT * from gnowh;
 SELECT * from xqbgq;
 SELECT * from ipqsw;
 SELECT * from rvlox;
+SELECT * from smlpo;
