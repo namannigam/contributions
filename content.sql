@@ -5192,3 +5192,4 @@ SELECT * from jtati;
 SELECT * from dywwd;
 SELECT * from pkxwf;
 SELECT * from wcbpk;
+SELECT * from uldtx;
