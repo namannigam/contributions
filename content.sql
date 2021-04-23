@@ -1651,3 +1651,4 @@ SELECT * from ipqsw;
 SELECT * from rvlox;
 SELECT * from smlpo;
 SELECT * from qneax;
+SELECT * from xbujc;
