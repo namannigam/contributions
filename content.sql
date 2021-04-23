@@ -5194,3 +5194,4 @@ SELECT * from pkxwf;
 SELECT * from wcbpk;
 SELECT * from uldtx;
 SELECT * from ybdfb;
+SELECT * from mgnyb;
