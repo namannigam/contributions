@@ -3419,3 +3419,4 @@ SELECT * from ntxik;
 SELECT * from ppewt;
 SELECT * from nmcmr;
 SELECT * from tipgu;
+SELECT * from celbj;
