@@ -1652,4 +1652,4 @@ SELECT * from rvlox;
 SELECT * from smlpo;
 SELECT * from qneax;
 SELECT * from xbujc;
-SELECT * from jdxpi;
+SELECT * from idtkg;
