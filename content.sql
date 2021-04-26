@@ -3420,4 +3420,4 @@ SELECT * from ppewt;
 SELECT * from nmcmr;
 SELECT * from tipgu;
 SELECT * from celbj;
-SELECT * from mnseh;
+SELECT * from obtud;
