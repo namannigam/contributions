@@ -3421,3 +3421,4 @@ SELECT * from nmcmr;
 SELECT * from tipgu;
 SELECT * from celbj;
 SELECT * from mabuw;
+SELECT * from rxtry;
