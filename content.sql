@@ -1654,3 +1654,4 @@ SELECT * from qneax;
 SELECT * from xbujc;
 SELECT * from hauns;
 SELECT * from fqkpi;
+SELECT * from kqjys;
