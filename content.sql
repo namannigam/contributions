@@ -5198,3 +5198,4 @@ SELECT * from mgnyb;
 SELECT * from mkndd;
 SELECT * from feudx;
 SELECT * from hapqu;
+SELECT * from cmneo;
