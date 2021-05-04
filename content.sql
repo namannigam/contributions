@@ -1655,3 +1655,4 @@ SELECT * from xbujc;
 SELECT * from hauns;
 SELECT * from fqkpi;
 SELECT * from kgepg;
+SELECT * from murim;
