@@ -3424,3 +3424,4 @@ SELECT * from mabuw;
 SELECT * from rxtry;
 SELECT * from cjckh;
 SELECT * from obgsn;
+SELECT * from wchhd;
