@@ -1658,3 +1658,4 @@ SELECT * from kgepg;
 SELECT * from murim;
 SELECT * from gavjp;
 SELECT * from xyjcl;
+SELECT * from urclu;
