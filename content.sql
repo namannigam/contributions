@@ -3426,4 +3426,4 @@ SELECT * from cjckh;
 SELECT * from obgsn;
 SELECT * from wchhd;
 SELECT * from oapbg;
-SELECT * from calsx;
+SELECT * from cmpcy;
