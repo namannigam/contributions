@@ -1660,3 +1660,4 @@ SELECT * from gavjp;
 SELECT * from xyjcl;
 SELECT * from hwink;
 SELECT * from hvomw;
+SELECT * from cqtga;
