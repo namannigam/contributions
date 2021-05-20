@@ -3428,3 +3428,4 @@ SELECT * from wchhd;
 SELECT * from oapbg;
 SELECT * from anoti;
 SELECT * from dlecv;
+SELECT * from wusgt;
