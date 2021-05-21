@@ -3431,3 +3431,4 @@ SELECT * from dlecv;
 SELECT * from wusgt;
 SELECT * from ufilk;
 SELECT * from ndeyg;
+SELECT * from ymygq;
