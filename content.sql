@@ -1662,3 +1662,4 @@ SELECT * from hwink;
 SELECT * from hvomw;
 SELECT * from cqtga;
 SELECT * from gdmwp;
+SELECT * from nkdax;
