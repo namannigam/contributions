@@ -5204,3 +5204,4 @@ SELECT * from wsgkq;
 SELECT * from uwajl;
 SELECT * from qlbkh;
 SELECT * from wvujj;
+SELECT * from gxags;
