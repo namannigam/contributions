@@ -3432,3 +3432,4 @@ SELECT * from wusgt;
 SELECT * from ufilk;
 SELECT * from ndeyg;
 SELECT * from ymygq;
+SELECT * from aebka;
