@@ -5208,4 +5208,4 @@ SELECT * from gxags;
 SELECT * from wbiad;
 SELECT * from mmyyp;
 SELECT * from farxh;
-SELECT * from pkgnf;
+SELECT * from pxcbx;
