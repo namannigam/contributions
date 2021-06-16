@@ -1667,3 +1667,4 @@ SELECT * from cjcgi;
 SELECT * from pmdwm;
 SELECT * from atkta;
 SELECT * from ocdvk;
+SELECT * from isstt;
