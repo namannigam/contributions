@@ -5209,3 +5209,4 @@ SELECT * from wbiad;
 SELECT * from mmyyp;
 SELECT * from farxh;
 SELECT * from lhfrv;
+SELECT * from patci;
