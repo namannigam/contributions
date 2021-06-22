@@ -5211,3 +5211,4 @@ SELECT * from farxh;
 SELECT * from lhfrv;
 SELECT * from patci;
 SELECT * from uvjxn;
+SELECT * from ykghs;
