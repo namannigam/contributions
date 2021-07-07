@@ -1668,4 +1668,4 @@ SELECT * from pmdwm;
 SELECT * from atkta;
 SELECT * from ocdvk;
 SELECT * from isstt;
-SELECT * from prlcf;
+SELECT * from tdekb;
