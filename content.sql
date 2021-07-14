@@ -1670,3 +1670,4 @@ SELECT * from ocdvk;
 SELECT * from isstt;
 SELECT * from fopai;
 SELECT * from eupeb;
+SELECT * from uhhob;
