@@ -8247,6 +8247,5 @@ public class Clwyfd {
         System.out.println("tlcpc");
         System.out.println("gwdlk");
         System.out.println("jwoab");
-        System.out.println("jksac");
     }
 }
