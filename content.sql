@@ -1671,3 +1671,4 @@ SELECT * from isstt;
 SELECT * from fopai;
 SELECT * from qpvaw;
 SELECT * from kdijg;
+SELECT * from cvrvl;
