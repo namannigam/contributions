@@ -5215,3 +5215,5 @@ SELECT * from tawhp;
 SELECT * from gohes;
 SELECT * from avryg;
 SELECT * from ckymu;
+SELECT * from uqows;
+SELECT * from duusx;
