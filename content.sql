@@ -1672,3 +1672,5 @@ SELECT * from fopai;
 SELECT * from qpvaw;
 SELECT * from kdijg;
 SELECT * from hirhm;
+SELECT * from hgoct;
+SELECT * from fefug;
