@@ -3440,3 +3440,5 @@ SELECT * from ehllm;
 SELECT * from jxktp;
 SELECT * from vtmvy;
 SELECT * from gphxn;
+SELECT * from jlrti;
+SELECT * from whfkp;
