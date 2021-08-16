@@ -1675,3 +1675,4 @@ SELECT * from hirhm;
 SELECT * from hgoct;
 SELECT * from fefug;
 SELECT * from cvogb;
+SELECT * from gimwi;
