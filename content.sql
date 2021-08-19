@@ -1677,3 +1677,4 @@ SELECT * from fefug;
 SELECT * from cvogb;
 SELECT * from jhjll;
 SELECT * from srqwd;
+SELECT * from gidjo;
