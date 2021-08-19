@@ -3447,3 +3447,4 @@ SELECT * from nphml;
 SELECT * from iqcrb;
 SELECT * from hxvry;
 SELECT * from yuxwi;
+SELECT * from cmwmg;
