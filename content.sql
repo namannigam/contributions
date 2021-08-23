@@ -1680,3 +1680,4 @@ SELECT * from srqwd;
 SELECT * from gidjo;
 SELECT * from nbxdw;
 SELECT * from kxydc;
+SELECT * from sywca;
