@@ -5224,3 +5224,4 @@ SELECT * from bcbwt;
 SELECT * from nccto;
 SELECT * from gwkts;
 SELECT * from tfyqy;
+SELECT * from nxdtj;
