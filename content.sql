@@ -1682,3 +1682,4 @@ SELECT * from nbxdw;
 SELECT * from kxydc;
 SELECT * from sywca;
 SELECT * from jytsj;
+SELECT * from qsqpb;
