@@ -1683,4 +1683,4 @@ SELECT * from kxydc;
 SELECT * from sywca;
 SELECT * from jytsj;
 SELECT * from qsqpb;
-SELECT * from iqsus;
+SELECT * from nofne;
