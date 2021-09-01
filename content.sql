@@ -5226,4 +5226,4 @@ SELECT * from gwkts;
 SELECT * from tfyqy;
 SELECT * from nxdtj;
 SELECT * from txstn;
-SELECT * from tqxli;
+SELECT * from cokik;
