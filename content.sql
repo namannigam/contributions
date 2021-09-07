@@ -5228,3 +5228,4 @@ SELECT * from nxdtj;
 SELECT * from txstn;
 SELECT * from cokik;
 SELECT * from hdbgd;
+SELECT * from kdhsk;
