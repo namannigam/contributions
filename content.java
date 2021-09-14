@@ -1,5 +1,5 @@
-public class Cpavnn {
+public class Ctlpvf {
     public static void main() {
-        System.out.println("cpuuq");
+        System.out.println("wrmaq");
     }
 }
