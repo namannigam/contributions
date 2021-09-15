@@ -5230,3 +5230,4 @@ SELECT * from cokik;
 SELECT * from hdbgd;
 SELECT * from kdhsk;
 SELECT * from vfmlf;
+SELECT * from qgagi;
