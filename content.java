@@ -1,5 +1,5 @@
-public class Cnovek {
+public class Cwwppr {
     public static void main() {
-        System.out.println("fhwrv");
+        System.out.println("njkcq");
     }
 }
