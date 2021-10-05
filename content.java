@@ -1,5 +1,5 @@
-public class Clpdfp {
+public class Cqouip {
     public static void main() {
-        System.out.println("xnxsw");
+        System.out.println("tfufx");
     }
 }
