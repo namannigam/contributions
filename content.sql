@@ -5234,3 +5234,4 @@ SELECT * from qgagi;
 SELECT * from xhpct;
 SELECT * from tjtpa;
 SELECT * from tyywx;
+SELECT * from nvmgj;
