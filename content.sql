@@ -1692,3 +1692,4 @@ SELECT * from mdymc;
 SELECT * from nyjat;
 SELECT * from fwiad;
 SELECT * from hgqxl;
+SELECT * from efkoa;
