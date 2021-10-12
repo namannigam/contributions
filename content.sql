@@ -1693,3 +1693,4 @@ SELECT * from nyjat;
 SELECT * from fwiad;
 SELECT * from hgqxl;
 SELECT * from xhngs;
+SELECT * from iqyin;
