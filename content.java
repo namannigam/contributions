@@ -1,5 +1,5 @@
-public class Cnjmvq {
+public class Caaumb {
     public static void main() {
-        System.out.println("nxkcw");
+        System.out.println("xgpuo");
     }
 }
