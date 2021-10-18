@@ -1,5 +1,5 @@
-public class Caaumb {
+public class Cgaadq {
     public static void main() {
-        System.out.println("xgpuo");
+        System.out.println("wnyhm");
     }
 }
