@@ -1,5 +1,5 @@
-public class Cgaadq {
+public class Cmpwpa {
     public static void main() {
-        System.out.println("wnyhm");
+        System.out.println("hoqks");
     }
 }
