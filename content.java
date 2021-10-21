@@ -1,5 +1,5 @@
-public class Cmpwpa {
+public class Cdcruf {
     public static void main() {
-        System.out.println("hoqks");
+        System.out.println("ipimk");
     }
 }
