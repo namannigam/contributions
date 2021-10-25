@@ -1695,3 +1695,4 @@ SELECT * from hgqxl;
 SELECT * from xhngs;
 SELECT * from wwmkj;
 SELECT * from agkan;
+SELECT * from wmoon;
