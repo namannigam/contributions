@@ -3465,3 +3465,4 @@ SELECT * from ldnch;
 SELECT * from ucjgf;
 SELECT * from cpuxl;
 SELECT * from sbsii;
+SELECT * from sbbnx;
