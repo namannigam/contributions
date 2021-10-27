@@ -1698,3 +1698,4 @@ SELECT * from agkan;
 SELECT * from wmoon;
 SELECT * from hguum;
 SELECT * from fjrxd;
+SELECT * from qluny;
