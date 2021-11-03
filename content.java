@@ -1,5 +1,5 @@
-public class Cykens {
+public class Ccwypp {
     public static void main() {
-        System.out.println("lfaqt");
+        System.out.println("weufh");
     }
 }
