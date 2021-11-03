@@ -1,5 +1,5 @@
-public class Ccwypp {
+public class Cmmkxi {
     public static void main() {
-        System.out.println("weufh");
+        System.out.println("gynmf");
     }
 }
