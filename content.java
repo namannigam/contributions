@@ -1,5 +1,5 @@
-public class Cmmkxi {
+public class Ceurow {
     public static void main() {
-        System.out.println("gynmf");
+        System.out.println("ifgal");
     }
 }
