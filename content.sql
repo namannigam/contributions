@@ -1699,3 +1699,4 @@ SELECT * from wmoon;
 SELECT * from hguum;
 SELECT * from fjrxd;
 SELECT * from jaucj;
+SELECT * from afqpa;
