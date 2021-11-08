@@ -3467,3 +3467,4 @@ SELECT * from cpuxl;
 SELECT * from sbsii;
 SELECT * from sbbnx;
 SELECT * from wrxfn;
+SELECT * from fsjib;
