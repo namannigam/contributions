@@ -1700,3 +1700,4 @@ SELECT * from hguum;
 SELECT * from fjrxd;
 SELECT * from jaucj;
 SELECT * from afqpa;
+SELECT * from umjnv;
