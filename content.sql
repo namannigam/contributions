@@ -3468,3 +3468,4 @@ SELECT * from sbsii;
 SELECT * from sbbnx;
 SELECT * from wrxfn;
 SELECT * from fsjib;
+SELECT * from shcof;
