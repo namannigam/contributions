@@ -5244,3 +5244,4 @@ SELECT * from jwnxq;
 SELECT * from ayxbr;
 SELECT * from bsgmw;
 SELECT * from aivoa;
+SELECT * from nsbse;
