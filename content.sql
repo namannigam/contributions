@@ -5247,3 +5247,4 @@ SELECT * from aivoa;
 SELECT * from nsbse;
 SELECT * from bvkwo;
 SELECT * from lsakd;
+SELECT * from fhavc;
