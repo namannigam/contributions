@@ -1,5 +1,5 @@
-public class Ceurow {
+public class Cvsket {
     public static void main() {
-        System.out.println("ifgal");
+        System.out.println("jooul");
     }
 }
