@@ -1706,3 +1706,4 @@ SELECT * from nqhbl;
 SELECT * from aooup;
 SELECT * from jcrlf;
 SELECT * from ycqvm;
+SELECT * from wymjj;
