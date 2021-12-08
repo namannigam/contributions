@@ -3474,3 +3474,4 @@ SELECT * from oxnyb;
 SELECT * from jbymf;
 SELECT * from cwxmo;
 SELECT * from ujngb;
+SELECT * from nkupr;
