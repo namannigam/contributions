@@ -1,5 +1,5 @@
-public class Cvsket {
+public class Cmsnmi {
     public static void main() {
-        System.out.println("jooul");
+        System.out.println("ovdqk");
     }
 }
