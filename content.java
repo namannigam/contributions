@@ -1,5 +1,5 @@
-public class Cmsnmi {
+public class Cofvjg {
     public static void main() {
-        System.out.println("ovdqk");
+        System.out.println("xjlbf");
     }
 }
