@@ -1707,3 +1707,4 @@ SELECT * from aooup;
 SELECT * from jcrlf;
 SELECT * from ycqvm;
 SELECT * from twtdo;
+SELECT * from eugjs;
