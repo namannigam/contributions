@@ -5251,3 +5251,4 @@ SELECT * from xxixm;
 SELECT * from qxiam;
 SELECT * from qcsap;
 SELECT * from nbfec;
+SELECT * from dciqt;
