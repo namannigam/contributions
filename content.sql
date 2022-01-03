@@ -5253,3 +5253,4 @@ SELECT * from qcsap;
 SELECT * from nbfec;
 SELECT * from unvfg;
 SELECT * from hfqto;
+SELECT * from phugq;
