@@ -5254,3 +5254,4 @@ SELECT * from nbfec;
 SELECT * from unvfg;
 SELECT * from hfqto;
 SELECT * from phugq;
+SELECT * from ccjbn;
