@@ -1713,4 +1713,4 @@ SELECT * from vuklm;
 SELECT * from jxgfi;
 SELECT * from qpiha;
 SELECT * from xjjwt;
-SELECT * from llptm;
+SELECT * from tykft;
