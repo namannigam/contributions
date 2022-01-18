@@ -1714,3 +1714,4 @@ SELECT * from jxgfi;
 SELECT * from qpiha;
 SELECT * from xjjwt;
 SELECT * from ybvwt;
+SELECT * from mcliy;
