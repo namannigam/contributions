@@ -3481,4 +3481,4 @@ SELECT * from vmqwp;
 SELECT * from afsgc;
 SELECT * from uvysc;
 SELECT * from rdfmy;
-SELECT * from dlboe;
+SELECT * from wavsf;
