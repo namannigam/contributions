@@ -3483,3 +3483,4 @@ SELECT * from uvysc;
 SELECT * from rdfmy;
 SELECT * from wavsf;
 SELECT * from fiduq;
+SELECT * from cqbbq;
