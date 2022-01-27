@@ -5258,3 +5258,4 @@ SELECT * from lvfpe;
 SELECT * from iqnol;
 SELECT * from eesyd;
 SELECT * from kkraf;
+SELECT * from lxycs;
