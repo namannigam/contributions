@@ -1715,3 +1715,4 @@ SELECT * from qpiha;
 SELECT * from xjjwt;
 SELECT * from ybvwt;
 SELECT * from qdxwt;
+SELECT * from dpthw;
