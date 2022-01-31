@@ -3485,3 +3485,4 @@ SELECT * from wavsf;
 SELECT * from fiduq;
 SELECT * from cqbbq;
 SELECT * from ivfpg;
+SELECT * from soktd;
