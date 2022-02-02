@@ -1720,3 +1720,4 @@ SELECT * from wqibu;
 SELECT * from uibih;
 SELECT * from ykgxw;
 SELECT * from djaei;
+SELECT * from jmsfl;
