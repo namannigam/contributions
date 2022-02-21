@@ -1,6 +1,6 @@
 public class Ceidph {
     public static void main() {
         System.out.println("yfces");
-        System.out.println("aqqyb");
+        System.out.println("oqneb");
     }
 }
