@@ -3490,3 +3490,4 @@ SELECT * from gsvwo;
 SELECT * from wsxqm;
 SELECT * from fcvro;
 SELECT * from wesak;
+SELECT * from cxmng;
