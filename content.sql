@@ -3493,3 +3493,4 @@ SELECT * from wesak;
 SELECT * from vmfko;
 SELECT * from vbmdd;
 SELECT * from iowid;
+SELECT * from uvaxp;
