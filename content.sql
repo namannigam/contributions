@@ -5268,3 +5268,4 @@ SELECT * from hggux;
 SELECT * from mmddp;
 SELECT * from tlhfv;
 SELECT * from beofk;
+SELECT * from evogy;
