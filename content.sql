@@ -1726,3 +1726,4 @@ SELECT * from duuov;
 SELECT * from cakkh;
 SELECT * from mijdg;
 SELECT * from frxdr;
+SELECT * from jaknk;
