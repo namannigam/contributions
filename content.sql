@@ -3496,3 +3496,4 @@ SELECT * from iowid;
 SELECT * from uvaxp;
 SELECT * from nttyn;
 SELECT * from wxgag;
+SELECT * from cmyye;
