@@ -1729,3 +1729,4 @@ SELECT * from frxdr;
 SELECT * from jaknk;
 SELECT * from qrajo;
 SELECT * from anipr;
+SELECT * from ibejx;
