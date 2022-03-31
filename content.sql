@@ -5273,3 +5273,4 @@ SELECT * from apgbd;
 SELECT * from lnqgv;
 SELECT * from whbpx;
 SELECT * from girpm;
+SELECT * from oqgnl;
