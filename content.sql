@@ -3499,3 +3499,4 @@ SELECT * from wxgag;
 SELECT * from cmyye;
 SELECT * from pusfu;
 SELECT * from skbqg;
+SELECT * from dmlsg;
