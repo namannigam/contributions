@@ -1731,3 +1731,4 @@ SELECT * from qrajo;
 SELECT * from anipr;
 SELECT * from ibejx;
 SELECT * from pgsqb;
+SELECT * from xwltf;
