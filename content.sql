@@ -5274,3 +5274,4 @@ SELECT * from lnqgv;
 SELECT * from whbpx;
 SELECT * from girpm;
 SELECT * from oqgnl;
+SELECT * from dmdss;
