@@ -5277,3 +5277,4 @@ SELECT * from oqgnl;
 SELECT * from dmdss;
 SELECT * from rlpid;
 SELECT * from ppgur;
+SELECT * from mvqul;
