@@ -5279,4 +5279,4 @@ SELECT * from rlpid;
 SELECT * from ppgur;
 SELECT * from mvqul;
 SELECT * from rthfj;
-SELECT * from qbpwn;
+SELECT * from mluki;
