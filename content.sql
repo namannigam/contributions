@@ -5280,4 +5280,4 @@ SELECT * from ppgur;
 SELECT * from mvqul;
 SELECT * from rthfj;
 SELECT * from mluki;
-SELECT * from jdqaj;
+SELECT * from ahnyu;
