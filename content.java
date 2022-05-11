@@ -1,5 +1,5 @@
-public class Ckxwdm {
+public class Cehpfe {
     public static void main() {
-        System.out.println("oyrvl");
+        System.out.println("tqljq");
     }
 }
