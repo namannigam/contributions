@@ -1,5 +1,5 @@
-public class Cnaqnx {
+public class Cltwoc {
     public static void main() {
-        System.out.println("adfgx");
+        System.out.println("iqwgq");
     }
 }
