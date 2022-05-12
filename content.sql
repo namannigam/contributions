@@ -1738,4 +1738,4 @@ SELECT * from ijrbk;
 SELECT * from mejck;
 SELECT * from oeaov;
 SELECT * from fxmwd;
-SELECT * from uwgya;
+SELECT * from aidyr;
