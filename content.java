@@ -1,5 +1,5 @@
-public class Cehpfe {
+public class Ctcqsu {
     public static void main() {
-        System.out.println("tqljq");
+        System.out.println("qemcl");
     }
 }
