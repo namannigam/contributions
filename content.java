@@ -1,5 +1,5 @@
-public class Ctcqsu {
+public class Cswsmc {
     public static void main() {
-        System.out.println("qemcl");
+        System.out.println("adkfu");
     }
 }
