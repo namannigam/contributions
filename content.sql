@@ -1740,3 +1740,5 @@ SELECT * from oeaov;
 SELECT * from fxmwd;
 SELECT * from aidyr;
 SELECT * from syvby;
+SELECT * from danqv;
+SELECT * from miqhp;
