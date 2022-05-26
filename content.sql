@@ -3510,4 +3510,4 @@ SELECT * from okvwk;
 SELECT * from dbxkd;
 SELECT * from cpgye;
 SELECT * from jmxfl;
-SELECT * from nkply;
+SELECT * from bamqe;
