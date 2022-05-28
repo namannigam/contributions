@@ -1,6 +1,6 @@
 public class Cswsmc {
     public static void main() {
         System.out.println("adkfu");
-        System.out.println("tosbj");
+        System.out.println("rwwhc");
     }
 }
