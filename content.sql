@@ -1742,4 +1742,5 @@ SELECT * from aidyr;
 SELECT * from syvby;
 SELECT * from danqv;
 SELECT * from miqhp;
-SELECT * from njjru;
+SELECT * from nfohf;
+SELECT * from lrsqa;
