@@ -3510,4 +3510,5 @@ SELECT * from okvwk;
 SELECT * from dbxkd;
 SELECT * from cpgye;
 SELECT * from jmxfl;
-SELECT * from bamqe;
+SELECT * from soids;
+SELECT * from dewmb;
