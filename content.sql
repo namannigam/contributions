@@ -3512,3 +3512,4 @@ SELECT * from cpgye;
 SELECT * from jmxfl;
 SELECT * from soids;
 SELECT * from dewmb;
+SELECT * from jshnx;
