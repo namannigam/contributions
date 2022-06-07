@@ -1747,3 +1747,4 @@ SELECT * from lrsqa;
 SELECT * from qcloa;
 SELECT * from retgl;
 SELECT * from rijjf;
+SELECT * from drsrx;
