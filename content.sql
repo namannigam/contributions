@@ -3515,3 +3515,4 @@ SELECT * from dewmb;
 SELECT * from jshnx;
 SELECT * from gfscb;
 SELECT * from jkecn;
+SELECT * from osfet;
