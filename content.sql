@@ -1745,3 +1745,4 @@ SELECT * from miqhp;
 SELECT * from nfohf;
 SELECT * from lrsqa;
 SELECT * from qcloa;
+SELECT * from retgl;
