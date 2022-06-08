@@ -1748,3 +1748,4 @@ SELECT * from qcloa;
 SELECT * from retgl;
 SELECT * from rijjf;
 SELECT * from drsrx;
+SELECT * from wdthk;
