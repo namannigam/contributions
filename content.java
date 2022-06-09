@@ -1,5 +1,5 @@
-public class Cswsmc {
+public class Cnnpbn {
     public static void main() {
-        System.out.println("adkfu");
+        System.out.println("qnbif");
     }
 }
