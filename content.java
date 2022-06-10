@@ -1,5 +1,5 @@
-public class Cnnpbn {
+public class Cticlh {
     public static void main() {
-        System.out.println("qnbif");
+        System.out.println("qixmy");
     }
 }
