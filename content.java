@@ -1,5 +1,5 @@
-public class Cyhovf {
+public class Cvkdal {
     public static void main() {
-        System.out.println("qommu");
+        System.out.println("wwlww");
     }
 }
