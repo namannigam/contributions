@@ -1,5 +1,5 @@
-public class Cebeph {
+public class Cyhovf {
     public static void main() {
-        System.out.println("oyhck");
+        System.out.println("qommu");
     }
 }
