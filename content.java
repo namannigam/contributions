@@ -1,5 +1,5 @@
-public class Cltlep {
+public class Ctlagu {
     public static void main() {
-        System.out.println("lxkks");
+        System.out.println("shlnv");
     }
 }
