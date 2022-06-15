@@ -1,5 +1,5 @@
-public class Cvkdal {
+public class Cuqnfo {
     public static void main() {
-        System.out.println("wwlww");
+        System.out.println("ywvly");
     }
 }
