@@ -5293,4 +5293,4 @@ SELECT * from xjwya;
 SELECT * from igcyv;
 SELECT * from qgaeu;
 SELECT * from afsbl;
-SELECT * from seclq;
+SELECT * from rwuyn;
