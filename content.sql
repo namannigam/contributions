@@ -3519,3 +3519,4 @@ SELECT * from syyig;
 SELECT * from tcpkk;
 SELECT * from cldhn;
 SELECT * from kjxpf;
+SELECT * from yarmt;
