@@ -1,5 +1,5 @@
-public class Ctlagu {
+public class Cihsay {
     public static void main() {
-        System.out.println("shlnv");
+        System.out.println("ipoac");
     }
 }
