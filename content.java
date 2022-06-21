@@ -1,5 +1,5 @@
-public class Cihsay {
+public class Cgeqjw {
     public static void main() {
-        System.out.println("ipoac");
+        System.out.println("fqctl");
     }
 }
