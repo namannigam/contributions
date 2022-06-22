@@ -1,5 +1,5 @@
-public class Cosqdd {
+public class Cvrpfe {
     public static void main() {
-        System.out.println("chjee");
+        System.out.println("kwkma");
     }
 }
