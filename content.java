@@ -1,5 +1,5 @@
-public class Ccocka {
+public class Cosqdd {
     public static void main() {
-        System.out.println("owmny");
+        System.out.println("chjee");
     }
 }
