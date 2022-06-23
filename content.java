@@ -1,5 +1,5 @@
-public class Cvrpfe {
+public class Cbitpd {
     public static void main() {
-        System.out.println("kwkma");
+        System.out.println("cseqy");
     }
 }
