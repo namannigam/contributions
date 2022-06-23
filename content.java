@@ -1,5 +1,5 @@
-public class Cbitpd {
+public class Cxlpij {
     public static void main() {
-        System.out.println("cseqy");
+        System.out.println("lxlgo");
     }
 }
