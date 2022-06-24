@@ -1,5 +1,5 @@
-public class Cptekl {
+public class Ccahsd {
     public static void main() {
-        System.out.println("scvjn");
+        System.out.println("knckw");
     }
 }
