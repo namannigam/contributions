@@ -1,5 +1,5 @@
-public class Ccahsd {
+public class Cassyg {
     public static void main() {
-        System.out.println("knckw");
+        System.out.println("qhswm");
     }
 }
