@@ -1,5 +1,5 @@
-public class Chepsr {
+public class Cnwwjd {
     public static void main() {
-        System.out.println("oqpiq");
+        System.out.println("gnvaj");
     }
 }
