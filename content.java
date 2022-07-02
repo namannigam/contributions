@@ -1,5 +1,5 @@
-public class Cwltri {
+public class Coaveu {
     public static void main() {
-        System.out.println("iggmi");
+        System.out.println("guuxn");
     }
 }
