@@ -3520,3 +3520,4 @@ SELECT * from tcpkk;
 SELECT * from cldhn;
 SELECT * from kjxpf;
 SELECT * from envyn;
+SELECT * from wfnda;
