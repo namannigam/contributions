@@ -5296,3 +5296,4 @@ SELECT * from afsbl;
 SELECT * from rwuyn;
 SELECT * from xvgxf;
 SELECT * from glidt;
+SELECT * from soego;
