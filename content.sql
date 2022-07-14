@@ -1754,3 +1754,4 @@ SELECT * from tmnfo;
 SELECT * from owkwy;
 SELECT * from lqomn;
 SELECT * from mfaoc;
+SELECT * from ihggi;
