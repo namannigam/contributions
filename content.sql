@@ -3522,3 +3522,4 @@ SELECT * from kjxpf;
 SELECT * from envyn;
 SELECT * from wfnda;
 SELECT * from jeohk;
+SELECT * from tkkui;
