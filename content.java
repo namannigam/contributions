@@ -1,6 +1,6 @@
 public class Coaveu {
     public static void main() {
         System.out.println("guuxn");
-        System.out.println("ffnls");
+        System.out.println("gerjl");
     }
 }
