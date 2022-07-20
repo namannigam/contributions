@@ -3523,3 +3523,4 @@ SELECT * from envyn;
 SELECT * from wfnda;
 SELECT * from jeohk;
 SELECT * from tkkui;
+SELECT * from intjf;
