@@ -1,5 +1,5 @@
-public class Coaveu {
+public class Cseuud {
     public static void main() {
-        System.out.println("guuxn");
+        System.out.println("behqn");
     }
 }
