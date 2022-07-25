@@ -1,5 +1,5 @@
-public class Cmofpc {
+public class Cttpel {
     public static void main() {
-        System.out.println("adcvf");
+        System.out.println("yqybv");
     }
 }
