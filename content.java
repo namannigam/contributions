@@ -1,5 +1,5 @@
-public class Cvksyt {
+public class Cafqmq {
     public static void main() {
-        System.out.println("stovd");
+        System.out.println("xmeww");
     }
 }
