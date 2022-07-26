@@ -1,5 +1,5 @@
-public class Covxdm {
+public class Cvksyt {
     public static void main() {
-        System.out.println("phwwd");
+        System.out.println("stovd");
     }
 }
