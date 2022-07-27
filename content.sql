@@ -1757,3 +1757,4 @@ SELECT * from mfaoc;
 SELECT * from ihggi;
 SELECT * from xccji;
 SELECT * from gbltf;
+SELECT * from ooequ;
