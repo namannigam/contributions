@@ -1,5 +1,5 @@
-public class Cbitsv {
+public class Ctainb {
     public static void main() {
-        System.out.println("otrtn");
+        System.out.println("yikxt");
     }
 }
