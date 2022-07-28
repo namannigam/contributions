@@ -1,5 +1,5 @@
-public class Ctainb {
+public class Cjjgja {
     public static void main() {
-        System.out.println("yikxt");
+        System.out.println("tqlbc");
     }
 }
