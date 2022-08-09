@@ -1,5 +1,5 @@
-public class Crkruw {
+public class Clpenv {
     public static void main() {
-        System.out.println("bgram");
+        System.out.println("tjtge");
     }
 }
