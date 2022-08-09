@@ -1,5 +1,5 @@
-public class Chgjju {
+public class Crkruw {
     public static void main() {
-        System.out.println("galom");
+        System.out.println("bgram");
     }
 }
