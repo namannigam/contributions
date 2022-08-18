@@ -5302,4 +5302,4 @@ SELECT * from ibejt;
 SELECT * from evetd;
 SELECT * from sacrl;
 SELECT * from mjrnv;
-SELECT * from iqwbj;
+SELECT * from nchmi;
