@@ -5303,4 +5303,4 @@ SELECT * from evetd;
 SELECT * from sacrl;
 SELECT * from mjrnv;
 SELECT * from dswfp;
-SELECT * from vgids;
+SELECT * from vyvnl;
