@@ -3529,3 +3529,4 @@ SELECT * from iqkth;
 SELECT * from imkxj;
 SELECT * from vmiob;
 SELECT * from sptuc;
+SELECT * from hvtpd;
