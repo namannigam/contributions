@@ -1761,3 +1761,4 @@ SELECT * from ooequ;
 SELECT * from vfiav;
 SELECT * from peacy;
 SELECT * from lyyqb;
+SELECT * from jpsqt;
