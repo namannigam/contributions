@@ -3530,3 +3530,4 @@ SELECT * from imkxj;
 SELECT * from vmiob;
 SELECT * from sptuc;
 SELECT * from hvtpd;
+SELECT * from lsxpb;
