@@ -1762,3 +1762,4 @@ SELECT * from vfiav;
 SELECT * from peacy;
 SELECT * from kvwsx;
 SELECT * from vlbqy;
+SELECT * from nxxgi;
