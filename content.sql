@@ -5305,3 +5305,4 @@ SELECT * from mjrnv;
 SELECT * from dswfp;
 SELECT * from clmua;
 SELECT * from khsxw;
+SELECT * from nmvwd;
