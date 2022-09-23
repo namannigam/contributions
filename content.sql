@@ -5306,3 +5306,4 @@ SELECT * from dswfp;
 SELECT * from clmua;
 SELECT * from khsxw;
 SELECT * from nmvwd;
+SELECT * from hgxrq;
