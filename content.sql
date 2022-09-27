@@ -3532,3 +3532,4 @@ SELECT * from frkge;
 SELECT * from lufux;
 SELECT * from hlldw;
 SELECT * from rlhnk;
+SELECT * from yqptr;
