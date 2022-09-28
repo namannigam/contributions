@@ -1,4 +1,3 @@
 console.log("llpte")
 console.log("nxsrg")
 console.log("ammwk")
-console.log("nycdn")
