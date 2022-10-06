@@ -5308,4 +5308,4 @@ SELECT * from khsxw;
 SELECT * from nmvwd;
 SELECT * from hgxrq;
 SELECT * from pnybd;
-SELECT * from bnxbg;
+SELECT * from japum;
