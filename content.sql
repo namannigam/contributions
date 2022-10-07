@@ -3534,3 +3534,4 @@ SELECT * from hlldw;
 SELECT * from rlhnk;
 SELECT * from bewcs;
 SELECT * from rlnel;
+SELECT * from ombby;
