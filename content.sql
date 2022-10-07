@@ -5309,3 +5309,4 @@ SELECT * from nmvwd;
 SELECT * from hgxrq;
 SELECT * from pnybd;
 SELECT * from japum;
+SELECT * from thmuj;
