@@ -1766,4 +1766,5 @@ SELECT * from nxxgi;
 SELECT * from nlxvr;
 SELECT * from bcxqb;
 SELECT * from tmxld;
-SELECT * from sauwb;
+SELECT * from bwblt;
+SELECT * from ufpat;
