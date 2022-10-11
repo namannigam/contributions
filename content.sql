@@ -3534,4 +3534,5 @@ SELECT * from hlldw;
 SELECT * from rlhnk;
 SELECT * from bewcs;
 SELECT * from rlnel;
-SELECT * from mbgqu;
+SELECT * from nprev;
+SELECT * from oumiu;
