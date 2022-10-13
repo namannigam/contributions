@@ -5311,3 +5311,4 @@ SELECT * from pnybd;
 SELECT * from japum;
 SELECT * from qfetb;
 SELECT * from kpfte;
+SELECT * from wrois;
