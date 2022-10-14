@@ -3537,3 +3537,4 @@ SELECT * from rlnel;
 SELECT * from nprev;
 SELECT * from dsvqh;
 SELECT * from fqmdj;
+SELECT * from rblqa;
