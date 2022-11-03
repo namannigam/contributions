@@ -3538,3 +3538,4 @@ SELECT * from nprev;
 SELECT * from dsvqh;
 SELECT * from fqmdj;
 SELECT * from xlyyu;
+SELECT * from cltsm;
