@@ -1770,3 +1770,4 @@ SELECT * from bwblt;
 SELECT * from nehmq;
 SELECT * from jcnmt;
 SELECT * from ncuaf;
+SELECT * from icgxf;
