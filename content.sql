@@ -5314,3 +5314,4 @@ SELECT * from kpfte;
 SELECT * from wrois;
 SELECT * from metef;
 SELECT * from cpofu;
+SELECT * from vdgif;
