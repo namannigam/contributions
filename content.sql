@@ -1771,3 +1771,4 @@ SELECT * from nehmq;
 SELECT * from jcnmt;
 SELECT * from ncuaf;
 SELECT * from icgxf;
+SELECT * from tqsla;
