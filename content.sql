@@ -3542,3 +3542,4 @@ SELECT * from cltsm;
 SELECT * from vuhem;
 SELECT * from fnlur;
 SELECT * from srcvf;
+SELECT * from dkeav;
