@@ -3543,3 +3543,4 @@ SELECT * from vuhem;
 SELECT * from fnlur;
 SELECT * from srcvf;
 SELECT * from edugr;
+SELECT * from ptcog;
