@@ -1776,4 +1776,3 @@ SELECT * from heymm;
 SELECT * from ymear;
 SELECT * from uwekg;
 SELECT * from pgyrn;
-SELECT * from ffgdq;
