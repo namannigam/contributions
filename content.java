@@ -9,6 +9,5 @@ public class Clwyfd {
         System.out.println("gltlw");
         System.out.println("tdeip");
         System.out.println("nipyl");
-        System.out.println("qtcbp");
     }
 }
