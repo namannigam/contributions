@@ -1,5 +1,5 @@
-public class Cxpmkc {
+public class Cnmjwo {
     public static void main() {
-        System.out.println("lsgli");
+        System.out.println("pgstb");
     }
 }
