@@ -1,5 +1,5 @@
-public class Cuaslj {
+public class Cxpmkc {
     public static void main() {
-        System.out.println("fhmao");
+        System.out.println("lsgli");
     }
 }
