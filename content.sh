@@ -1,1 +1,1 @@
-echo "vscfi"
+echo "lcsnp"
