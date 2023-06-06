@@ -1,5 +1,5 @@
-public class Cjaqbt {
+public class Ccdevm {
     public static void main() {
-        System.out.println("cblln");
+        System.out.println("raurt");
     }
 }
