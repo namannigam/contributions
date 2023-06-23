@@ -1,5 +1,5 @@
-public class Csooma {
+public class Cpavnn {
     public static void main() {
-        System.out.println("vphoa");
+        System.out.println("cpuuq");
     }
 }
