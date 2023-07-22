@@ -1776,3 +1776,5 @@ SELECT * from heymm;
 SELECT * from ymear;
 SELECT * from uwekg;
 SELECT * from gwxib;
+SELECT * from apsso;
+SELECT * from smrkb;
