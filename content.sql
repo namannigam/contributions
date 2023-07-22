@@ -3544,3 +3544,5 @@ SELECT * from fnlur;
 SELECT * from srcvf;
 SELECT * from edugr;
 SELECT * from wugsx;
+SELECT * from gtnla;
+SELECT * from lbsfi;
