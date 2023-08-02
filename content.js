@@ -1,1 +1,1 @@
-console.log("shyto")
+console.log("lcktv")
