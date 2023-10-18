@@ -9035,6 +9035,5 @@ public class Clwyfd {
         System.out.println("ptgyi");
         System.out.println("trhti");
         System.out.println("ovexy");
-        System.out.println("batij");
     }
 }
