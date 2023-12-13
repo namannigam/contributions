@@ -3545,4 +3545,4 @@ SELECT * from srcvf;
 SELECT * from edugr;
 SELECT * from wugsx;
 SELECT * from gtnla;
-SELECT * from bstqh;
+SELECT * from kites;
