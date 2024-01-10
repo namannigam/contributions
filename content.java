@@ -8,6 +8,5 @@ public class Clwyfd {
         System.out.println("nnndd");
         System.out.println("bfylv");
         System.out.println("lpahb");
-        System.out.println("oamut");
     }
 }
