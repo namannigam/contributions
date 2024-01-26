@@ -4422,7 +4422,6 @@ public class Clwyfd {
         System.out.println("ptydx");
         System.out.println("mgqpd");
         System.out.println("uiuvw");
-        System.out.println("lemxv");
-        System.out.println("ysqnv");
+        System.out.println("iqunp");
     }
 }
