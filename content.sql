@@ -3546,4 +3546,4 @@ SELECT * from edugr;
 SELECT * from wugsx;
 SELECT * from gtnla;
 SELECT * from jsqko;
-SELECT * from cjgnx;
+SELECT * from ptbkx;
