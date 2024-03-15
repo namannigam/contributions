@@ -4490,5 +4490,7 @@ public class Clwyfd {
         System.out.println("ncskn");
         System.out.println("rfmmb");
         System.out.println("pulmb");
+        System.out.println("twknc");
+        System.out.println("gvxux");
     }
 }
