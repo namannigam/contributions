@@ -9305,7 +9305,7 @@ public class Clwyfd {
         System.out.println("pcoth");
         System.out.println("osxjm");
         System.out.println("uiogp");
-        System.out.println("waguu");
-        System.out.println("jcnjt");
+        System.out.println("dptwr");
+        System.out.println("dtvpk");
     }
 }
