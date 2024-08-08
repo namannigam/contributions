@@ -4665,5 +4665,6 @@ public class Clwyfd {
         System.out.println("cuwvr");
         System.out.println("ltcih");
         System.out.println("vcmtl");
+        System.out.println("udotv");
     }
 }
