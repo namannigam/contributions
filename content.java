@@ -36,6 +36,5 @@ public class Clwyfd {
         System.out.println("hjdfw");
         System.out.println("siwof");
         System.out.println("btpix");
-        System.out.println("ekviq");
     }
 }
