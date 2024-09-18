@@ -9449,7 +9449,6 @@ public class Clwyfd {
         System.out.println("pnntu");
         System.out.println("pdxis");
         System.out.println("dacqe");
-        System.out.println("wylhw");
-        System.out.println("weqip");
+        System.out.println("hwspy");
     }
 }
