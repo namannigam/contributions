@@ -40,6 +40,5 @@ public class Clwyfd {
         System.out.println("ixryg");
         System.out.println("oedky");
         System.out.println("aayfa");
-        System.out.println("hnerq");
     }
 }
