@@ -4852,7 +4852,5 @@ public class Clwyfd {
         System.out.println("qhpai");
         System.out.println("tajpb");
         System.out.println("urrwv");
-        System.out.println("puvpo");
-        System.out.println("casvg");
     }
 }
