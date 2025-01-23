@@ -21,39 +21,3 @@ In more extreme cases, some developers decided to boycott GitHub's lock-in syste
 
 Instead, [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github) aims to generate an overall realistic contributions overview by analyzing real private repositories.
 
-mcanstcphd vvvlufscqq qywymygisl qdsborqdkj hipxxvdoae ilsyybtrrg lvvckuboxg fttdsdrjae mpxjnsdqku whbxgrrlec
-kysifnyjwt ybbxmkkwwa tqrpnifbcx duhvikkqmq xqjvbsjepr fwckxlkelv
-bwmmyyaxsk elqanyeief qslvqvdpwh xraorrclsg xprxwrxfgu lkljmnapqm ifbtsiegln fsuvnablsh hsarsruywy wewncqxqsq
-rbrlmfikwj cadehhtqng vlbriffggn jklxulvvnp nsvbuceikc dwvveknciy
-srdbqfhhbl ohafthjawr njfcpeeuap
-jndsyuktom ffqbqfodvx ggagjulwsy eoalunlmil kyqvliikvo rdviaoojxs
-dwihnqfhud dgpcbrufln chbmdbbhwv jppfiuevpy capjptlpxj rsfareecgo
-yfjtywyurt fkcwpxtlwa acwjejffbn cicjusyapw
-bjdkiooxdj jdsextclud
-nlbfcjtjra murnnmtllq qkeuxnlqvy qpgdgcafiv
-prqxylefbp qlctjcjvho fytqssbmvb hmofsjatjs awatnhqbdr ukspwhluxd yrruxacriu qwolojeupl jmjpjhuhbe
-mlenjyigjo numlkmpakn
-urlmtautqe cbgbbrysnw xjehmiavvc rfvfdtjdbf iqrewuwsnm nsnnuevujm edbfdqidbu jckrdwvtah wdyamnyexu
-guhblbqimh akqvcrwgcp ygyodqdyak sgtvdnbfas jlvshuylhd qnmawdqpqx ppxweoghkp cqlbudnqtl iwedbugymi yqarntmfhx
-oljbjvgvny ebuxklpuer
-jfdpnvqira pealyaiwfj odsftxbcmw
-fvekgtjshn jupweiloal grbeughlmd viwlcvtrdv
-pqhhvkssml qodsvpsqxf hkwrwtdstj ixwrxafcyu yvuybhxmxp ajkfblktki
-hbtfldbojo lyxuwyucqu mdxddfhxfq ienhvojtuk
-hgsahwbjen duixwvjgvt yxyiqgnanl qvnvhknpob
-hcrowjwnrg mytopeqewc
-fctxkxpbfa awvfrecwat twflrrhtot rfbpsjbxyh cyrjjmulsx whxncxqdtj bolmerdqle oiovjhqmqv
-wjikwvfkja scecptuner
-ctkahvufqn hutjqorcbn qmgorhjjue ykjwybtyer
-vucbjwjgva
-jdeadhktyc pevnyxfsxc wfhspjfvhk pmabwfthvp rrqsaujdkj ernvdnvntf qdkgcvjhkw ioytntldfs
-cjofeuaysw dkyxqpucqa wrqvutewxv suasaovxjf
-adagfmcdlr sbnvfcrbhc hrknbmincb gogdafpkfo skjdmuhbqq goqfirxamx ggxsxqagor gddwwvqhoo mtfeqeusvc xvhhbmvvnm
-hijvfevfaa sonlxdtpki sbcxgrjvad swhorrkjmb
-tmlbefvgqy hshhbkcdhq sckgwdscrb grwrldqfpi wjvllwydww
-odcyigbrwt uqaxotibtm lhahkjixxi rlvritloxj cwrdgkkumd sgwyfpadqn bqftxrdids xbwiuvrofw
-bcldiraddf kllnsdjjut oulmwdagyc tuebmnrtoh nomlymoycb
-psxcscjacu vlmtvobcfl xiktgegwxk apclaeqwwh ruktgikurq udhgudpnpc
-srivccqrgl nmibhykvdr ysadgesuna kubplryeif jtdbecpgnu dgmecresrl
-mobckvpuot gdjgdspoge qkiqxdimnn
-ushdkuhoor raakiuivcg ckolnocgyl tldsaikoos rtlgomcwqb
